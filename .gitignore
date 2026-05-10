@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+
+data/admin*.json
+data/private*.json
+data/raw*.json
+data/*secret*.json

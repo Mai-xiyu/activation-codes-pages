@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>StarX 激活码看板</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">StarX Codes</p>
+        <h1>激活码发放看板</h1>
+      </div>
+      <div class="sync-box" aria-live="polite">
+        <span class="sync-label">最后同步</span>
+        <strong id="updatedAt">--</strong>
+      </div>
+    </header>
+
+    <section class="summary-grid" aria-label="激活码统计">
+      <article class="metric metric-total">
+        <span>总数</span>
+        <strong id="totalCount">0</strong>
+      </article>
+      <article class="metric metric-active">
+        <span>可用</span>
+        <strong id="activeCount">0</strong>
+      </article>
+      <article class="metric metric-used">
+        <span>已用</span>
+        <strong id="usedCount">0</strong>
+      </article>
+      <article class="metric metric-expired">
+        <span>过期/停用</span>
+        <strong id="closedCount">0</strong>
+      </article>
+    </section>
+
+    <section class="toolbar" aria-label="筛选">
+      <label class="search-wrap">
+        <span class="sr-only">搜索激活码</span>
+        <input id="searchInput" type="search" autocomplete="off" placeholder="搜索激活码、套餐、备注">
+      </label>
+      <div class="segments" role="tablist" aria-label="状态筛选">
+        <button class="segment active" type="button" data-status="all">全部</button>
+        <button class="segment" type="button" data-status="active">可用</button>
+        <button class="segment" type="button" data-status="used">已用</button>
+        <button class="segment" type="button" data-status="expired">过期</button>
+        <button class="segment" type="button" data-status="revoked">停用</button>
+      </div>
+    </section>
+
+    <section class="table-shell" aria-label="当前发放的激活码">
+      <div class="table-head">
+        <span>激活码</span>
+        <span>状态</span>
+        <span>套餐</span>
+        <span>发放时间</span>
+        <span>到期时间</span>
+        <span>使用量</span>
+      </div>
+      <div id="codeList" class="code-list" aria-live="polite"></div>
+      <div id="emptyState" class="empty-state" hidden>
+        <strong>暂无可显示数据</strong>
+        <span>等待公开数据文件生成后自动显示。</span>
+      </div>
+    </section>
+  </main>
+
+  <template id="codeRowTemplate">
+    <article class="code-row">
+      <div class="code-main">
+        <button class="copy-button" type="button" aria-label="复制激活码"></button>
+        <div>
+          <strong class="code-text"></strong>
+          <span class="code-label"></span>
+        </div>
+      </div>
+      <span class="status-pill"></span>
+      <span class="plan-text"></span>
+      <time class="issued-at"></time>
+      <time class="expires-at"></time>
+      <span class="usage-text"></span>
+    </article>
+  </template>
+
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
