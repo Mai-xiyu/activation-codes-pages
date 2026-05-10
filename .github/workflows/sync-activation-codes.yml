@@ -1,0 +1,39 @@
+name: Sync activation codes
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/30 * * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Generate public activation code data
+        env:
+          ACTIVATION_CODES_ENDPOINT: ${{ secrets.ACTIVATION_CODES_ENDPOINT }}
+          ACTIVATION_CODES_TOKEN: ${{ secrets.ACTIVATION_CODES_TOKEN }}
+        run: node scripts/sync-activation-codes.mjs
+
+      - name: Commit updated public data
+        run: |
+          if git diff --quiet -- data/activation-codes.json; then
+            echo "No data changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/activation-codes.json
+          git commit -m "chore(data): sync public activation codes"
+          git push

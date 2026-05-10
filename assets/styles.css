@@ -1,0 +1,411 @@
+:root {
+  --bg: #f6f7f4;
+  --surface: #ffffff;
+  --surface-soft: #eef4f0;
+  --ink: #18201f;
+  --muted: #65706d;
+  --line: #d9dfdb;
+  --active: #0c7c59;
+  --active-soft: #dff3ea;
+  --used: #7059a8;
+  --used-soft: #eee9fb;
+  --expired: #9a5a16;
+  --expired-soft: #f8ead8;
+  --revoked: #a33d45;
+  --revoked-soft: #fae4e6;
+  --shadow: 0 20px 50px rgba(33, 43, 38, 0.08);
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(180deg, #fbfcfa 0%, var(--bg) 38%, #f0f3f1 100%);
+  color: var(--ink);
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.shell {
+  width: min(1180px, calc(100vw - 32px));
+  margin: 0 auto;
+  padding: 32px 0 48px;
+}
+
+.topbar {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 24px;
+  margin-bottom: 24px;
+}
+
+.eyebrow {
+  margin: 0 0 6px;
+  color: var(--active);
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(28px, 4vw, 42px);
+  line-height: 1.1;
+  letter-spacing: 0;
+}
+
+.sync-box {
+  display: grid;
+  gap: 4px;
+  min-width: 180px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.75);
+  box-shadow: var(--shadow);
+}
+
+.sync-label {
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.sync-box strong {
+  font-size: 14px;
+}
+
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.metric {
+  display: grid;
+  gap: 8px;
+  min-height: 104px;
+  padding: 18px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.metric span {
+  color: var(--muted);
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.metric strong {
+  align-self: end;
+  font-size: 34px;
+  line-height: 1;
+}
+
+.metric-total {
+  border-top: 4px solid #303a36;
+}
+
+.metric-active {
+  border-top: 4px solid var(--active);
+}
+
+.metric-used {
+  border-top: 4px solid var(--used);
+}
+
+.metric-expired {
+  border-top: 4px solid var(--expired);
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  margin-bottom: 16px;
+}
+
+.search-wrap {
+  flex: 1;
+}
+
+.search-wrap input {
+  width: 100%;
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  color: var(--ink);
+  outline: none;
+  padding: 0 14px;
+  box-shadow: 0 8px 22px rgba(33, 43, 38, 0.05);
+}
+
+.search-wrap input:focus {
+  border-color: var(--active);
+  box-shadow: 0 0 0 4px rgba(12, 124, 89, 0.14);
+}
+
+.segments {
+  display: inline-flex;
+  gap: 4px;
+  padding: 4px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface-soft);
+}
+
+.segment {
+  min-height: 36px;
+  border: 0;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--muted);
+  cursor: pointer;
+  padding: 0 12px;
+  white-space: nowrap;
+}
+
+.segment.active {
+  background: var(--surface);
+  color: var(--ink);
+  box-shadow: 0 8px 18px rgba(33, 43, 38, 0.08);
+}
+
+.table-shell {
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+}
+
+.table-head,
+.code-row {
+  display: grid;
+  grid-template-columns: minmax(260px, 1.55fr) 110px minmax(120px, 0.8fr) 150px 150px 110px;
+  align-items: center;
+  gap: 14px;
+}
+
+.table-head {
+  min-height: 46px;
+  padding: 0 18px;
+  border-bottom: 1px solid var(--line);
+  background: #f8faf8;
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.code-list {
+  display: grid;
+}
+
+.code-row {
+  min-height: 72px;
+  padding: 12px 18px;
+  border-bottom: 1px solid var(--line);
+}
+
+.code-row:last-child {
+  border-bottom: 0;
+}
+
+.code-main {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-width: 0;
+}
+
+.copy-button {
+  width: 34px;
+  height: 34px;
+  flex: 0 0 auto;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--surface-soft);
+  color: var(--ink);
+  cursor: pointer;
+  position: relative;
+}
+
+.copy-button::before,
+.copy-button::after {
+  content: "";
+  position: absolute;
+  border: 2px solid currentColor;
+  border-radius: 3px;
+}
+
+.copy-button::before {
+  width: 11px;
+  height: 13px;
+  left: 9px;
+  top: 11px;
+}
+
+.copy-button::after {
+  width: 11px;
+  height: 13px;
+  left: 13px;
+  top: 8px;
+  background: var(--surface-soft);
+}
+
+.copy-button.copied {
+  background: var(--active-soft);
+  color: var(--active);
+}
+
+.code-text {
+  display: block;
+  overflow-wrap: anywhere;
+  font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace;
+  font-size: 15px;
+  letter-spacing: 0;
+}
+
+.code-label {
+  display: block;
+  margin-top: 3px;
+  color: var(--muted);
+  font-size: 12px;
+  overflow-wrap: anywhere;
+}
+
+.status-pill {
+  justify-self: start;
+  border-radius: 999px;
+  padding: 6px 10px;
+  font-size: 12px;
+  font-weight: 800;
+}
+
+.status-active {
+  background: var(--active-soft);
+  color: var(--active);
+}
+
+.status-used {
+  background: var(--used-soft);
+  color: var(--used);
+}
+
+.status-expired {
+  background: var(--expired-soft);
+  color: var(--expired);
+}
+
+.status-revoked {
+  background: var(--revoked-soft);
+  color: var(--revoked);
+}
+
+.plan-text,
+.issued-at,
+.expires-at,
+.usage-text {
+  color: var(--muted);
+  font-size: 13px;
+  overflow-wrap: anywhere;
+}
+
+.empty-state {
+  display: grid;
+  place-items: center;
+  gap: 6px;
+  min-height: 180px;
+  color: var(--muted);
+  text-align: center;
+}
+
+.empty-state strong {
+  color: var(--ink);
+  font-size: 16px;
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@media (max-width: 920px) {
+  .topbar,
+  .toolbar {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .summary-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .segments {
+    width: 100%;
+    overflow-x: auto;
+  }
+
+  .table-head {
+    display: none;
+  }
+
+  .code-list {
+    gap: 10px;
+    padding: 12px;
+    background: #f9fbfa;
+  }
+
+  .code-row {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    min-height: auto;
+    padding: 14px;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    background: var(--surface);
+  }
+
+  .status-pill,
+  .plan-text,
+  .issued-at,
+  .expires-at,
+  .usage-text {
+    justify-self: start;
+  }
+}
+
+@media (max-width: 560px) {
+  .shell {
+    width: min(100vw - 20px, 1180px);
+    padding-top: 20px;
+  }
+
+  .summary-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .metric {
+    min-height: 86px;
+  }
+}
