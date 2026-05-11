@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-11T07:37:14.120Z",
+  "updatedAt": "2026-05-11T08:07:00.706Z",
   "publicFields": [
     "code",
     "status",
@@ -15,14 +15,14 @@
   "codes": [
     {
       "code": "STARX-2QRB-MAE5-WP5U",
-      "status": "active",
+      "status": "used",
       "plan": "90 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1778327148157",
-      "expiresAt": "",
+      "expiresAt": "2026-08-09T07:53:41.593Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GW8J-JTVR-2AGM",
@@ -1786,14 +1786,14 @@
     },
     {
       "code": "STARX-4J46-X697-LCLY",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714760335",
-      "expiresAt": "",
+      "expiresAt": "2026-06-10T07:45:14.511Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-E4FG-5F4K-97UU",
