@@ -33,30 +33,44 @@
 
 1. 推送这个仓库到 GitHub。
 2. 在仓库 Settings -> Secrets and variables -> Actions 添加：
-   - `ACTIVATION_CODES_ENDPOINT`：后台只读接口地址
-   - `ACTIVATION_CODES_TOKEN`：后台只读接口 Token
+  - `ACTIVATION_CODES_ENDPOINT`：`https://starxserver.vercel.app/api/admin/list`
+  - `ACTIVATION_CODES_TOKEN`：StarX 管理密钥。当前代码里对应 `StarXManager/manager_gui.py` 的 `ADMIN_SECRET`。
 3. 在 Actions 手动运行 `Sync activation codes`，确认 `data/activation-codes.json` 被更新。
 4. 在 Settings -> Pages 选择 `Deploy from a branch`，分支选 `main`，目录选 `/root`。
 
+当前 StarX 服务器没有单独的公开只读接口；管理工具也是通过 `POST /api/admin/list` 加 `Authorization: Bearer <ADMIN_SECRET>` 获取列表。同步脚本会在 GitHub Actions 里使用 Secret 调接口，然后只把公开白名单字段写入 `data/activation-codes.json`。管理员密钥、设备 ID、后台原始响应不会写入前端仓库。
+
 ## 后台接口格式
 
-同步脚本支持数组，或对象中的 `codes` / `data` / `items` 数组：
+同步脚本支持数组，或对象中的 `codes` / `data` / `items` 数组。当前 StarX 管理接口返回字段类似：
 
 ```json
 {
+  "ok": true,
   "codes": [
     {
       "code": "STARX-XXXX-XXXX",
-      "status": "active",
-      "plan": "Pro",
-      "label": "公开发放",
-      "issuedAt": "2026-05-10T00:00:00.000Z",
-      "expiresAt": "2026-06-10T00:00:00.000Z",
-      "maxUses": 1,
-      "usedCount": 0
+      "duration_days": 30,
+      "device_id": "设备指纹，只在后台响应里存在，不会写入公开 JSON",
+      "activated_at": 1778400000000
     }
   ]
 }
 ```
 
-脚本会丢弃非白名单字段，不会把后台原始响应写入仓库。
+脚本会把它转换成：
+
+```json
+{
+  "code": "STARX-XXXX-XXXX",
+  "status": "used",
+  "plan": "30 天",
+  "label": "已绑定设备",
+  "expiresAt": "2026-06-10T00:00:00.000Z",
+  "maxUses": 1,
+  "remainingUses": 0,
+  "usedCount": 1
+}
+```
+
+脚本会丢弃非白名单字段，不会把 `device_id`、管理员密钥或后台原始响应写入仓库。
