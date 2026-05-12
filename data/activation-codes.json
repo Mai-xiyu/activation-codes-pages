@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-12T16:17:00.834Z",
+  "updatedAt": "2026-05-12T17:13:53.578Z",
   "publicFields": [
     "code",
     "status",
@@ -840,14 +840,14 @@
     },
     {
       "code": "STARX-MLHA-QG37-T5XQ",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714762908",
-      "expiresAt": "",
+      "expiresAt": "2026-06-11T16:26:14.697Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LX8B-BWTQ-UD8D",
@@ -1082,14 +1082,14 @@
     },
     {
       "code": "STARX-5WDW-ZASS-R6ZA",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714762221",
-      "expiresAt": "",
+      "expiresAt": "2026-06-11T16:37:53.994Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RLZS-9PZ7-A3RK",
