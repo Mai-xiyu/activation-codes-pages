@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-12T12:09:30.248Z",
+  "updatedAt": "2026-05-12T13:10:44.833Z",
   "publicFields": [
     "code",
     "status",
@@ -719,14 +719,14 @@
     },
     {
       "code": "STARX-WQCY-VVAV-XZHW",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714763421",
-      "expiresAt": "",
+      "expiresAt": "2026-06-11T12:43:41.838Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-7EEV-XSTR-4R78",
