@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-11T23:45:52.161Z",
+  "updatedAt": "2026-05-12T00:17:27.504Z",
   "publicFields": [
     "code",
     "status",
@@ -345,14 +345,14 @@
     },
     {
       "code": "STARX-ABYT-X2XK-C6E2",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714765143",
-      "expiresAt": "",
+      "expiresAt": "2026-06-11T00:13:53.416Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-DW2W-67G6-SNZL",
