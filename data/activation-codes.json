@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-12T05:09:08.273Z",
+  "updatedAt": "2026-05-12T06:26:37.390Z",
   "publicFields": [
     "code",
     "status",
@@ -477,14 +477,14 @@
     },
     {
       "code": "STARX-HYTJ-YF36-2ADL",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714764450",
-      "expiresAt": "",
+      "expiresAt": "2026-06-11T06:19:33.439Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ESME-WV63-NHXR",
@@ -6780,14 +6780,14 @@
     },
     {
       "code": "STARX-GLUA-QRLQ-72DR",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751481",
-      "expiresAt": "",
+      "expiresAt": "2026-06-11T05:23:59.194Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-65KE-ET6U-N2UV",
