@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-13T15:27:29.456Z",
+  "updatedAt": "2026-05-13T16:18:23.739Z",
   "publicFields": [
     "code",
     "status",
@@ -1324,14 +1324,14 @@
     },
     {
       "code": "STARX-JDX7-BPMU-233X",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714761535",
-      "expiresAt": "",
+      "expiresAt": "2026-06-12T15:32:21.371Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WYJK-29NT-4PSS",
@@ -3183,14 +3183,14 @@
     },
     {
       "code": "STARX-VGKK-R4KR-KA9H",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757407",
-      "expiresAt": "",
+      "expiresAt": "2026-06-12T15:54:45.752Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-A49U-XZ3G-DWNS",
@@ -5284,14 +5284,14 @@
     },
     {
       "code": "STARX-2VYP-3C4X-4E7Q",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714753808",
-      "expiresAt": "",
+      "expiresAt": "2026-06-12T16:17:05.596Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GKR6-WHZK-X52T",
@@ -9255,14 +9255,14 @@
     },
     {
       "code": "STARX-UZHA-WR8D-VACT",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714746756",
-      "expiresAt": "",
+      "expiresAt": "2026-06-12T15:55:01.357Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2G3H-LDYT-AQU6",
