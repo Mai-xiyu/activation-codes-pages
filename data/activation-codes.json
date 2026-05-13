@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-13T18:13:24.496Z",
+  "updatedAt": "2026-05-13T19:06:40.248Z",
   "publicFields": [
     "code",
     "status",
@@ -1478,25 +1478,25 @@
     },
     {
       "code": "STARX-LZZ8-3G7B-35US",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714761024",
-      "expiresAt": "",
+      "expiresAt": "2026-06-12T18:15:03.476Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TPC4-SHCF-D7YW",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714761024",
-      "expiresAt": "",
+      "expiresAt": "2026-06-12T18:14:48.692Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4F4Y-D5GE-YQ35",
