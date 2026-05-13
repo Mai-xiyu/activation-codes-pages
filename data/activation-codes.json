@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-13T10:15:46.237Z",
+  "updatedAt": "2026-05-13T11:17:31.752Z",
   "publicFields": [
     "code",
     "status",
@@ -1599,14 +1599,14 @@
     },
     {
       "code": "STARX-VQJF-4UK9-FPLT",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714760686",
-      "expiresAt": "",
+      "expiresAt": "2026-06-12T11:06:45.641Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5FHA-27DE-HG6N",
