@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-13T00:18:12.526Z",
+  "updatedAt": "2026-05-13T01:17:57.443Z",
   "publicFields": [
     "code",
     "status",
@@ -950,14 +950,14 @@
     },
     {
       "code": "STARX-UBUS-G9H5-98RC",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714762567",
-      "expiresAt": "",
+      "expiresAt": "2026-06-12T01:16:49.298Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-YSYP-6WZG-WTL3",
