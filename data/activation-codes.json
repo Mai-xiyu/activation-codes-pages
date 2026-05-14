@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-14T06:33:06.140Z",
+  "updatedAt": "2026-05-14T07:54:03.491Z",
   "publicFields": [
     "code",
     "status",
@@ -1522,14 +1522,14 @@
     },
     {
       "code": "STARX-EVDG-2Y2P-QMDC",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714761023",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T06:58:25.601Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NG5N-MSFS-347F",
@@ -2061,14 +2061,14 @@
     },
     {
       "code": "STARX-6RWM-7HBA-6GB2",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714759649",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T07:47:48.194Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8QLB-ZG4E-P9U3",
