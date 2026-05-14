@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-14T05:12:52.818Z",
+  "updatedAt": "2026-05-14T06:33:06.140Z",
   "publicFields": [
     "code",
     "status",
@@ -1511,14 +1511,14 @@
     },
     {
       "code": "STARX-9FBA-8XYE-XBD7",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714761023",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T06:05:51.624Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EVDG-2Y2P-QMDC",
@@ -1654,14 +1654,14 @@
     },
     {
       "code": "STARX-6A8R-55KT-SMWA",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714760678",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T06:22:36.226Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ZZLB-DVXH-27V7",
