@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-14T17:08:41.892Z",
+  "updatedAt": "2026-05-14T18:07:26.337Z",
   "publicFields": [
     "code",
     "status",
@@ -1742,14 +1742,14 @@
     },
     {
       "code": "STARX-7695-ZU9M-YBDN",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714760337",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T18:04:09.395Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FVYT-LNBR-38JP",
