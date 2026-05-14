@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-14T15:15:22.678Z",
+  "updatedAt": "2026-05-14T16:13:04.299Z",
   "publicFields": [
     "code",
     "status",
@@ -1731,14 +1731,14 @@
     },
     {
       "code": "STARX-SRCY-348M-V9XV",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714760342",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T15:45:28.143Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-7695-ZU9M-YBDN",
@@ -1874,14 +1874,14 @@
     },
     {
       "code": "STARX-CTV9-SK3K-P6GF",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714760092",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T15:18:15.233Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VKK8-6RWR-6LNM",
