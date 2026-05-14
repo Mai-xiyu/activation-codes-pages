@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-14T18:07:26.337Z",
+  "updatedAt": "2026-05-14T19:06:31.102Z",
   "publicFields": [
     "code",
     "status",
@@ -1830,14 +1830,14 @@
     },
     {
       "code": "STARX-56RH-ANRR-F25L",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714760165",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T18:34:31.713Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6JUM-B5HD-X74M",
@@ -1885,14 +1885,14 @@
     },
     {
       "code": "STARX-VKK8-6RWR-6LNM",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714759996",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T18:52:10.936Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KPLH-TT88-3FY3",
