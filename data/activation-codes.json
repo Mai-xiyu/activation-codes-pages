@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-13T23:46:14.557Z",
+  "updatedAt": "2026-05-14T00:20:01.441Z",
   "publicFields": [
     "code",
     "status",
@@ -1379,14 +1379,14 @@
     },
     {
       "code": "STARX-DHBD-FRVR-PCWW",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714761365",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T00:04:52.821Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2TKS-5WWK-6FJT",
