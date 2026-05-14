@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-14T12:29:18.957Z",
+  "updatedAt": "2026-05-14T13:10:01.068Z",
   "publicFields": [
     "code",
     "status",
@@ -1698,14 +1698,14 @@
     },
     {
       "code": "STARX-NL2R-V9YZ-WVHE",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714760508",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T12:44:45.935Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WZH7-AXTL-2JVC",
@@ -1764,14 +1764,14 @@
     },
     {
       "code": "STARX-KMWT-HEWR-9Q75",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714760336",
-      "expiresAt": "",
+      "expiresAt": "2026-06-13T12:48:03.598Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WRAS-TT6M-6J3N",
