@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-15T10:15:25.259Z",
+  "updatedAt": "2026-05-15T11:15:27.503Z",
   "publicFields": [
     "code",
     "status",
@@ -15772,17 +15772,6 @@
       "label": "已绑定设备",
       "issuedAt": "1776231367003",
       "expiresAt": "2026-05-23T23:58:56.576Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-EGGR-SRWY-X262",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231366831",
-      "expiresAt": "2026-05-15T11:00:52.442Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
