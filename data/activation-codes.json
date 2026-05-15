@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-15T18:44:34.494Z",
+  "updatedAt": "2026-05-15T19:29:24.966Z",
   "publicFields": [
     "code",
     "status",
@@ -2193,14 +2193,14 @@
     },
     {
       "code": "STARX-9Q3W-GDUM-M4W2",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714759308",
-      "expiresAt": "",
+      "expiresAt": "2026-06-14T19:09:07.521Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HYNA-YNJD-TXVP",
@@ -2215,14 +2215,14 @@
     },
     {
       "code": "STARX-FXFQ-4CPD-GX7D",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714759306",
-      "expiresAt": "",
+      "expiresAt": "2026-06-14T19:23:24.268Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-J7CN-UDUE-TZXA",
