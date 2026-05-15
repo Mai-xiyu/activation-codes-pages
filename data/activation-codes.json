@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-15T07:57:58.249Z",
+  "updatedAt": "2026-05-15T09:11:17.762Z",
   "publicFields": [
     "code",
     "status",
@@ -2127,14 +2127,14 @@
     },
     {
       "code": "STARX-U5RC-R6WJ-QW7G",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714759480",
-      "expiresAt": "",
+      "expiresAt": "2026-06-14T09:04:53.154Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-BLY5-R6QB-DE84",
@@ -15530,17 +15530,6 @@
       "label": "已绑定设备",
       "issuedAt": "1776231371964",
       "expiresAt": "2026-05-24T02:58:12.576Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-ADJJ-XHPH-HH8Z",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231371280",
-      "expiresAt": "2026-05-15T08:38:18.682Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
