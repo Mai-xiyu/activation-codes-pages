@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-15T15:15:09.433Z",
+  "updatedAt": "2026-05-15T16:10:37.428Z",
   "publicFields": [
     "code",
     "status",
@@ -15805,17 +15805,6 @@
       "label": "已绑定设备",
       "issuedAt": "1776231365975",
       "expiresAt": "2026-05-24T04:25:26.935Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-W7JC-L72M-YJ4U",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231365800",
-      "expiresAt": "2026-05-15T16:08:52.788Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
