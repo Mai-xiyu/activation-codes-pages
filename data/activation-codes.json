@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-15T23:45:31.402Z",
+  "updatedAt": "2026-05-16T00:15:47.657Z",
   "publicFields": [
     "code",
     "status",
@@ -15431,17 +15431,6 @@
       "label": "已绑定设备",
       "issuedAt": "1776231374011",
       "expiresAt": "2026-05-24T01:20:07.344Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GFKQ-YTNS-HHVJ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231373839",
-      "expiresAt": "2026-05-15T23:52:06.513Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
