@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-16T14:46:08.738Z",
+  "updatedAt": "2026-05-16T15:19:30.753Z",
   "publicFields": [
     "code",
     "status",
@@ -2281,25 +2281,25 @@
     },
     {
       "code": "STARX-QMX2-YHQB-3VZE",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714759136",
-      "expiresAt": "",
+      "expiresAt": "2026-06-15T15:08:45.667Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-997S-RUH4-THHL",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714759134",
-      "expiresAt": "",
+      "expiresAt": "2026-06-15T15:09:11.378Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CRBQ-PN93-9QRL",
