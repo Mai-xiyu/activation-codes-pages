@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-16T11:44:56.204Z",
+  "updatedAt": "2026-05-16T12:14:29.603Z",
   "publicFields": [
     "code",
     "status",
@@ -2259,14 +2259,14 @@
     },
     {
       "code": "STARX-ENMH-TE7A-5D4T",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714759233",
-      "expiresAt": "",
+      "expiresAt": "2026-06-15T12:09:22.228Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3Y29-3SRL-CCLY",
