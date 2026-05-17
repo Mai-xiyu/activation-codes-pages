@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-17T08:39:03.271Z",
+  "updatedAt": "2026-05-17T10:07:02.312Z",
   "publicFields": [
     "code",
     "status",
@@ -2622,14 +2622,14 @@
     },
     {
       "code": "STARX-GBSW-3KQH-4WFK",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758441",
-      "expiresAt": "",
+      "expiresAt": "2026-06-16T09:11:47.975Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WCB2-S2DB-BDPC",
