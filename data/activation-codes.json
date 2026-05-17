@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-17T07:46:45.092Z",
+  "updatedAt": "2026-05-17T08:39:03.271Z",
   "publicFields": [
     "code",
     "status",
@@ -15640,17 +15640,6 @@
       "label": "已绑定设备",
       "issuedAt": "1776231368713",
       "expiresAt": "2026-05-24T04:45:29.954Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-Q54Q-GYZA-223Q",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231368372",
-      "expiresAt": "2026-05-17T08:04:48.738Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
