@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-17T17:19:13.264Z",
+  "updatedAt": "2026-05-17T17:46:03.191Z",
   "publicFields": [
     "code",
     "status",
@@ -15585,17 +15585,6 @@
       "label": "已绑定设备",
       "issuedAt": "1776231369570",
       "expiresAt": "2026-05-23T04:12:41.003Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-6F45-8GLR-BN2R",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231369399",
-      "expiresAt": "2026-05-17T17:27:04.645Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
