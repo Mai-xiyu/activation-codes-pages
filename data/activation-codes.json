@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-17T12:12:44.596Z",
+  "updatedAt": "2026-05-17T12:46:13.610Z",
   "publicFields": [
     "code",
     "status",
@@ -2787,14 +2787,14 @@
     },
     {
       "code": "STARX-GQUP-FWAL-V8RL",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758096",
-      "expiresAt": "",
+      "expiresAt": "2026-06-16T12:41:04.894Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LKWR-MH9E-H7RB",
