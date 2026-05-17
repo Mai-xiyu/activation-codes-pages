@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-17T13:28:20.947Z",
+  "updatedAt": "2026-05-17T14:04:01.493Z",
   "publicFields": [
     "code",
     "status",
@@ -2369,14 +2369,14 @@
     },
     {
       "code": "STARX-PMYY-L4DA-5DJD",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758955",
-      "expiresAt": "",
+      "expiresAt": "2026-06-16T13:46:29.619Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-X86M-NC8E-JE4D",
