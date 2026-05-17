@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-17T16:46:03.251Z",
+  "updatedAt": "2026-05-17T17:19:13.264Z",
   "publicFields": [
     "code",
     "status",
@@ -2446,14 +2446,14 @@
     },
     {
       "code": "STARX-H4RR-KZE4-W34H",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758784",
-      "expiresAt": "",
+      "expiresAt": "2026-06-16T16:47:39.448Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-STUP-9XKC-CW4M",
