@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-18T01:22:16.780Z",
+  "updatedAt": "2026-05-18T02:15:55.605Z",
   "publicFields": [
     "code",
     "status",
@@ -2501,14 +2501,14 @@
     },
     {
       "code": "STARX-L7RL-9U3U-2YT2",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758703",
-      "expiresAt": "",
+      "expiresAt": "2026-06-17T01:56:34.585Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LMB3-VH6Y-P87G",
@@ -3117,14 +3117,14 @@
     },
     {
       "code": "STARX-J4CL-EEND-GLNZ",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757497",
-      "expiresAt": "",
+      "expiresAt": "2026-06-17T02:07:56.670Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6ESL-STXF-35JN",
@@ -5020,14 +5020,14 @@
     },
     {
       "code": "STARX-WTUC-SN6F-XCBA",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714754316",
-      "expiresAt": "",
+      "expiresAt": "2026-06-17T01:51:02.461Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EB2M-3SQL-R8LQ",
@@ -8969,14 +8969,14 @@
     },
     {
       "code": "STARX-DH6W-Y46F-VDSM",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714747364",
-      "expiresAt": "",
+      "expiresAt": "2026-06-17T01:34:50.856Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3UKN-U437-3ZQ5",
