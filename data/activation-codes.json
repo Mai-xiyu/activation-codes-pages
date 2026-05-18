@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-18T14:08:55.121Z",
+  "updatedAt": "2026-05-18T15:43:43.134Z",
   "publicFields": [
     "code",
     "status",
@@ -2611,14 +2611,14 @@
     },
     {
       "code": "STARX-AS43-BV7Y-6JTG",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758442",
-      "expiresAt": "",
+      "expiresAt": "2026-06-17T15:04:25.784Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GBSW-3KQH-4WFK",
@@ -2721,14 +2721,14 @@
     },
     {
       "code": "STARX-GX4W-8PR8-UDQD",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758269",
-      "expiresAt": "",
+      "expiresAt": "2026-06-17T15:18:25.421Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-APG8-XLNS-DETL",
