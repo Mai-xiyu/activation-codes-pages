@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-18T15:43:43.134Z",
+  "updatedAt": "2026-05-18T16:54:43.141Z",
   "publicFields": [
     "code",
     "status",
@@ -2655,14 +2655,14 @@
     },
     {
       "code": "STARX-YEBH-W6HX-CRLP",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758437",
-      "expiresAt": "",
+      "expiresAt": "2026-06-17T16:31:30.033Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RVLJ-3WA5-HCD8",
@@ -3931,14 +3931,14 @@
     },
     {
       "code": "STARX-CGCZ-8J4F-YTDV",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714756034",
-      "expiresAt": "",
+      "expiresAt": "2026-06-17T16:27:10.470Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NR7U-9VPL-8HZN",
