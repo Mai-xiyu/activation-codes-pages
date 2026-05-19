@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-18T23:49:18.874Z",
+  "updatedAt": "2026-05-19T00:20:48.253Z",
   "publicFields": [
     "code",
     "status",
@@ -2666,14 +2666,14 @@
     },
     {
       "code": "STARX-RVLJ-3WA5-HCD8",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758376",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T00:12:18.858Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-C87T-FA89-53DH",
