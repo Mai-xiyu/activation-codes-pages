@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-19T02:16:22.322Z",
+  "updatedAt": "2026-05-19T03:43:46.169Z",
   "publicFields": [
     "code",
     "status",
@@ -2831,14 +2831,14 @@
     },
     {
       "code": "STARX-AHZP-3AZT-V7A8",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758094",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T02:18:52.003Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EM2Z-MZU4-LHEG",
@@ -12940,14 +12940,14 @@
     },
     {
       "code": "STARX-6YJ9-SPRP-JASU",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777289482721",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T02:47:00.602Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-DNKS-SCLR-LYGV",
