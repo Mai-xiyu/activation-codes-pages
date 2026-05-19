@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-19T08:07:26.801Z",
+  "updatedAt": "2026-05-19T09:44:15.939Z",
   "publicFields": [
     "code",
     "status",
@@ -2798,14 +2798,14 @@
     },
     {
       "code": "STARX-LKWR-MH9E-H7RB",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758096",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T08:23:00.144Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SAM9-38C4-FRJU",
@@ -2842,14 +2842,14 @@
     },
     {
       "code": "STARX-EM2Z-MZU4-LHEG",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758032",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T09:02:22.028Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AMTW-PVKH-HDLA",
