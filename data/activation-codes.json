@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-19T15:00:27.241Z",
+  "updatedAt": "2026-05-19T16:32:53.131Z",
   "publicFields": [
     "code",
     "status",
@@ -2875,14 +2875,14 @@
     },
     {
       "code": "STARX-8LN5-UU8J-2ZGX",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757925",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T15:40:31.229Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-UNNQ-CXYX-N9X2",
