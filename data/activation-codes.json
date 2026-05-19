@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-19T12:07:23.733Z",
+  "updatedAt": "2026-05-19T13:33:40.850Z",
   "publicFields": [
     "code",
     "status",
@@ -2864,14 +2864,14 @@
     },
     {
       "code": "STARX-JKPG-TC9B-VU92",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757927",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T12:25:36.345Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8LN5-UU8J-2ZGX",
