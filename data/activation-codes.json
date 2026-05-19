@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-19T00:20:48.253Z",
+  "updatedAt": "2026-05-19T01:22:22.754Z",
   "publicFields": [
     "code",
     "status",
@@ -2699,14 +2699,14 @@
     },
     {
       "code": "STARX-TF94-QKCH-EFK2",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758270",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T01:20:15.553Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3G8T-C8L6-FU5P",
