@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-19T09:44:15.939Z",
+  "updatedAt": "2026-05-19T10:59:53.585Z",
   "publicFields": [
     "code",
     "status",
@@ -2820,14 +2820,14 @@
     },
     {
       "code": "STARX-6KF6-PZ2X-67F9",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714758095",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T10:38:16.190Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AHZP-3AZT-V7A8",
