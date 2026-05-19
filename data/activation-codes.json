@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-19T16:32:53.131Z",
+  "updatedAt": "2026-05-19T17:44:21.176Z",
   "publicFields": [
     "code",
     "status",
@@ -2897,14 +2897,14 @@
     },
     {
       "code": "STARX-RC6A-GQLX-RR7F",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757923",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T16:46:26.283Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8QRH-MSWQ-KYNY",
@@ -3656,14 +3656,14 @@
     },
     {
       "code": "STARX-G8EP-FMQ7-8V7H",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714756545",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T17:08:54.852Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LLHL-5RZA-ZRSG",
