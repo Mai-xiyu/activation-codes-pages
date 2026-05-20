@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-20T06:44:56.750Z",
+  "updatedAt": "2026-05-20T08:07:14.310Z",
   "publicFields": [
     "code",
     "status",
@@ -3029,14 +3029,14 @@
     },
     {
       "code": "STARX-CK76-E67T-KWCC",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757668",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T08:00:49.343Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CW6Z-SCH3-QQHZ",
