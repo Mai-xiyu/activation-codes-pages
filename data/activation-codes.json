@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-20T03:43:50.181Z",
+  "updatedAt": "2026-05-20T05:16:59.713Z",
   "publicFields": [
     "code",
     "status",
@@ -2985,14 +2985,14 @@
     },
     {
       "code": "STARX-DCMY-JPXU-PTU2",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757752",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T04:25:39.880Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-A4ZA-ZK46-LJ4P",
@@ -4888,14 +4888,14 @@
     },
     {
       "code": "STARX-BS8A-KDH9-JDMV",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714754489",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T04:59:16.200Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RMJR-B2W3-GFWE",
