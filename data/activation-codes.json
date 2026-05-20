@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-20T15:43:25.719Z",
+  "updatedAt": "2026-05-20T16:58:23.517Z",
   "publicFields": [
     "code",
     "status",
@@ -3161,14 +3161,14 @@
     },
     {
       "code": "STARX-AQUM-PNLL-QJDQ",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757409",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T16:03:29.178Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3WT4-3M7B-XN9X",
