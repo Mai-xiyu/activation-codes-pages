@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-20T02:16:17.619Z",
+  "updatedAt": "2026-05-20T03:43:50.181Z",
   "publicFields": [
     "code",
     "status",
@@ -2930,14 +2930,14 @@
     },
     {
       "code": "STARX-9FDA-E9TH-LP3J",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757860",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T02:27:13.423Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-A8TD-Q84V-LXSF",
@@ -3018,14 +3018,14 @@
     },
     {
       "code": "STARX-FCYK-898W-NANN",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757689",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T03:07:51.005Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CK76-E67T-KWCC",
