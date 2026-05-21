@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-21T17:21:30.907Z",
+  "updatedAt": "2026-05-21T18:08:55.132Z",
   "publicFields": [
     "code",
     "status",
@@ -3370,14 +3370,14 @@
     },
     {
       "code": "STARX-ZUT7-SPFH-MTUN",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714756998",
-      "expiresAt": "",
+      "expiresAt": "2026-06-20T17:23:27.240Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GMML-LUT6-B9G7",
@@ -3480,14 +3480,14 @@
     },
     {
       "code": "STARX-UAFV-7FMY-BLUD",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714756811",
-      "expiresAt": "",
+      "expiresAt": "2026-06-20T17:44:29.717Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6JT7-HHX7-3V5N",
