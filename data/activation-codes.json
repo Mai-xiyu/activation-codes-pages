@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-21T02:59:51.782Z",
+  "updatedAt": "2026-05-21T04:36:50.153Z",
   "publicFields": [
     "code",
     "status",
@@ -5823,14 +5823,14 @@
     },
     {
       "code": "STARX-QS54-F88Q-AVH2",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714752956",
-      "expiresAt": "",
+      "expiresAt": "2026-06-20T03:34:59.163Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CCKP-F4ZN-NH2P",
