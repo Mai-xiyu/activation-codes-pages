@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-21T20:08:15.369Z",
+  "updatedAt": "2026-05-21T21:02:32.629Z",
   "publicFields": [
     "code",
     "status",
@@ -3403,14 +3403,14 @@
     },
     {
       "code": "STARX-DRT7-JUB7-P7JE",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714756900",
-      "expiresAt": "",
+      "expiresAt": "2026-06-20T20:45:24.264Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-9QQW-E2MX-MKBA",
@@ -3513,14 +3513,14 @@
     },
     {
       "code": "STARX-VN3M-GKGU-D3Z4",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714756723",
-      "expiresAt": "",
+      "expiresAt": "2026-06-20T20:45:37.382Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ZE3A-PMJZ-S45E",
