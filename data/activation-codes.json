@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-21T00:38:46.370Z",
+  "updatedAt": "2026-05-21T01:35:53.179Z",
   "publicFields": [
     "code",
     "status",
@@ -3227,14 +3227,14 @@
     },
     {
       "code": "STARX-K3MT-4M8X-GP4A",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757240",
-      "expiresAt": "",
+      "expiresAt": "2026-06-20T00:51:22.399Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5K3V-RV4Z-APUV",
@@ -3359,14 +3359,14 @@
     },
     {
       "code": "STARX-UAM5-EFUX-K8RS",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714757064",
-      "expiresAt": "",
+      "expiresAt": "2026-06-20T01:12:09.665Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ZUT7-SPFH-MTUN",
