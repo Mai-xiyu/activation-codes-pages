@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-22T06:45:10.448Z",
+  "updatedAt": "2026-05-22T08:05:08.236Z",
   "publicFields": [
     "code",
     "status",
@@ -3711,14 +3711,14 @@
     },
     {
       "code": "STARX-SS4M-ZUTS-HV56",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714756380",
-      "expiresAt": "",
+      "expiresAt": "2026-06-21T06:52:24.078Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HG9F-2R8X-98KH",
@@ -4074,14 +4074,14 @@
     },
     {
       "code": "STARX-7L2V-Y9W8-YCLH",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714755774",
-      "expiresAt": "",
+      "expiresAt": "2026-06-21T07:45:51.631Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GRFD-P8SY-TYFH",
@@ -4514,14 +4514,14 @@
     },
     {
       "code": "STARX-6KGH-XJ3N-2JEJ",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714755012",
-      "expiresAt": "",
+      "expiresAt": "2026-06-21T07:38:24.989Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CGWK-5FMB-ZPK6",
@@ -4822,14 +4822,14 @@
     },
     {
       "code": "STARX-48VE-YKNA-ZGML",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714754571",
-      "expiresAt": "",
+      "expiresAt": "2026-06-21T07:30:54.298Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CTDN-7HER-DDPN",
