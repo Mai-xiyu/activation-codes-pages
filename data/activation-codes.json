@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-22T11:57:23.087Z",
+  "updatedAt": "2026-05-22T12:53:52.998Z",
   "publicFields": [
     "code",
     "status",
@@ -3722,14 +3722,14 @@
     },
     {
       "code": "STARX-HG9F-2R8X-98KH",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714756379",
-      "expiresAt": "",
+      "expiresAt": "2026-06-21T12:26:47.530Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NDXP-Z4MQ-99ET",
@@ -4151,14 +4151,14 @@
     },
     {
       "code": "STARX-LHPE-7Z8U-EK9T",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714755687",
-      "expiresAt": "",
+      "expiresAt": "2026-06-21T12:18:35.307Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-N7YA-YWPC-YBMH",
