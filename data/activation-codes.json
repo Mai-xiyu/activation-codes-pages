@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-22T03:43:48.542Z",
+  "updatedAt": "2026-05-22T05:16:28.582Z",
   "publicFields": [
     "code",
     "status",
@@ -4965,14 +4965,14 @@
     },
     {
       "code": "STARX-7G9V-S3UK-KNJW",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714754323",
-      "expiresAt": "",
+      "expiresAt": "2026-06-21T05:04:31.452Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-QW7C-7QTH-2WVX",
