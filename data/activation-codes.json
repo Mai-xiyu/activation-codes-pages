@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-23T23:15:49.707Z",
+  "updatedAt": "2026-05-23T23:45:57.160Z",
   "publicFields": [
     "code",
     "status",
@@ -15508,17 +15508,6 @@
       "label": "已绑定设备",
       "issuedAt": "1776231369227",
       "expiresAt": "2026-05-24T04:26:34.280Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-W5PL-FGR4-MBA5",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231369057",
-      "expiresAt": "2026-05-23T23:40:55.376Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
