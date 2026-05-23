@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-23T07:19:57.709Z",
+  "updatedAt": "2026-05-23T08:14:30.003Z",
   "publicFields": [
     "code",
     "status",
@@ -15464,17 +15464,6 @@
       "label": "已绑定设备",
       "issuedAt": "1776231372647",
       "expiresAt": "2026-05-23T22:34:49.546Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-KKUB-T2WT-FC6R",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231372477",
-      "expiresAt": "2026-05-23T08:05:48.506Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
