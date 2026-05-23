@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-23T03:43:05.959Z",
+  "updatedAt": "2026-05-23T05:11:17.056Z",
   "publicFields": [
     "code",
     "status",
@@ -3821,14 +3821,14 @@
     },
     {
       "code": "STARX-42VX-WDP8-KJCE",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714756208",
-      "expiresAt": "",
+      "expiresAt": "2026-06-22T04:59:53.798Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-YDEK-9JE9-7X9Z",
@@ -15552,17 +15552,6 @@
       "label": "已绑定设备",
       "issuedAt": "1776231369912",
       "expiresAt": "2026-05-23T21:05:49.697Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-5FPQ-RJ8W-ZB9K",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231369570",
-      "expiresAt": "2026-05-23T04:12:41.003Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
