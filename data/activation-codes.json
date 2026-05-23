@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-23T22:14:55.395Z",
+  "updatedAt": "2026-05-23T22:45:12.698Z",
   "publicFields": [
     "code",
     "status",
@@ -15442,17 +15442,6 @@
       "label": "已绑定设备",
       "issuedAt": "1776231372990",
       "expiresAt": "2026-05-24T01:24:25.796Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-KQ26-AYQY-7Z9X",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231372647",
-      "expiresAt": "2026-05-23T22:34:49.546Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
