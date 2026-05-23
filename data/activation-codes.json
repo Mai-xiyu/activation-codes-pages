@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-23T20:44:29.749Z",
+  "updatedAt": "2026-05-23T21:14:59.585Z",
   "publicFields": [
     "code",
     "status",
@@ -15508,17 +15508,6 @@
       "label": "已绑定设备",
       "issuedAt": "1776231370768",
       "expiresAt": "2026-05-24T01:55:01.121Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-WUWU-S3RB-4UFF",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231369912",
-      "expiresAt": "2026-05-23T21:05:49.697Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
