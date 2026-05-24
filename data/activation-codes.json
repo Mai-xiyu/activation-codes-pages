@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T17:19:36.453Z",
+  "updatedAt": "2026-05-24T17:46:28.372Z",
   "publicFields": [
     "code",
     "status",
@@ -14958,17 +14958,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003667467",
       "expiresAt": "2026-05-27T09:33:08.209Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-CFSX-GML4-9TLY",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003667294",
-      "expiresAt": "2026-05-24T17:21:33.396Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
