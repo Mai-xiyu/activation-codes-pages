@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T16:46:17.120Z",
+  "updatedAt": "2026-05-24T17:19:36.453Z",
   "publicFields": [
     "code",
     "status",
@@ -14358,17 +14358,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-6UUU-6572-2QA2",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003679641",
-      "expiresAt": "2026-05-24T16:52:33.282Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-U6UW-DHLW-Q8MB",
       "status": "used",
       "plan": "30 天",
@@ -14771,17 +14760,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003672268",
       "expiresAt": "2026-05-26T21:06:17.876Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-TSQ9-JV46-X4SB",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003671929",
-      "expiresAt": "2026-05-24T16:51:43.636Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
