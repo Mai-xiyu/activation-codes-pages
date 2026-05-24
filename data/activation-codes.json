@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T09:33:53.397Z",
+  "updatedAt": "2026-05-24T10:29:22.721Z",
   "publicFields": [
     "code",
     "status",
@@ -14336,17 +14336,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-KNRW-AMRH-R88C",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003681693",
-      "expiresAt": "2026-05-24T09:52:44.217Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-Q757-P4GE-ZGPK",
       "status": "used",
       "plan": "30 天",
@@ -15079,17 +15068,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003669190",
       "expiresAt": "2026-05-25T08:24:31.678Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-BPHV-TNDB-TTEY",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003668844",
-      "expiresAt": "2026-05-24T10:25:18.784Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
