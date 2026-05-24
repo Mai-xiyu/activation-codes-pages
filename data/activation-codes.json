@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T10:29:22.721Z",
+  "updatedAt": "2026-05-24T11:00:12.471Z",
   "publicFields": [
     "code",
     "status",
@@ -14919,17 +14919,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-UCNA-KPPD-ZTUG",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003671757",
-      "expiresAt": "2026-05-24T10:52:38.451Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-LG5B-DNGA-LPHS",
       "status": "used",
       "plan": "30 天",
@@ -15167,17 +15156,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003667121",
       "expiresAt": "2026-05-26T21:05:19.866Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-XHM8-QRG8-HYSP",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003666948",
-      "expiresAt": "2026-05-24T10:51:50.857Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
