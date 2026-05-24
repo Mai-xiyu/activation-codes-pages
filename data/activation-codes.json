@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T12:48:34.280Z",
+  "updatedAt": "2026-05-24T13:28:43.148Z",
   "publicFields": [
     "code",
     "status",
@@ -3920,14 +3920,14 @@
     },
     {
       "code": "STARX-SCD5-NSF8-B2RT",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714756036",
-      "expiresAt": "",
+      "expiresAt": "2026-06-23T13:14:45.059Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CGCZ-8J4F-YTDV",
@@ -13533,17 +13533,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-35XZ-YRRG-3PWA",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003728406",
-      "expiresAt": "2026-05-24T13:15:33.775Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-PL9Q-DPJE-BNPK",
       "status": "used",
       "plan": "30 天",
@@ -13770,17 +13759,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003723944",
       "expiresAt": "2026-05-26T16:35:38.088Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-ZFAA-NMGR-FHTC",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003723773",
-      "expiresAt": "2026-05-24T13:14:58.220Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -14419,17 +14397,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003679641",
       "expiresAt": "2026-05-24T16:52:33.282Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-CMJQ-XLV4-BYBU",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003679471",
-      "expiresAt": "2026-05-24T13:02:15.753Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
