@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T00:18:02.242Z",
+  "updatedAt": "2026-05-24T01:23:09.373Z",
   "publicFields": [
     "code",
     "status",
@@ -15420,17 +15420,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003666325",
       "expiresAt": "2026-05-26T14:31:43.398Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-DRKX-4DCZ-BKJ2",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1776231374011",
-      "expiresAt": "2026-05-24T01:20:07.344Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
