@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T12:16:12.698Z",
+  "updatedAt": "2026-05-24T12:48:34.280Z",
   "publicFields": [
     "code",
     "status",
@@ -14193,17 +14193,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-Q729-Z8AH-D62L",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003716891",
-      "expiresAt": "2026-05-24T12:31:30.497Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-JZ49-WDD6-Q2HD",
       "status": "used",
       "plan": "30 天",
@@ -14375,17 +14364,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003680668",
       "expiresAt": "2026-05-27T15:34:16.677Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-RKBR-APB7-SVW8",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003680498",
-      "expiresAt": "2026-05-24T12:41:00.027Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
