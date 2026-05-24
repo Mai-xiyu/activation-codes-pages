@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T08:47:02.406Z",
+  "updatedAt": "2026-05-24T09:33:53.397Z",
   "publicFields": [
     "code",
     "status",
@@ -15079,17 +15079,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003669190",
       "expiresAt": "2026-05-25T08:24:31.678Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-J2SG-SXYV-R8UZ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003669017",
-      "expiresAt": "2026-05-24T08:48:24.410Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
