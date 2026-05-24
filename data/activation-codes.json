@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T21:42:45.442Z",
+  "updatedAt": "2026-05-24T22:43:25.536Z",
   "publicFields": [
     "code",
     "status",
@@ -3997,14 +3997,14 @@
     },
     {
       "code": "STARX-RZ75-LGQU-4TJG",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714755872",
-      "expiresAt": "",
+      "expiresAt": "2026-06-23T22:28:20.058Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FXFC-6KET-J85L",
