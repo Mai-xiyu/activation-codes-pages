@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T11:34:49.924Z",
+  "updatedAt": "2026-05-24T12:16:12.698Z",
   "publicFields": [
     "code",
     "status",
@@ -5603,14 +5603,14 @@
     },
     {
       "code": "STARX-PHLN-3DRY-QWCA",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714753299",
-      "expiresAt": "",
+      "expiresAt": "2026-06-23T11:49:39.748Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RRAY-MURW-MH3B",
@@ -13539,17 +13539,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003728406",
       "expiresAt": "2026-05-24T13:15:33.775Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-SMQ4-G46U-NQMH",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003728235",
-      "expiresAt": "2026-05-24T12:07:15.454Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
