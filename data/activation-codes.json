@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T22:43:25.536Z",
+  "updatedAt": "2026-05-24T23:46:23.704Z",
   "publicFields": [
     "code",
     "status",
@@ -4030,14 +4030,14 @@
     },
     {
       "code": "STARX-MENN-78FR-A8L6",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714755863",
-      "expiresAt": "",
+      "expiresAt": "2026-06-23T23:12:18.691Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AAES-NLLQ-FSVG",
