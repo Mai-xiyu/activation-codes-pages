@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-24T17:46:28.372Z",
+  "updatedAt": "2026-05-24T18:16:11.959Z",
   "publicFields": [
     "code",
     "status",
@@ -13786,17 +13786,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-D9SZ-BAKU-87AU",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003722916",
-      "expiresAt": "2026-05-24T18:14:12.078Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-7DYE-8FLF-48PP",
       "status": "used",
       "plan": "30 天",
@@ -14347,17 +14336,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-Y4AC-AR2C-GMQP",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003679811",
-      "expiresAt": "2026-05-24T17:47:51.721Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-U6UW-DHLW-Q8MB",
       "status": "used",
       "plan": "30 天",
@@ -14892,17 +14870,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003669190",
       "expiresAt": "2026-05-25T08:24:31.678Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-EMFG-EKRB-LZUU",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003668671",
-      "expiresAt": "2026-05-24T18:04:19.547Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
