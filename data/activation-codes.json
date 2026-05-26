@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-26T19:11:33.778Z",
+  "updatedAt": "2026-05-26T21:07:40.969Z",
   "publicFields": [
     "code",
     "status",
@@ -13269,17 +13269,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-SKQU-8UUP-GZ8D",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003732724",
-      "expiresAt": "2026-05-26T19:38:46.203Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-P2TL-K2DK-KCLX",
       "status": "used",
       "plan": "30 天",
@@ -13451,17 +13440,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003726691",
       "expiresAt": "2026-05-27T00:45:32.718Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GQU9-7DGU-3EGD",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003726348",
-      "expiresAt": "2026-05-26T21:05:38.914Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -14072,17 +14050,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-H6K8-VGK7-JVGZ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003672268",
-      "expiresAt": "2026-05-26T21:06:17.876Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-TRQP-W25R-MC23",
       "status": "used",
       "plan": "30 天",
@@ -14127,17 +14094,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-7WTU-G4JE-TTX9",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003668498",
-      "expiresAt": "2026-05-26T21:00:17.252Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-FTT2-PD6Y-W45Y",
       "status": "used",
       "plan": "30 天",
@@ -14155,17 +14111,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777003667467",
       "expiresAt": "2026-05-27T09:33:08.209Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GPQR-2RGH-SU42",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777003667121",
-      "expiresAt": "2026-05-26T21:05:19.866Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
