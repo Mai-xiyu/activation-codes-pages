@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-28T16:52:01.933Z",
+  "updatedAt": "2026-05-28T19:31:07.647Z",
   "publicFields": [
     "code",
     "status",
@@ -11573,17 +11573,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-VWPN-AA2L-AR5F",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289521561",
-      "expiresAt": "2026-05-28T18:14:04.479Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-3TRS-K3LY-486T",
