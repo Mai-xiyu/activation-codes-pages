@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-28T19:31:07.647Z",
+  "updatedAt": "2026-05-28T21:47:36.135Z",
   "publicFields": [
     "code",
     "status",
@@ -11460,17 +11460,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777289524294",
       "expiresAt": "2026-05-29T07:04:49.085Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-KX3U-T9TN-3G82",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289524124",
-      "expiresAt": "2026-05-28T19:36:45.248Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
