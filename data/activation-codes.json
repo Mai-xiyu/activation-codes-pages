@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-29T21:04:48.960Z",
+  "updatedAt": "2026-05-29T22:46:25.766Z",
   "publicFields": [
     "code",
     "status",
@@ -11190,17 +11190,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-EGK4-XD3W-N9CN",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289530753",
-      "expiresAt": "2026-05-29T21:15:46.956Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-F4QL-8QVL-374M",
       "status": "used",
       "plan": "30 天",
@@ -11559,17 +11548,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777289494975",
       "expiresAt": "2026-06-11T06:55:47.168Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-EBA7-RF2Q-DTPP",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289494635",
-      "expiresAt": "2026-05-29T21:30:45.846Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
