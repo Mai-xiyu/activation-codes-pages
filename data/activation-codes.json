@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-28T23:04:32.262Z",
+  "updatedAt": "2026-05-29T01:29:45.857Z",
   "publicFields": [
     "code",
     "status",
@@ -5097,14 +5097,14 @@
     },
     {
       "code": "STARX-VSV9-CC2E-95TR",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714754149",
-      "expiresAt": "",
+      "expiresAt": "2026-06-28T00:46:01.397Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MCCU-4B6F-5SZ8",
@@ -5581,14 +5581,14 @@
     },
     {
       "code": "STARX-3VPB-Z2KG-RRGQ",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714753369",
-      "expiresAt": "",
+      "expiresAt": "2026-06-28T01:00:18.484Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AP9B-G4GP-P86U",
@@ -11531,17 +11531,6 @@
       "usedCount": 0
     },
     {
-      "code": "STARX-29CP-Z9U7-QL25",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289522247",
-      "expiresAt": "2026-05-29T01:13:58.245Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-29KB-7BCP-CR54",
       "status": "active",
       "plan": "30 天",
@@ -11636,17 +11625,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777289495487",
       "expiresAt": "2026-05-30T12:25:33.759Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-2WD4-2SML-CRTU",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289495145",
-      "expiresAt": "2026-05-28T23:25:57.316Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
