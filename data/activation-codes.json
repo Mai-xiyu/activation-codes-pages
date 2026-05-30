@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-30T15:55:57.317Z",
+  "updatedAt": "2026-05-30T16:50:37.958Z",
   "publicFields": [
     "code",
     "status",
@@ -11724,17 +11724,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777289480320",
       "expiresAt": "2026-06-02T18:31:49.489Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GYEM-NERG-6BNB",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289478607",
-      "expiresAt": "2026-05-30T16:43:26.888Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
