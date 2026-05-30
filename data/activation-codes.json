@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-30T20:00:16.360Z",
+  "updatedAt": "2026-05-30T21:29:28.440Z",
   "publicFields": [
     "code",
     "status",
@@ -5350,14 +5350,14 @@
     },
     {
       "code": "STARX-FN9M-AU8R-VZMS",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714753782",
-      "expiresAt": "",
+      "expiresAt": "2026-06-29T20:19:10.764Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CR79-QVUB-RB9K",
