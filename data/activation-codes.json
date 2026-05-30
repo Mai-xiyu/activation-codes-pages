@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-30T08:42:29.740Z",
+  "updatedAt": "2026-05-30T10:31:07.813Z",
   "publicFields": [
     "code",
     "status",
@@ -11630,17 +11630,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-CTHR-RAGV-28BR",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289489357",
-      "expiresAt": "2026-05-30T08:52:07.856Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-5L4Z-EULF-3L7L",
       "status": "active",
       "plan": "30 天",
@@ -11724,17 +11713,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777289486615",
       "expiresAt": "2026-06-06T01:14:03.095Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-LX6K-QS2X-2ZW4",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289485289",
-      "expiresAt": "2026-05-30T09:58:38.438Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
