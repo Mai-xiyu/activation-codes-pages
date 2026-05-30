@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-30T16:50:37.958Z",
+  "updatedAt": "2026-05-30T17:54:04.014Z",
   "publicFields": [
     "code",
     "status",
@@ -11262,17 +11262,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777289527866",
       "expiresAt": "2026-06-04T06:42:06.792Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-SDCS-FNRX-28XW",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289527185",
-      "expiresAt": "2026-05-30T16:57:18.255Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
