@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-31T11:23:28.544Z",
+  "updatedAt": "2026-05-31T12:53:31.114Z",
   "publicFields": [
     "code",
     "status",
@@ -11185,17 +11185,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777289530074",
       "expiresAt": "2026-06-17T03:58:01.589Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-QK42-UGSE-VJE4",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289529735",
-      "expiresAt": "2026-05-31T12:11:52.205Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
