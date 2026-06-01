@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-05-31T23:52:59.324Z",
+  "updatedAt": "2026-06-01T02:08:43.934Z",
   "publicFields": [
     "code",
     "status",
@@ -11584,17 +11584,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-858F-XSHP-49QN",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289483061",
-      "expiresAt": "2026-06-01T01:17:29.322Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-6YJ9-SPRP-JASU",
