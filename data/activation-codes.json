@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-02T01:30:37.023Z",
+  "updatedAt": "2026-06-02T03:00:11.236Z",
   "publicFields": [
     "code",
     "status",
@@ -5713,14 +5713,14 @@
     },
     {
       "code": "STARX-NGLT-KX7S-6ATN",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714753026",
-      "expiresAt": "",
+      "expiresAt": "2026-07-02T02:53:02.275Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-54NU-DPS6-GDUM",
@@ -6477,17 +6477,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714751821",
       "expiresAt": "2026-06-04T11:43:13.916Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-348U-DPNW-J2PA",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751772",
-      "expiresAt": "2026-06-02T02:19:34.052Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
