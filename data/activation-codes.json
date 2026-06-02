@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-02T11:25:39.936Z",
+  "updatedAt": "2026-06-02T12:44:46.860Z",
   "publicFields": [
     "code",
     "status",
@@ -702,17 +702,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714763421",
       "expiresAt": "2026-06-11T12:43:41.838Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-7EEV-XSTR-4R78",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714763420",
-      "expiresAt": "2026-06-02T12:30:28.911Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -5889,14 +5878,14 @@
     },
     {
       "code": "STARX-QA5H-UK8H-LAT3",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714752771",
-      "expiresAt": "",
+      "expiresAt": "2026-07-02T11:49:20.945Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HELE-G7Q3-H92H",
@@ -5911,14 +5900,14 @@
     },
     {
       "code": "STARX-TS6T-WLJG-XC7W",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714752682",
-      "expiresAt": "",
+      "expiresAt": "2026-07-02T12:11:21.176Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TZGR-7QYR-GCDE",
@@ -6021,14 +6010,14 @@
     },
     {
       "code": "STARX-ND9Q-8KLB-QCSG",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714752460",
-      "expiresAt": "",
+      "expiresAt": "2026-07-02T12:44:17.958Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PHHM-QNTF-4E5J",
