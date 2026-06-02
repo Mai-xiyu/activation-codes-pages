@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-02T09:54:15.065Z",
+  "updatedAt": "2026-06-02T11:25:39.936Z",
   "publicFields": [
     "code",
     "status",
@@ -8889,17 +8889,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-8Q5F-JSG7-6BHD",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714746958",
-      "expiresAt": "2026-06-02T09:58:42.935Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-DLBX-4HLB-JHRY",
