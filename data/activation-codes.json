@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-02T18:47:46.620Z",
+  "updatedAt": "2026-06-02T20:01:15.206Z",
   "publicFields": [
     "code",
     "status",
@@ -3441,17 +3441,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714756719",
       "expiresAt": "2026-06-21T01:32:08.960Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-3QKS-PSM4-X7XK",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714756655",
-      "expiresAt": "2026-06-02T18:55:46.544Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
