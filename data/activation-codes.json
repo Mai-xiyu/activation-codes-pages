@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-02T03:00:11.236Z",
+  "updatedAt": "2026-06-02T04:37:47.896Z",
   "publicFields": [
     "code",
     "status",
@@ -548,17 +548,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714764107",
       "expiresAt": "2026-06-11T07:21:15.037Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-ZCB4-LJ5B-TMDJ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714764104",
-      "expiresAt": "2026-06-02T03:34:45.163Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
