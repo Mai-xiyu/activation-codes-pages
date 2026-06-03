@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-03T16:31:01.347Z",
+  "updatedAt": "2026-06-03T18:25:54.105Z",
   "publicFields": [
     "code",
     "status",
@@ -6098,14 +6098,14 @@
     },
     {
       "code": "STARX-S8TX-3ZEN-BX3W",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714752100",
-      "expiresAt": "",
+      "expiresAt": "2026-07-03T18:00:34.650Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-V699-P6MA-ML8G",
@@ -6219,14 +6219,14 @@
     },
     {
       "code": "STARX-48Y6-UQ4F-LW74",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751925",
-      "expiresAt": "",
+      "expiresAt": "2026-07-03T16:33:38.205Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LAQN-XR5D-6U6K",
