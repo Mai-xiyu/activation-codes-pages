@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-03T18:25:54.105Z",
+  "updatedAt": "2026-06-03T19:46:04.331Z",
   "publicFields": [
     "code",
     "status",
@@ -5767,17 +5767,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-TZGR-7QYR-GCDE",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752632",
-      "expiresAt": "2026-06-03T18:29:14.797Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-7S5A-GA6L-4BGR",
       "status": "used",
       "plan": "30 天",
@@ -10393,17 +10382,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714738651",
       "expiresAt": "2026-06-09T17:08:48.655Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-Q5Z3-SDWM-996N",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714738481",
-      "expiresAt": "2026-06-03T18:29:01.995Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
