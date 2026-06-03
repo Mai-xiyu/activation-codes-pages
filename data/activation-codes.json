@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-03T03:01:02.616Z",
+  "updatedAt": "2026-06-03T05:08:49.252Z",
   "publicFields": [
     "code",
     "status",
@@ -9133,17 +9133,6 @@
       "usedCount": 0
     },
     {
-      "code": "STARX-UUCB-QS88-HL48",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714745926",
-      "expiresAt": "2026-06-03T04:56:12.090Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-CYFQ-EQ7Z-SAW3",
       "status": "used",
       "plan": "30 天",
@@ -9230,17 +9219,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-ZS5T-L9RR-NR9D",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714745669",
-      "expiresAt": "2026-06-03T04:22:42.368Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-RL4P-URQD-T27V",
