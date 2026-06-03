@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-03T14:33:40.181Z",
+  "updatedAt": "2026-06-03T16:31:01.347Z",
   "publicFields": [
     "code",
     "status",
@@ -6076,14 +6076,14 @@
     },
     {
       "code": "STARX-VY2B-GEHH-DP79",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714752166",
-      "expiresAt": "",
+      "expiresAt": "2026-07-03T15:55:46.030Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-JW4W-8DPP-5GBA",
@@ -10850,14 +10850,14 @@
     },
     {
       "code": "STARX-5L4Z-EULF-3L7L",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777289488496",
-      "expiresAt": "",
+      "expiresAt": "2026-07-03T16:23:51.769Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KAG6-HCT3-YRNJ",
