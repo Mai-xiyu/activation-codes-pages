@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T12:31:53.061Z",
+  "updatedAt": "2026-06-04T13:58:57.728Z",
   "publicFields": [
     "code",
     "status",
@@ -6208,14 +6208,14 @@
     },
     {
       "code": "STARX-SR2K-MJ7Z-9NWA",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751914",
-      "expiresAt": "",
+      "expiresAt": "2026-07-04T13:37:09.024Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HENK-7RS2-STQB",
@@ -6296,14 +6296,14 @@
     },
     {
       "code": "STARX-7MSG-WC26-JHBE",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751741",
-      "expiresAt": "",
+      "expiresAt": "2026-07-04T12:49:35.085Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FNFW-8YKG-8TCH",
