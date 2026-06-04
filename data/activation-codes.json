@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T11:29:33.145Z",
+  "updatedAt": "2026-06-04T12:31:53.061Z",
   "publicFields": [
     "code",
     "status",
@@ -6175,25 +6175,25 @@
     },
     {
       "code": "STARX-LAQN-XR5D-6U6K",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751915",
-      "expiresAt": "",
+      "expiresAt": "2026-07-04T11:42:39.996Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-W3NA-4PT8-VRP4",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751915",
-      "expiresAt": "",
+      "expiresAt": "2026-07-04T12:24:08.442Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-7B5N-TRMS-UQFV",
@@ -6230,22 +6230,11 @@
     },
     {
       "code": "STARX-VAU8-D2MJ-UZS4",
-      "status": "active",
-      "plan": "30 天",
-      "label": "未使用",
-      "issuedAt": "1777714751896",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
-      "code": "STARX-FE85-9EDV-N3CM",
       "status": "used",
       "plan": "30 天",
       "label": "已绑定设备",
-      "issuedAt": "1777714751821",
-      "expiresAt": "2026-06-04T11:43:13.916Z",
+      "issuedAt": "1777714751896",
+      "expiresAt": "2026-07-04T12:24:24.657Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -6799,17 +6788,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-26JY-GS3R-FFR6",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714750800",
-      "expiresAt": "2026-06-04T11:38:19.312Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-BPWQ-SX3Z-4XQ8",
