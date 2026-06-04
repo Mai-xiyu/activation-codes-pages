@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T01:35:30.466Z",
+  "updatedAt": "2026-06-04T03:00:39.691Z",
   "publicFields": [
     "code",
     "status",
@@ -614,17 +614,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714763594",
       "expiresAt": "2026-06-11T03:29:40.927Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-ZEGB-LDZQ-DJPB",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714763593",
-      "expiresAt": "2026-06-04T01:56:07.572Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -6120,14 +6109,14 @@
     },
     {
       "code": "STARX-KBD8-NV9Q-CJNL",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714752086",
-      "expiresAt": "",
+      "expiresAt": "2026-07-04T01:40:19.035Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3WPY-ZBHP-Z25N",
