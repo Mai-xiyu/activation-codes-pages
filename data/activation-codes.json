@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T03:00:39.691Z",
+  "updatedAt": "2026-06-04T05:05:57.721Z",
   "publicFields": [
     "code",
     "status",
@@ -6637,14 +6637,14 @@
     },
     {
       "code": "STARX-3UB6-FKRV-SBHH",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751072",
-      "expiresAt": "",
+      "expiresAt": "2026-07-04T03:14:50.937Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-53GU-9UWH-ZMDG",
