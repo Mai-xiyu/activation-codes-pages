@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T15:10:56.407Z",
+  "updatedAt": "2026-06-04T16:31:06.607Z",
   "publicFields": [
     "code",
     "status",
@@ -6296,14 +6296,14 @@
     },
     {
       "code": "STARX-KLBC-Z572-FNCW",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751724",
-      "expiresAt": "",
+      "expiresAt": "2026-07-04T15:14:28.008Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TRWA-5EER-Y2A7",
@@ -6318,14 +6318,14 @@
     },
     {
       "code": "STARX-BNQU-W8H7-H5ED",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751600",
-      "expiresAt": "",
+      "expiresAt": "2026-07-04T16:07:09.255Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-U37W-QG49-4NHQ",
@@ -9703,17 +9703,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-5R5A-YJTX-TWK3",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714743102",
-      "expiresAt": "2026-06-04T15:38:35.559Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-PX4C-KTNN-G2MT",
