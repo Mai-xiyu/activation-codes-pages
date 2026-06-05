@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-05T12:24:11.691Z",
+  "updatedAt": "2026-06-05T13:30:35.462Z",
   "publicFields": [
     "code",
     "status",
@@ -1978,17 +1978,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714759480",
       "expiresAt": "2026-06-14T09:04:53.154Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-FYVA-R3W3-5GPX",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714759477",
-      "expiresAt": "2026-06-05T12:48:02.347Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -4475,17 +4464,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714754663",
       "expiresAt": "2026-06-25T13:16:56.093Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-A3LQ-DQAY-6YHU",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714754662",
-      "expiresAt": "2026-06-05T12:47:40.655Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
