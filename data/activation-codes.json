@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-05T01:26:10.680Z",
+  "updatedAt": "2026-06-05T02:18:48.819Z",
   "publicFields": [
     "code",
     "status",
@@ -6329,25 +6329,25 @@
     },
     {
       "code": "STARX-SP89-CBXB-YBBG",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751553",
-      "expiresAt": "",
+      "expiresAt": "2026-07-05T01:49:14.221Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XH84-NCDU-V8YR",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751482",
-      "expiresAt": "",
+      "expiresAt": "2026-07-05T02:07:40.243Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GLUA-QRLQ-72DR",
