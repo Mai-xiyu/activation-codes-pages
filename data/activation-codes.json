@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-04T23:51:12.046Z",
+  "updatedAt": "2026-06-05T00:22:47.525Z",
   "publicFields": [
     "code",
     "status",
@@ -4244,17 +4244,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714755109",
       "expiresAt": "2026-06-25T09:50:02.418Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-WUZU-WDMZ-DVS8",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714755087",
-      "expiresAt": "2026-06-05T00:12:14.249Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
