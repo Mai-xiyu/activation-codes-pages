@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-05T02:18:48.819Z",
+  "updatedAt": "2026-06-05T03:43:51.967Z",
   "publicFields": [
     "code",
     "status",
@@ -8374,17 +8374,6 @@
       "usedCount": 0
     },
     {
-      "code": "STARX-GH58-NLL9-TDG5",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714747273",
-      "expiresAt": "2026-06-05T03:18:08.822Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-2DQG-UUBZ-NZ5U",
       "status": "used",
       "plan": "30 天",
@@ -8603,17 +8592,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-TYFZ-ZGBK-CEZJ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714746595",
-      "expiresAt": "2026-06-05T02:59:05.013Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-LB73-LTAH-CTR4",
