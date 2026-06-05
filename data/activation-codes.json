@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-05T00:22:47.525Z",
+  "updatedAt": "2026-06-05T01:26:10.680Z",
   "publicFields": [
     "code",
     "status",
@@ -4425,17 +4425,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-9365-FHKF-G3S3",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714754832",
-      "expiresAt": "2026-06-05T01:17:27.707Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-MENN-7C3K-HVW8",
       "status": "used",
       "plan": "30 天",
@@ -7566,17 +7555,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714749088",
       "expiresAt": "2026-06-28T07:49:31.698Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-2BTE-F4T7-CHKA",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714749079",
-      "expiresAt": "2026-06-05T01:12:45.223Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
