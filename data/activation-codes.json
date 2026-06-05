@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-05T09:44:25.737Z",
+  "updatedAt": "2026-06-05T11:01:50.236Z",
   "publicFields": [
     "code",
     "status",
@@ -6351,14 +6351,14 @@
     },
     {
       "code": "STARX-F678-UZX4-NPML",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714751401",
-      "expiresAt": "",
+      "expiresAt": "2026-07-05T10:24:20.910Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-F6QW-TFFE-ML9V",
@@ -6433,17 +6433,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714751232",
       "expiresAt": "2026-06-12T01:40:44.635Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-CWG7-XVQU-F2XX",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751230",
-      "expiresAt": "2026-06-05T11:00:49.320Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
