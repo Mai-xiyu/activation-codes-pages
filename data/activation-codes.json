@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-05T23:50:22.516Z",
+  "updatedAt": "2026-06-06T00:21:33.610Z",
   "publicFields": [
     "code",
     "status",
@@ -9887,17 +9887,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714740875",
       "expiresAt": "2026-06-17T04:27:46.427Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-8A38-WHTS-C76E",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714740703",
-      "expiresAt": "2026-06-06T00:03:10.443Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
