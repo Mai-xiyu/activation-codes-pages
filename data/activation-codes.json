@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-07T12:25:46.349Z",
+  "updatedAt": "2026-06-07T13:00:08.204Z",
   "publicFields": [
     "code",
     "status",
@@ -4321,17 +4321,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714754831",
       "expiresAt": "2026-06-24T05:51:37.439Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-HZS5-6ZFT-G85P",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714754766",
-      "expiresAt": "2026-06-07T12:25:50.795Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
