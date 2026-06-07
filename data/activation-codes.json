@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-07T10:41:55.992Z",
+  "updatedAt": "2026-06-07T11:31:20.927Z",
   "publicFields": [
     "code",
     "status",
@@ -6483,14 +6483,14 @@
     },
     {
       "code": "STARX-YZWP-4L56-UYD9",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714750902",
-      "expiresAt": "",
+      "expiresAt": "2026-07-07T11:19:34.956Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AUUJ-5S7U-5EMX",
@@ -8952,17 +8952,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714744898",
       "expiresAt": "2026-06-10T10:03:30.137Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-H6E7-E6TY-F79P",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714744869",
-      "expiresAt": "2026-06-07T10:57:47.935Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
