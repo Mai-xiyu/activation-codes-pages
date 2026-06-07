@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-07T00:21:14.158Z",
+  "updatedAt": "2026-06-07T01:29:11.361Z",
   "publicFields": [
     "code",
     "status",
@@ -7470,17 +7470,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-DLTE-8FGA-UP88",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714748989",
-      "expiresAt": "2026-06-07T00:42:34.637Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-UM3Q-RVPC-39RZ",
