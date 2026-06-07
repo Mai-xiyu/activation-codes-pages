@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-07T09:36:32.065Z",
+  "updatedAt": "2026-06-07T10:41:55.992Z",
   "publicFields": [
     "code",
     "status",
@@ -6169,17 +6169,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714751572",
       "expiresAt": "2026-06-07T16:22:19.200Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-V3NA-3BRL-K6PC",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751570",
-      "expiresAt": "2026-06-07T09:59:39.875Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
