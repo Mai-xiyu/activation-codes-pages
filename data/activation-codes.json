@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-07T02:26:10.830Z",
+  "updatedAt": "2026-06-07T03:45:37.269Z",
   "publicFields": [
     "code",
     "status",
@@ -6483,14 +6483,14 @@
     },
     {
       "code": "STARX-LPN6-HUVK-8SW6",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714750963",
-      "expiresAt": "",
+      "expiresAt": "2026-07-07T02:42:31.668Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-J8KR-YNWG-2CNL",
