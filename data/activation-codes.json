@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-07T11:31:20.927Z",
+  "updatedAt": "2026-06-07T12:25:46.349Z",
   "publicFields": [
     "code",
     "status",
@@ -6505,14 +6505,14 @@
     },
     {
       "code": "STARX-D2SQ-5F58-MLS7",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714750885",
-      "expiresAt": "",
+      "expiresAt": "2026-07-07T11:41:04.598Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-QHXU-XGU6-NHUK",
@@ -6879,14 +6879,14 @@
     },
     {
       "code": "STARX-XP4U-JARF-KXZV",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714750195",
-      "expiresAt": "",
+      "expiresAt": "2026-07-07T11:49:03.308Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6AZF-XPX3-FDM4",
