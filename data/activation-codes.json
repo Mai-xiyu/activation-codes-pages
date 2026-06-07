@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-07T13:40:04.344Z",
+  "updatedAt": "2026-06-07T14:33:21.673Z",
   "publicFields": [
     "code",
     "status",
@@ -5542,17 +5542,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714752602",
       "expiresAt": "2026-07-02T15:22:27.352Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GJTA-TUBT-XZG7",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752601",
-      "expiresAt": "2026-06-07T14:07:31.564Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
