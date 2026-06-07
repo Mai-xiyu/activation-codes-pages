@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-07T18:21:20.800Z",
+  "updatedAt": "2026-06-07T18:53:04.141Z",
   "publicFields": [
     "code",
     "status",
@@ -6549,14 +6549,14 @@
     },
     {
       "code": "STARX-QAGA-JLSJ-3NTV",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714750712",
-      "expiresAt": "",
+      "expiresAt": "2026-07-07T18:49:59.254Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RL9K-3K64-J432",
