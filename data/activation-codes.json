@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-08T05:29:42.892Z",
+  "updatedAt": "2026-06-08T07:09:51.504Z",
   "publicFields": [
     "code",
     "status",
@@ -5547,17 +5547,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-YSTV-2LM5-GRW9",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752600",
-      "expiresAt": "2026-06-08T06:27:38.674Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-74G3-X42G-GLD7",
       "status": "used",
       "plan": "30 天",
@@ -6582,14 +6571,14 @@
     },
     {
       "code": "STARX-LKHM-3LWZ-QW54",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714750562",
-      "expiresAt": "",
+      "expiresAt": "2026-07-08T06:21:54.832Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-B5XM-9A3F-GTUD",
@@ -6758,14 +6747,14 @@
     },
     {
       "code": "STARX-MQQU-N4CJ-B6YU",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714750238",
-      "expiresAt": "",
+      "expiresAt": "2026-07-08T06:42:11.315Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-DB2P-DGMK-P29P",
@@ -7000,14 +6989,14 @@
     },
     {
       "code": "STARX-X7T2-RE6C-9F7R",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714749725",
-      "expiresAt": "",
+      "expiresAt": "2026-07-08T06:47:40.147Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NGKD-6P8K-Q6SQ",
@@ -8592,17 +8581,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-YTFG-8GLC-TZRU",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714745730",
-      "expiresAt": "2026-06-08T07:00:48.305Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-BLB5-LXGQ-JDGB",
