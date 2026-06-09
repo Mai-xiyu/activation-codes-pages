@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-09T18:37:52.938Z",
+  "updatedAt": "2026-06-09T19:37:49.197Z",
   "publicFields": [
     "code",
     "status",
@@ -5113,17 +5113,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714752947",
       "expiresAt": "2026-07-02T00:41:54.340Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-DNNX-YJZL-A5NJ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752945",
-      "expiresAt": "2026-06-09T19:32:39.184Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
