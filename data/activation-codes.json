@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-09T21:30:53.278Z",
+  "updatedAt": "2026-06-09T22:27:49.780Z",
   "publicFields": [
     "code",
     "status",
@@ -2880,17 +2880,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714757237",
       "expiresAt": "2026-06-20T07:58:38.881Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-5J8G-DXBW-R26K",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714757236",
-      "expiresAt": "2026-06-09T22:16:33.503Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
