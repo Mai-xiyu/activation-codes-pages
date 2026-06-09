@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-09T23:01:16.462Z",
+  "updatedAt": "2026-06-09T23:55:05.027Z",
   "publicFields": [
     "code",
     "status",
@@ -2203,17 +2203,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-257U-L72N-9A8A",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714758611",
-      "expiresAt": "2026-06-09T23:50:50.393Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-PUMC-67XM-R2TY",
       "status": "used",
       "plan": "30 天",
@@ -2759,17 +2748,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714757411",
       "expiresAt": "2026-06-19T08:49:42.923Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-79A3-7NHE-JNEN",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714757409",
-      "expiresAt": "2026-06-09T23:54:30.025Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -6945,14 +6923,14 @@
     },
     {
       "code": "STARX-XXCA-T7KP-6ERU",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714749161",
-      "expiresAt": "",
+      "expiresAt": "2026-07-09T23:38:12.211Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2KEP-E5PX-U5EE",
