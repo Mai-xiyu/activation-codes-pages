@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-09T02:15:42.290Z",
+  "updatedAt": "2026-06-09T03:43:15.659Z",
   "publicFields": [
     "code",
     "status",
@@ -6714,14 +6714,14 @@
     },
     {
       "code": "STARX-WNX2-U36H-SQSF",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714750196",
-      "expiresAt": "",
+      "expiresAt": "2026-07-09T03:30:09.402Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XP4U-JARF-KXZV",
@@ -6934,14 +6934,14 @@
     },
     {
       "code": "STARX-GNXV-UFEL-W63P",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714749698",
-      "expiresAt": "",
+      "expiresAt": "2026-07-09T02:33:08.046Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-46ZQ-GP37-L6ME",
@@ -7000,14 +7000,14 @@
     },
     {
       "code": "STARX-HGWY-G2LG-K3PD",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714749554",
-      "expiresAt": "",
+      "expiresAt": "2026-07-09T02:33:40.743Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NW62-78TF-S89N",
@@ -10069,14 +10069,14 @@
     },
     {
       "code": "STARX-8B54-49N7-5FJZ",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777289491744",
-      "expiresAt": "",
+      "expiresAt": "2026-07-09T03:04:19.988Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-DJDN-QGRG-4PD2",
