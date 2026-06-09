@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-09T00:19:04.268Z",
+  "updatedAt": "2026-06-09T01:20:48.942Z",
   "publicFields": [
     "code",
     "status",
@@ -6703,14 +6703,14 @@
     },
     {
       "code": "STARX-VMGU-89G7-TYDY",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714750209",
-      "expiresAt": "",
+      "expiresAt": "2026-07-09T00:41:26.283Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WNX2-U36H-SQSF",
