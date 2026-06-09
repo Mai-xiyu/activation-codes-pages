@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-09T12:05:46.121Z",
+  "updatedAt": "2026-06-09T13:26:13.704Z",
   "publicFields": [
     "code",
     "status",
@@ -3375,17 +3375,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714756373",
       "expiresAt": "2026-06-21T05:51:05.959Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-A3GR-2MZ8-JPDJ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714756311",
-      "expiresAt": "2026-06-09T12:06:36.354Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -7022,14 +7011,14 @@
     },
     {
       "code": "STARX-4BTJ-H8BF-BFZG",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714749509",
-      "expiresAt": "",
+      "expiresAt": "2026-07-09T13:25:11.020Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EQFP-4RXC-2RUE",
@@ -7055,14 +7044,14 @@
     },
     {
       "code": "STARX-U93C-BP7M-QWDX",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714749384",
-      "expiresAt": "",
+      "expiresAt": "2026-07-09T13:22:58.546Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-S8L6-CSWW-ZERN",
@@ -7143,14 +7132,14 @@
     },
     {
       "code": "STARX-Z5RD-FRXD-SARV",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714749212",
-      "expiresAt": "",
+      "expiresAt": "2026-07-09T13:24:05.146Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CYYC-SX76-YJDR",
