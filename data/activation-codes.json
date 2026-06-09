@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-09T10:59:40.991Z",
+  "updatedAt": "2026-06-09T12:05:46.121Z",
   "publicFields": [
     "code",
     "status",
@@ -6967,14 +6967,14 @@
     },
     {
       "code": "STARX-NDXP-LAF7-FB42",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714749603",
-      "expiresAt": "",
+      "expiresAt": "2026-07-09T11:43:26.633Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HGWY-G2LG-K3PD",
@@ -6989,14 +6989,14 @@
     },
     {
       "code": "STARX-NW62-78TF-S89N",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1777714749554",
-      "expiresAt": "",
+      "expiresAt": "2026-07-09T11:00:07.638Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WPQ2-DEVT-EE9C",
