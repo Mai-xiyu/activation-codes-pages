@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-10T21:17:58.602Z",
+  "updatedAt": "2026-06-10T22:12:27.753Z",
   "publicFields": [
     "code",
     "status",
@@ -147,14 +147,14 @@
     },
     {
       "code": "STARX-SG5B-HS26-PW6K",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781070453342",
-      "expiresAt": "",
+      "expiresAt": "2026-07-10T21:18:53.645Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4VQB-VW4J-KK29",
