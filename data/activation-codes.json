@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-11T16:45:27.798Z",
+  "updatedAt": "2026-06-11T18:01:11.667Z",
   "publicFields": [
     "code",
     "status",
@@ -620,14 +620,14 @@
     },
     {
       "code": "STARX-A9MP-7835-QYWR",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781070446013",
-      "expiresAt": "",
+      "expiresAt": "2026-07-11T16:55:02.444Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3Z2H-A8JN-M6JC",
@@ -785,14 +785,14 @@
     },
     {
       "code": "STARX-JPST-SNH3-BHX3",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781070443457",
-      "expiresAt": "",
+      "expiresAt": "2026-07-11T17:00:45.068Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KV9K-VAZN-GKGE",
