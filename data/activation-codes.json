@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-11T08:59:09.206Z",
+  "updatedAt": "2026-06-11T10:37:52.756Z",
   "publicFields": [
     "code",
     "status",
@@ -345,14 +345,14 @@
     },
     {
       "code": "STARX-YFZ9-239G-UZP9",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781070450275",
-      "expiresAt": "",
+      "expiresAt": "2026-07-11T09:08:00.083Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3DXA-3CQL-4GVX",
@@ -389,14 +389,14 @@
     },
     {
       "code": "STARX-U4T4-Z45L-287R",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781070449593",
-      "expiresAt": "",
+      "expiresAt": "2026-07-11T09:38:53.004Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-BSSN-LLR5-896W",
@@ -455,14 +455,14 @@
     },
     {
       "code": "STARX-LFKF-24NC-9EXM",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781070448570",
-      "expiresAt": "",
+      "expiresAt": "2026-07-11T09:32:10.267Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ARKS-AKPT-UFRS",
@@ -3320,28 +3320,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-TFAX-BC94-K88E",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714763936",
-      "expiresAt": "2026-06-11T09:13:53.123Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-4UNV-DQDP-QPPQ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714763932",
-      "expiresAt": "2026-06-11T09:05:00.343Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
