@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-11T15:05:58.369Z",
+  "updatedAt": "2026-06-11T16:45:27.798Z",
   "publicFields": [
     "code",
     "status",
@@ -587,14 +587,14 @@
     },
     {
       "code": "STARX-UWQD-82N7-W323",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781070446524",
-      "expiresAt": "",
+      "expiresAt": "2026-07-11T16:28:23.817Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5QKB-HM5Z-GUAJ",
@@ -3325,50 +3325,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-ZRQM-F4YG-3N6H",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714763248",
-      "expiresAt": "2026-06-11T15:25:08.489Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-MK6R-WTAG-WLT9",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714763077",
-      "expiresAt": "2026-06-11T15:44:54.451Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-SBSY-P963-ELP5",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714763076",
-      "expiresAt": "2026-06-11T16:01:30.322Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-MLHA-QG37-T5XQ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714762908",
-      "expiresAt": "2026-06-11T16:26:14.697Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-LX8B-BWTQ-UD8D",
       "status": "used",
       "plan": "30 天",
@@ -3485,17 +3441,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714762393",
       "expiresAt": "2026-06-12T05:32:09.362Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-5WDW-ZASS-R6ZA",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714762221",
-      "expiresAt": "2026-06-11T16:37:53.994Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
