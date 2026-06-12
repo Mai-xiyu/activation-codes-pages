@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-11T23:59:26.611Z",
+  "updatedAt": "2026-06-12T01:22:53.131Z",
   "publicFields": [
     "code",
     "status",
@@ -675,14 +675,14 @@
     },
     {
       "code": "STARX-5U97-35VM-GPDJ",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781070445160",
-      "expiresAt": "",
+      "expiresAt": "2026-07-12T00:31:27.484Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TRNL-EHB3-TZLR",
@@ -719,14 +719,14 @@
     },
     {
       "code": "STARX-BR98-4F6B-NCBR",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781070444479",
-      "expiresAt": "",
+      "expiresAt": "2026-07-12T00:38:08.449Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2Z6A-L3MJ-XUY9",
@@ -3325,17 +3325,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-MA5W-4SXL-V94Q",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714762906",
-      "expiresAt": "2026-06-12T01:18:31.072Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-WTXB-5UQC-2D86",
       "status": "used",
       "plan": "30 天",
@@ -3375,17 +3364,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714762577",
       "expiresAt": "2026-06-12T02:55:04.463Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-UBUS-G9H5-98RC",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714762567",
-      "expiresAt": "2026-06-12T01:16:49.298Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -3672,17 +3650,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714761194",
       "expiresAt": "2026-06-13T02:27:22.211Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-HUMM-WSA4-R5UH",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714761030",
-      "expiresAt": "2026-06-12T01:20:28.222Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
