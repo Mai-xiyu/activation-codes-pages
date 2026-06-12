@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-12T07:05:03.424Z",
+  "updatedAt": "2026-06-12T08:48:46.605Z",
   "publicFields": [
     "code",
     "status",
@@ -3325,17 +3325,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-X44Z-HWT9-KJW9",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714762393",
-      "expiresAt": "2026-06-12T08:45:19.878Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-RLZS-9PZ7-A3RK",
       "status": "used",
       "plan": "30 天",
@@ -3375,17 +3364,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714761879",
       "expiresAt": "2026-06-12T09:39:30.026Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-RA5E-FWFK-ZJVR",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714761710",
-      "expiresAt": "2026-06-12T07:23:35.094Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -3452,17 +3430,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714761367",
       "expiresAt": "2026-06-12T16:53:53.745Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-RLGR-XRCT-LWLK",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714761366",
-      "expiresAt": "2026-06-12T07:46:23.227Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -3573,17 +3540,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714761023",
       "expiresAt": "2026-06-13T06:58:25.601Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-NG5N-MSFS-347F",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714760859",
-      "expiresAt": "2026-06-12T08:46:56.575Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
