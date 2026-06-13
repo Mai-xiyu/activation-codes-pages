@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-13T18:28:21.719Z",
+  "updatedAt": "2026-06-13T18:56:35.337Z",
   "publicFields": [
     "code",
     "status",
@@ -1296,28 +1296,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-56RH-ANRR-F25L",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714760165",
-      "expiresAt": "2026-06-13T18:34:31.713Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-VKK8-6RWR-6LNM",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714759996",
-      "expiresAt": "2026-06-13T18:52:10.936Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
