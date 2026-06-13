@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-12T23:34:44.359Z",
+  "updatedAt": "2026-06-13T00:26:41.286Z",
   "publicFields": [
     "code",
     "status",
@@ -4420,17 +4420,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-DHBD-FRVR-PCWW",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714761365",
-      "expiresAt": "2026-06-13T00:04:52.821Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
