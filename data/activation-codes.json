@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-14T08:42:57.203Z",
+  "updatedAt": "2026-06-14T10:07:42.602Z",
   "publicFields": [
     "code",
     "status",
@@ -1318,17 +1318,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714759480",
       "expiresAt": "2026-06-14T16:35:29.328Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-U5RC-R6WJ-QW7G",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714759480",
-      "expiresAt": "2026-06-14T09:04:53.154Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
