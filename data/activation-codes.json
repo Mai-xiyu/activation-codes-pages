@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-14T17:30:53.538Z",
+  "updatedAt": "2026-06-14T18:23:25.366Z",
   "publicFields": [
     "code",
     "status",
@@ -1296,17 +1296,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-DRQD-QNPS-3VLX",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714759405",
-      "expiresAt": "2026-06-14T18:12:08.831Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
