@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-16T18:48:10.435Z",
+  "updatedAt": "2026-06-16T20:01:27.483Z",
   "publicFields": [
     "code",
     "status",
@@ -312,14 +312,14 @@
     },
     {
       "code": "STARX-MV6A-RECD-YKCN",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509838094",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T19:15:41.600Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MZD8-D2D7-DATU",
