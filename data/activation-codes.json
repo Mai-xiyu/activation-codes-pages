@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-16T11:13:48.500Z",
+  "updatedAt": "2026-06-16T13:04:49.859Z",
   "publicFields": [
     "code",
     "status",
@@ -6207,17 +6207,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-UAFP-KNAR-92JM",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714758965",
-      "expiresAt": "2026-06-16T11:52:11.381Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-PMYY-L4DA-5DJD",
       "status": "used",
       "plan": "30 天",
@@ -6466,17 +6455,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714758187",
       "expiresAt": "2026-06-18T07:02:32.733Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GQUP-FWAL-V8RL",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714758096",
-      "expiresAt": "2026-06-16T12:41:04.894Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
