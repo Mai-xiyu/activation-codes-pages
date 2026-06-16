@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-15T23:30:09.984Z",
+  "updatedAt": "2026-06-16T00:07:49.015Z",
   "publicFields": [
     "code",
     "status",
@@ -114,14 +114,14 @@
     },
     {
       "code": "STARX-CP94-PZGW-V2FJ",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509838094",
-      "expiresAt": "",
+      "expiresAt": "2026-06-18T00:03:55.877Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-D75L-Q7DF-AEM9",
@@ -180,14 +180,14 @@
     },
     {
       "code": "STARX-FH9U-QHBE-Z6B6",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509838094",
-      "expiresAt": "",
+      "expiresAt": "2026-06-17T23:51:48.276Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FMLM-SZRE-SQZE",
