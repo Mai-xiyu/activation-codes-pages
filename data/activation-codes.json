@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-17T00:25:48.902Z",
+  "updatedAt": "2026-06-17T01:34:34.241Z",
   "publicFields": [
     "code",
     "status",
@@ -455,25 +455,25 @@
     },
     {
       "code": "STARX-UMCZ-LRVB-HA3Y",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509838094",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T00:46:36.063Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-UZ3U-WUY4-7DA5",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509838094",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T00:51:20.470Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-V7HM-F663-SE4L",
@@ -653,14 +653,14 @@
     },
     {
       "code": "STARX-A3SG-SWPH-CHE6",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509838093",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T01:14:12.413Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-A8AZ-4NCL-HSS7",
@@ -6207,17 +6207,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-T5T8-RVEQ-NNPW",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714758778",
-      "expiresAt": "2026-06-17T01:07:58.772Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-L7RL-9U3U-2YT2",
       "status": "used",
       "plan": "30 天",
@@ -6708,17 +6697,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714757409",
       "expiresAt": "2026-06-19T16:03:29.178Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-3WT4-3M7B-XN9X",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714757408",
-      "expiresAt": "2026-06-17T01:06:00.378Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
