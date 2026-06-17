@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-17T14:10:23.958Z",
+  "updatedAt": "2026-06-17T15:43:36.256Z",
   "publicFields": [
     "code",
     "status",
@@ -13,28 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-97VY-DFH2-HR5S",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509838094",
-      "expiresAt": "2026-06-17T14:43:16.486Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-A2ZT-C5T7-KUUG",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509838094",
-      "expiresAt": "2026-06-17T14:24:46.476Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-ADT6-2D2X-5S5S",
       "status": "used",
@@ -53,17 +31,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781509838094",
       "expiresAt": "2026-06-18T00:03:55.877Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-DSUP-ZFUZ-P4RM",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509838094",
-      "expiresAt": "2026-06-17T14:26:28.145Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -421,17 +388,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-Z9JZ-T7ZL-DH6H",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509838094",
-      "expiresAt": "2026-06-17T15:36:42.799Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-2M2X-LEKN-8BV6",
       "status": "used",
       "plan": "2 天",
@@ -675,14 +631,14 @@
     },
     {
       "code": "STARX-J7QB-2KTA-PRQZ",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509838093",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T15:35:57.318Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-K63Z-U8RZ-GXJ8",
@@ -708,14 +664,14 @@
     },
     {
       "code": "STARX-LAAR-HVWC-E7UB",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509838093",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T14:41:01.610Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LNL8-FBLS-ACFF",
@@ -785,14 +741,14 @@
     },
     {
       "code": "STARX-QK3W-H4DS-MGUX",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509838093",
-      "expiresAt": "",
+      "expiresAt": "2026-06-19T15:06:43.367Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-QVYK-KGVH-D629",
@@ -6075,17 +6031,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-AS43-BV7Y-6JTG",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714758442",
-      "expiresAt": "2026-06-17T15:04:25.784Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-YEBH-W6HX-CRLP",
       "status": "used",
       "plan": "30 天",
@@ -6125,17 +6070,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714758269",
       "expiresAt": "2026-06-18T05:41:23.848Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GX4W-8PR8-UDQD",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714758269",
-      "expiresAt": "2026-06-17T15:18:25.421Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
