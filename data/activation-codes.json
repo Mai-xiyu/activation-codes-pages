@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-17T18:43:44.477Z",
+  "updatedAt": "2026-06-17T19:40:00.329Z",
   "publicFields": [
     "code",
     "status",
@@ -6026,17 +6026,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714758269",
       "expiresAt": "2026-06-18T05:41:23.848Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-38MD-YD9E-LJCB",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714758266",
-      "expiresAt": "2026-06-17T19:18:55.899Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
