@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-17T12:45:48.497Z",
+  "updatedAt": "2026-06-17T14:10:23.958Z",
   "publicFields": [
     "code",
     "status",
@@ -42,17 +42,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781509838094",
       "expiresAt": "2026-06-17T17:06:23.647Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-AZQU-FRU7-QJEG",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509838094",
-      "expiresAt": "2026-06-17T12:48:22.308Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -6081,17 +6070,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-MGE8-WU4D-CFHS",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714758531",
-      "expiresAt": "2026-06-17T13:40:20.048Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
