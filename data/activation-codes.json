@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-18T19:41:49.948Z",
+  "updatedAt": "2026-06-18T20:44:52.852Z",
   "publicFields": [
     "code",
     "status",
@@ -576,14 +576,14 @@
     },
     {
       "code": "STARX-48VU-ZLVL-2WFB",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826280",
-      "expiresAt": "",
+      "expiresAt": "2026-06-20T20:24:40.718Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-66L5-GB28-PMAM",
