@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-19T23:50:02.897Z",
+  "updatedAt": "2026-06-20T00:22:40.716Z",
   "publicFields": [
     "code",
     "status",
@@ -5069,17 +5069,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-WTFK-RKPR-T7PH",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714757325",
-      "expiresAt": "2026-06-19T23:55:14.097Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
