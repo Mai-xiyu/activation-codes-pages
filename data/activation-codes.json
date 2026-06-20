@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-20T05:25:14.221Z",
+  "updatedAt": "2026-06-20T06:49:08.794Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-UGJN-N48C-TZ2J",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509838093",
-      "expiresAt": "2026-06-20T06:18:45.595Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-WY7C-4QHQ-UV2X",
       "status": "used",
@@ -2589,14 +2578,14 @@
     },
     {
       "code": "STARX-BQQ2-V8WL-KA5K",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508934120",
-      "expiresAt": "",
+      "expiresAt": "2026-06-22T06:11:18.093Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6DXW-KPXP-X24R",
@@ -4975,28 +4964,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-LRBC-KDEG-RX3U",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714757170",
-      "expiresAt": "2026-06-20T06:16:15.368Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-N69R-9EJB-3F8A",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714757154",
-      "expiresAt": "2026-06-20T06:38:40.921Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-X6N4-YUZ7-LXNZ",
       "status": "used",
       "plan": "30 天",
@@ -6235,17 +6202,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714754229",
       "expiresAt": "2026-06-26T13:33:55.382Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-2ZV2-PH4R-NR8W",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714754174",
-      "expiresAt": "2026-06-20T06:18:28.039Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
