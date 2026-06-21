@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-20T23:50:37.638Z",
+  "updatedAt": "2026-06-21T00:23:03.945Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-76ZS-DX77-BH3G",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509826280",
-      "expiresAt": "2026-06-21T00:10:21.499Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-7FA4-KDWD-8Y5U",
       "status": "used",
