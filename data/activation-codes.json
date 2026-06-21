@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-21T16:07:46.756Z",
+  "updatedAt": "2026-06-21T16:59:59.696Z",
   "publicFields": [
     "code",
     "status",
@@ -75,17 +75,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781509826280",
       "expiresAt": "2026-06-22T05:20:37.122Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-EPFJ-MKTU-WFSH",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509826280",
-      "expiresAt": "2026-06-21T16:21:04.836Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -323,14 +312,14 @@
     },
     {
       "code": "STARX-TYSH-2V2D-LNMD",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826280",
-      "expiresAt": "",
+      "expiresAt": "2026-06-23T16:32:16.272Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ULM4-5UCE-TCWL",
@@ -4739,17 +4728,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-5U42-A2J8-MCLK",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714756209",
-      "expiresAt": "2026-06-21T16:42:09.565Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
