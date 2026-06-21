@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-21T10:11:55.968Z",
+  "updatedAt": "2026-06-21T11:28:53.160Z",
   "publicFields": [
     "code",
     "status",
@@ -477,14 +477,14 @@
     },
     {
       "code": "STARX-Y6R6-SVDZ-ZXF5",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826280",
-      "expiresAt": "",
+      "expiresAt": "2026-06-23T10:32:31.432Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-YD3U-7XUA-4V7J",
