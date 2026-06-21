@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-21T20:28:11.600Z",
+  "updatedAt": "2026-06-21T20:57:05.220Z",
   "publicFields": [
     "code",
     "status",
@@ -290,14 +290,14 @@
     },
     {
       "code": "STARX-ULM4-5UCE-TCWL",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826280",
-      "expiresAt": "",
+      "expiresAt": "2026-06-23T20:46:07.480Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VL45-8SV7-34HG",
