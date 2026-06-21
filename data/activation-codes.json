@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-21T19:00:07.840Z",
+  "updatedAt": "2026-06-21T19:38:33.921Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-ACUJ-JWUX-2WQ2",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509826280",
-      "expiresAt": "2026-06-21T19:21:09.520Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-B7GH-H84Q-RJ6M",
       "status": "used",
