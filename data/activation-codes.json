@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-21T13:12:18.377Z",
+  "updatedAt": "2026-06-21T14:13:31.230Z",
   "publicFields": [
     "code",
     "status",
@@ -64,17 +64,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781509826280",
       "expiresAt": "2026-06-21T18:44:16.960Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-B3CH-3XWE-QGKD",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509826280",
-      "expiresAt": "2026-06-21T13:14:25.208Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -279,14 +268,14 @@
     },
     {
       "code": "STARX-MS5K-R6AZ-JSMA",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826280",
-      "expiresAt": "",
+      "expiresAt": "2026-06-23T13:25:27.672Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NUMT-86FC-SEDZ",
@@ -301,14 +290,14 @@
     },
     {
       "code": "STARX-P85L-WYL8-QVYY",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826280",
-      "expiresAt": "",
+      "expiresAt": "2026-06-23T13:27:38.324Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PVYN-XBNG-ZXWP",
@@ -2325,14 +2314,14 @@
     },
     {
       "code": "STARX-42DA-ASMU-GUJC",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508937210",
-      "expiresAt": "",
+      "expiresAt": "2026-06-23T14:05:48.215Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SEAU-ZJS8-EF76",
