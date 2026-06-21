@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-21T08:48:42.491Z",
+  "updatedAt": "2026-06-21T10:11:55.968Z",
   "publicFields": [
     "code",
     "status",
@@ -367,14 +367,14 @@
     },
     {
       "code": "STARX-RJHG-Z4RV-WSKS",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826280",
-      "expiresAt": "",
+      "expiresAt": "2026-06-23T10:11:23.531Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-T8H6-LH9B-ZP8P",
