@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-21T05:10:56.964Z",
+  "updatedAt": "2026-06-21T07:07:02.018Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-7FA4-KDWD-8Y5U",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509826280",
-      "expiresAt": "2026-06-21T05:49:15.587Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-7SBU-985H-Q2KB",
       "status": "used",
@@ -64,17 +53,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781509826280",
       "expiresAt": "2026-06-21T18:38:46.514Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-ABYX-W3P5-9M4C",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509826280",
-      "expiresAt": "2026-06-21T05:35:13.321Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -4843,28 +4821,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-Y2D6-MM8C-YTEE",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714756550",
-      "expiresAt": "2026-06-21T06:20:20.790Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-SS4M-ZUTS-HV56",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714756380",
-      "expiresAt": "2026-06-21T06:52:24.078Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-HG9F-2R8X-98KH",
       "status": "used",
       "plan": "30 天",
@@ -4882,28 +4838,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714756377",
       "expiresAt": "2026-06-21T15:07:33.666Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-DPU7-JPMD-SCK3",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714756373",
-      "expiresAt": "2026-06-21T05:51:05.959Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-UX86-VHN3-J6TM",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714756234",
-      "expiresAt": "2026-06-21T05:32:25.632Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
