@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-22T03:00:43.427Z",
+  "updatedAt": "2026-06-22T05:12:34.294Z",
   "publicFields": [
     "code",
     "status",
@@ -378,14 +378,14 @@
     },
     {
       "code": "STARX-Z8WL-CEDC-TC5Y",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826280",
-      "expiresAt": "",
+      "expiresAt": "2026-06-24T04:33:43.832Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ZAYV-GR2X-W3VE",
@@ -433,14 +433,14 @@
     },
     {
       "code": "STARX-2TNN-VXRU-8B8F",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826279",
-      "expiresAt": "",
+      "expiresAt": "2026-06-24T03:48:12.180Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2YG4-ZBG8-CA7W",
@@ -2049,17 +2049,6 @@
       "usedCount": 0
     },
     {
-      "code": "STARX-SQ7A-DDK3-CH3J",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508942358",
-      "expiresAt": "2026-06-22T03:52:54.293Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-NTYT-MB4Z-KCYX",
       "status": "active",
       "plan": "2 天",
@@ -2080,17 +2069,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-F5UK-EK8Z-ZVU5",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508941326",
-      "expiresAt": "2026-06-22T03:52:23.677Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-2Q52-S4MR-NTWM",
@@ -4684,17 +4662,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-42VX-WDP8-KJCE",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714756208",
-      "expiresAt": "2026-06-22T04:59:53.798Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
