@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-22T00:23:38.861Z",
+  "updatedAt": "2026-06-22T01:34:59.511Z",
   "publicFields": [
     "code",
     "status",
@@ -334,14 +334,14 @@
     },
     {
       "code": "STARX-WWVZ-EL3D-V3RP",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826280",
-      "expiresAt": "",
+      "expiresAt": "2026-06-24T00:42:30.893Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XQZB-2T7V-JXH6",
@@ -499,14 +499,14 @@
     },
     {
       "code": "STARX-5473-TG3N-C4YR",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826279",
-      "expiresAt": "",
+      "expiresAt": "2026-06-24T00:36:28.845Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5CT4-C4WY-DRZN",
