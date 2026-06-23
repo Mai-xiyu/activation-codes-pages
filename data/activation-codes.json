@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-23T05:16:12.501Z",
+  "updatedAt": "2026-06-23T06:44:46.569Z",
   "publicFields": [
     "code",
     "status",
@@ -653,14 +653,14 @@
     },
     {
       "code": "STARX-2K3W-GDXV-B97L",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509803582",
-      "expiresAt": "",
+      "expiresAt": "2026-06-25T05:20:29.225Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3388-4RG8-AAY7",
@@ -675,14 +675,14 @@
     },
     {
       "code": "STARX-3B4M-AYDC-NGMR",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509803582",
-      "expiresAt": "",
+      "expiresAt": "2026-06-25T06:15:11.667Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3JJY-7WCF-P422",
@@ -785,14 +785,14 @@
     },
     {
       "code": "STARX-7G2T-93HY-XR6U",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509803582",
-      "expiresAt": "",
+      "expiresAt": "2026-06-25T06:06:44.835Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-7HLD-LLVS-QAJT",
@@ -3117,14 +3117,14 @@
     },
     {
       "code": "STARX-779A-66DS-46UH",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508894368",
-      "expiresAt": "",
+      "expiresAt": "2026-06-25T06:11:18.164Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-V5BA-K788-BSPW",
