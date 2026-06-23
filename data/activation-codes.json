@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-23T08:08:58.973Z",
+  "updatedAt": "2026-06-23T09:43:32.658Z",
   "publicFields": [
     "code",
     "status",
@@ -108,17 +108,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781509826280",
       "expiresAt": "2026-06-23T15:26:20.535Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-WPA3-A6RK-4FEK",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509826280",
-      "expiresAt": "2026-06-23T08:43:58.481Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -686,14 +675,14 @@
     },
     {
       "code": "STARX-3Q6S-99QX-MSWQ",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509803582",
-      "expiresAt": "",
+      "expiresAt": "2026-06-25T09:02:31.084Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3WAS-EM89-S4P2",
@@ -730,14 +719,14 @@
     },
     {
       "code": "STARX-6HVH-VPWC-RFKN",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509803582",
-      "expiresAt": "",
+      "expiresAt": "2026-06-25T09:12:57.267Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-74GE-TBF8-EJNG",
@@ -785,14 +774,14 @@
     },
     {
       "code": "STARX-7HLD-LLVS-QAJT",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509803582",
-      "expiresAt": "",
+      "expiresAt": "2026-06-25T08:27:59.356Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8ADZ-VX4Y-XZHN",
