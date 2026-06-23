@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-22T23:37:17.315Z",
+  "updatedAt": "2026-06-23T00:22:45.725Z",
   "publicFields": [
     "code",
     "status",
@@ -532,14 +532,14 @@
     },
     {
       "code": "STARX-QNZ3-XN47-W2GA",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509826279",
-      "expiresAt": "",
+      "expiresAt": "2026-06-24T23:41:15.448Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-QPCL-MRVD-E3Y4",
