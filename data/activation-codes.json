@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-24T19:07:45.107Z",
+  "updatedAt": "2026-06-24T20:06:42.968Z",
   "publicFields": [
     "code",
     "status",
@@ -1049,14 +1049,14 @@
     },
     {
       "code": "STARX-ZSBC-PTEL-XF2Z",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781509803582",
-      "expiresAt": "",
+      "expiresAt": "2026-06-26T19:52:31.666Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VKYH-PMT7-2RST",
