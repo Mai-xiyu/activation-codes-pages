@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-25T22:03:56.505Z",
+  "updatedAt": "2026-06-25T22:57:20.713Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-JA4U-9ABR-VNAJ",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509803582",
-      "expiresAt": "2026-06-25T22:47:44.885Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-JA6Y-MHUR-TSLQ",
       "status": "used",
@@ -42,17 +31,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781509803582",
       "expiresAt": "2026-06-26T05:40:14.546Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-K3XC-86X8-S2LN",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509803582",
-      "expiresAt": "2026-06-25T22:16:37.168Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
