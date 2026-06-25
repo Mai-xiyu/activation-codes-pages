@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-25T22:57:20.713Z",
+  "updatedAt": "2026-06-25T23:31:26.097Z",
   "publicFields": [
     "code",
     "status",
@@ -3166,17 +3166,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-AFL5-YG4G-U2NA",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714755004",
-      "expiresAt": "2026-06-25T23:03:51.739Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
