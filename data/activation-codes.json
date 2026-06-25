@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-24T23:50:07.545Z",
+  "updatedAt": "2026-06-25T00:22:57.772Z",
   "publicFields": [
     "code",
     "status",
@@ -5487,17 +5487,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714751261",
       "expiresAt": "2026-07-06T01:58:35.808Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-C2S5-YY5Y-XNLD",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751236",
-      "expiresAt": "2026-06-25T00:17:38.543Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
