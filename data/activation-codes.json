@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-26T12:35:01.288Z",
+  "updatedAt": "2026-06-26T13:36:19.546Z",
   "publicFields": [
     "code",
     "status",
@@ -13,28 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-P2X8-GYFC-83RX",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509803582",
-      "expiresAt": "2026-06-26T13:14:49.064Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-Q7XH-9LJL-2UPA",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781509803582",
-      "expiresAt": "2026-06-26T13:15:23.048Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-RM7F-ZVGT-9GR8",
       "status": "used",
@@ -906,14 +884,14 @@
     },
     {
       "code": "STARX-6CZM-TDCQ-ALKY",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508916312",
-      "expiresAt": "",
+      "expiresAt": "2026-06-28T13:06:38.581Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GHNP-HYVX-LVLQ",
@@ -2863,17 +2841,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-PG3B-4SXT-ZV85",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714754594",
-      "expiresAt": "2026-06-26T12:38:08.318Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-GYSP-DSPW-TZRU",
       "status": "used",
       "plan": "30 天",
@@ -2902,28 +2869,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714754317",
       "expiresAt": "2026-06-27T07:25:42.623Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-EB2M-3SQL-R8LQ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714754253",
-      "expiresAt": "2026-06-26T12:55:34.963Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GQEA-3S6W-R77D",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714754229",
-      "expiresAt": "2026-06-26T13:33:55.382Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
