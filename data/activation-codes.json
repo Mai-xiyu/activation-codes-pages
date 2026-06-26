@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-26T23:22:31.530Z",
+  "updatedAt": "2026-06-26T23:48:22.961Z",
   "publicFields": [
     "code",
     "status",
@@ -807,14 +807,14 @@
     },
     {
       "code": "STARX-CJ62-KED5-CZBD",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508913247",
-      "expiresAt": "",
+      "expiresAt": "2026-06-28T23:39:44.734Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LWPP-6M6R-LBZD",
