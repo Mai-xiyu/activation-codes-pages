@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-27T03:43:15.247Z",
+  "updatedAt": "2026-06-27T05:13:51.937Z",
   "publicFields": [
     "code",
     "status",
@@ -14,34 +14,12 @@
   ],
   "codes": [
     {
-      "code": "STARX-VKYH-PMT7-2RST",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508948897",
-      "expiresAt": "2026-06-27T03:54:30.495Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-RV9E-6YJG-KFRG",
       "status": "used",
       "plan": "2 天",
       "label": "已绑定设备",
       "issuedAt": "1781508948215",
       "expiresAt": "2026-06-27T05:21:02.698Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-D3TN-2JJJ-ZUCN",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508947528",
-      "expiresAt": "2026-06-27T04:50:29.158Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -64,17 +42,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781508946494",
       "expiresAt": "2026-06-27T08:34:16.743Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-XJV7-WQST-YMSP",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508946149",
-      "expiresAt": "2026-06-27T04:13:32.917Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -796,25 +763,25 @@
     },
     {
       "code": "STARX-HLPC-KVDC-DEMN",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508911883",
-      "expiresAt": "",
+      "expiresAt": "2026-06-29T04:52:28.876Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NCGB-LLJR-G6V6",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508911542",
-      "expiresAt": "",
+      "expiresAt": "2026-06-29T04:55:43.218Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HTCU-ZQ5N-7PMA",
