@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-27T02:15:52.312Z",
+  "updatedAt": "2026-06-27T03:43:15.247Z",
   "publicFields": [
     "code",
     "status",
@@ -262,17 +262,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781508938918",
       "expiresAt": "2026-06-27T12:42:13.001Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-LJD2-JRS8-62RC",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508938574",
-      "expiresAt": "2026-06-27T03:21:07.393Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -796,14 +785,14 @@
     },
     {
       "code": "STARX-4Y7R-MDWE-G75R",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508912225",
-      "expiresAt": "",
+      "expiresAt": "2026-06-29T03:41:07.381Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HLPC-KVDC-DEMN",
@@ -840,14 +829,14 @@
     },
     {
       "code": "STARX-H323-QFBX-TRZH",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508910521",
-      "expiresAt": "",
+      "expiresAt": "2026-06-29T03:17:58.535Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3RGB-BM6U-RE8S",
@@ -925,17 +914,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-QLCU-PBX9-RVTA",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508907797",
-      "expiresAt": "2026-06-27T02:22:33.766Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-BE8N-22T7-Q2SG",
