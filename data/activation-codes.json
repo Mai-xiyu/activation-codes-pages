@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-27T11:28:15.877Z",
+  "updatedAt": "2026-06-27T11:59:07.178Z",
   "publicFields": [
     "code",
     "status",
@@ -136,14 +136,14 @@
     },
     {
       "code": "STARX-4Q43-48WZ-R2DA",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-12T11:57:31.221Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4VDF-GYUS-2WPX",
