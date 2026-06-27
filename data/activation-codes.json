@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-27T14:09:36.595Z",
+  "updatedAt": "2026-06-27T14:59:26.419Z",
   "publicFields": [
     "code",
     "status",
@@ -3840,17 +3840,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-KJAP-LYPP-QTDT",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508940635",
-      "expiresAt": "2026-06-27T14:28:02.588Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-RZ33-2HYC-JRYT",
@@ -8523,17 +8512,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777289488496",
       "expiresAt": "2026-07-03T16:23:51.769Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-LAU7-H3BM-LH4L",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289486955",
-      "expiresAt": "2026-06-27T14:14:13.353Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
