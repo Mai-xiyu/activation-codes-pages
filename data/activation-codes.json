@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-27T14:59:26.419Z",
+  "updatedAt": "2026-06-27T15:33:57.081Z",
   "publicFields": [
     "code",
     "status",
@@ -4810,17 +4810,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-V5BA-K788-BSPW",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508894029",
-      "expiresAt": "2026-06-27T15:05:53.927Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-KTY9-7U97-C7WA",
       "status": "used",
       "plan": "30 天",
@@ -6114,17 +6103,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714754149",
       "expiresAt": "2026-06-28T00:46:01.397Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-M4LJ-E3YE-8VL5",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714754145",
-      "expiresAt": "2026-06-27T15:15:25.251Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
