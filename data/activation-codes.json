@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-27T01:20:45.474Z",
+  "updatedAt": "2026-06-27T02:15:52.312Z",
   "publicFields": [
     "code",
     "status",
@@ -25,34 +25,12 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-TTFQ-B7S9-H7CD",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508948557",
-      "expiresAt": "2026-06-27T01:50:12.404Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-RV9E-6YJG-KFRG",
       "status": "used",
       "plan": "2 天",
       "label": "已绑定设备",
       "issuedAt": "1781508948215",
       "expiresAt": "2026-06-27T05:21:02.698Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-C4QJ-656R-SDCR",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508947871",
-      "expiresAt": "2026-06-27T02:09:37.879Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -2632,17 +2610,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-DQWJ-ULYZ-85XV",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714754319",
-      "expiresAt": "2026-06-27T02:06:07.125Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-FTBK-54UD-UGKS",
       "status": "used",
       "plan": "30 天",
@@ -2715,17 +2682,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714753986",
       "expiresAt": "2026-06-27T08:25:15.173Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-CBH7-V8E4-D6W5",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714753979",
-      "expiresAt": "2026-06-27T02:12:41.526Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -3177,17 +3133,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714752942",
       "expiresAt": "2026-07-01T11:47:00.550Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-JTUY-Z5KU-7RAK",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752924",
-      "expiresAt": "2026-06-27T02:07:12.640Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
