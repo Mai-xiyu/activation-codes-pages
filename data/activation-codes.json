@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-28T11:30:57.941Z",
+  "updatedAt": "2026-06-28T12:21:09.144Z",
   "publicFields": [
     "code",
     "status",
@@ -312,14 +312,14 @@
     },
     {
       "code": "STARX-99RV-F2WD-SZZN",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-13T11:55:46.564Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ADE8-4KNM-8UUW",
