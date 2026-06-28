@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-28T17:23:57.364Z",
+  "updatedAt": "2026-06-28T17:50:14.643Z",
   "publicFields": [
     "code",
     "status",
@@ -3840,17 +3840,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-AJ5P-L34E-843J",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508914606",
-      "expiresAt": "2026-06-28T17:41:23.409Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-8D24-MRCM-PEAZ",
