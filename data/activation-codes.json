@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-28T00:19:35.557Z",
+  "updatedAt": "2026-06-28T01:26:54.662Z",
   "publicFields": [
     "code",
     "status",
@@ -3842,17 +3842,6 @@
       "usedCount": 0
     },
     {
-      "code": "STARX-SEAU-ZJS8-EF76",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508936866",
-      "expiresAt": "2026-06-28T00:38:57.782Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-XVYZ-Q9EG-Y9UC",
       "status": "used",
       "plan": "2 天",
@@ -3875,17 +3864,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-WBYD-Q8YH-CZGH",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508933432",
-      "expiresAt": "2026-06-28T00:52:35.861Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-9UYU-5B9S-HD7W",
       "status": "used",
       "plan": "2 天",
@@ -3903,17 +3881,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781508932061",
       "expiresAt": "2026-06-28T01:33:48.448Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-26FB-8PT9-ZNW8",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508931719",
-      "expiresAt": "2026-06-28T01:10:02.916Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -6031,17 +5998,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-VSV9-CC2E-95TR",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714754149",
-      "expiresAt": "2026-06-28T00:46:01.397Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-6HG2-KLGC-RUPE",
       "status": "used",
       "plan": "30 天",
@@ -6312,17 +6268,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714753460",
       "expiresAt": "2026-06-30T17:29:12.653Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-3VPB-Z2KG-RRGQ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714753369",
-      "expiresAt": "2026-06-28T01:00:18.484Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
