@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-28T16:49:26.333Z",
+  "updatedAt": "2026-06-28T17:23:57.364Z",
   "publicFields": [
     "code",
     "status",
@@ -609,14 +609,14 @@
     },
     {
       "code": "STARX-HYXK-NHUS-PA4G",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-13T17:05:52.032Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-J6AA-YHTU-H96X",
@@ -3840,17 +3840,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-KGD7-97XH-728R",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508914949",
-      "expiresAt": "2026-06-28T16:49:47.729Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-AJ5P-L34E-843J",
