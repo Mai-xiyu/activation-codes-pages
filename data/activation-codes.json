@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-28T19:57:24.197Z",
+  "updatedAt": "2026-06-28T20:29:06.593Z",
   "publicFields": [
     "code",
     "status",
@@ -367,14 +367,14 @@
     },
     {
       "code": "STARX-BFCL-SBGN-YLYQ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-13T20:24:42.456Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-BT32-Z3U4-HERB",
