@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-28T01:26:54.662Z",
+  "updatedAt": "2026-06-28T02:20:14.870Z",
   "publicFields": [
     "code",
     "status",
@@ -3842,28 +3842,6 @@
       "usedCount": 0
     },
     {
-      "code": "STARX-XVYZ-Q9EG-Y9UC",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508935149",
-      "expiresAt": "2026-06-28T01:39:14.449Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-AL2S-7SEB-L2EV",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508934463",
-      "expiresAt": "2026-06-28T01:45:53.874Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-9UYU-5B9S-HD7W",
       "status": "used",
       "plan": "2 天",
@@ -3875,45 +3853,12 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-RXLR-CJ97-US7G",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508932061",
-      "expiresAt": "2026-06-28T01:33:48.448Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-TL5Z-4DYS-N92Z",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508931377",
-      "expiresAt": "2026-06-28T01:33:53.177Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-5CGV-5X9A-FKA6",
       "status": "used",
       "plan": "2 天",
       "label": "已绑定设备",
       "issuedAt": "1781508930691",
       "expiresAt": "2026-06-28T03:48:24.179Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-5N4N-SAHR-N4CE",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508930348",
-      "expiresAt": "2026-06-28T01:52:59.284Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -3969,17 +3914,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781508928302",
       "expiresAt": "2026-06-28T09:12:31.002Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-9WN4-YALA-KN36",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508927963",
-      "expiresAt": "2026-06-28T01:44:07.984Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
