@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-28T09:34:08.439Z",
+  "updatedAt": "2026-06-28T10:41:38.639Z",
   "publicFields": [
     "code",
     "status",
@@ -301,14 +301,14 @@
     },
     {
       "code": "STARX-8LLG-M2NZ-GFNJ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-13T10:05:40.033Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-99RV-F2WD-SZZN",
@@ -411,14 +411,14 @@
     },
     {
       "code": "STARX-C9X9-9RV5-6UWX",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-13T09:56:06.452Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-E5CR-DB82-RTT8",
@@ -3842,17 +3842,6 @@
       "usedCount": 0
     },
     {
-      "code": "STARX-73S6-666F-RYL7",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508917334",
-      "expiresAt": "2026-06-28T10:12:09.235Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-AFLD-NTAS-VTSY",
       "status": "used",
       "plan": "2 天",
@@ -5734,17 +5723,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-NUES-VY7E-4FYR",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714753974",
-      "expiresAt": "2026-06-28T09:49:06.672Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-CHCL-C8YG-L6Q3",
       "status": "used",
       "plan": "30 天",
@@ -5773,17 +5751,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714753815",
       "expiresAt": "2026-06-29T01:23:21.781Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-JHDU-TR23-DYBJ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714753805",
-      "expiresAt": "2026-06-28T09:54:22.054Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
