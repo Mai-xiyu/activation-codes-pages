@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-29T21:28:09.797Z",
+  "updatedAt": "2026-06-29T21:58:00.821Z",
   "publicFields": [
     "code",
     "status",
@@ -675,14 +675,14 @@
     },
     {
       "code": "STARX-L6WA-2C2E-YZX5",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-14T21:55:01.188Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-L87E-ZQ8T-ZHXV",
