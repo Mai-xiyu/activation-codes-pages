@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-29T19:31:09.300Z",
+  "updatedAt": "2026-06-29T20:33:00.488Z",
   "publicFields": [
     "code",
     "status",
@@ -642,14 +642,14 @@
     },
     {
       "code": "STARX-KPW8-P3HV-FLEK",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-14T19:45:45.238Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KQL7-MH9A-AL2L",
@@ -5421,17 +5421,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-FN9M-AU8R-VZMS",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714753782",
-      "expiresAt": "2026-06-29T20:19:10.764Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
