@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-29T12:49:41.034Z",
+  "updatedAt": "2026-06-29T14:20:40.445Z",
   "publicFields": [
     "code",
     "status",
@@ -576,14 +576,14 @@
     },
     {
       "code": "STARX-HK6P-DUWS-DQ3Z",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-14T14:14:39.700Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HQHX-7ZXS-CEY4",
