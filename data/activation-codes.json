@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-30T08:09:16.125Z",
+  "updatedAt": "2026-06-30T09:43:22.955Z",
   "publicFields": [
     "code",
     "status",
@@ -906,14 +906,14 @@
     },
     {
       "code": "STARX-R9EN-H334-5TX4",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-15T08:17:31.581Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RS3X-8VVF-MYY4",
