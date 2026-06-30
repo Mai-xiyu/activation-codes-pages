@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-30T14:47:09.727Z",
+  "updatedAt": "2026-06-30T15:45:43.656Z",
   "publicFields": [
     "code",
     "status",
@@ -994,14 +994,14 @@
     },
     {
       "code": "STARX-WM7W-D4LW-97T2",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-15T15:16:45.044Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WXB6-7VV2-KCL5",
@@ -1115,14 +1115,14 @@
     },
     {
       "code": "STARX-25U7-ZNVY-2CG3",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-15T15:32:49.808Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2C2V-68FZ-FBUF",
@@ -1236,14 +1236,14 @@
     },
     {
       "code": "STARX-72W4-7GBJ-7DKM",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-15T15:14:41.138Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-7S6Y-VVAF-G7W8",
@@ -1456,14 +1456,14 @@
     },
     {
       "code": "STARX-D4RD-CY9P-X97V",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-15T15:29:08.243Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-DPQD-26FA-H3EM",
@@ -2666,14 +2666,14 @@
     },
     {
       "code": "STARX-QGRC-254U-2HL8",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548798458",
-      "expiresAt": "",
+      "expiresAt": "2026-07-15T15:27:23.244Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PL2C-QGL9-PGBC",
