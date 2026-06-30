@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-06-30T23:24:16.980Z",
+  "updatedAt": "2026-06-30T23:50:26.413Z",
   "publicFields": [
     "code",
     "status",
@@ -1016,14 +1016,14 @@
     },
     {
       "code": "STARX-X2N7-ZHP5-66ZD",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-15T23:26:46.112Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-X7LF-NUGH-C5QR",
@@ -1302,14 +1302,14 @@
     },
     {
       "code": "STARX-98KE-GGNQ-LULP",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-15T23:31:40.909Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-9G6P-U7ZM-YZTE",
