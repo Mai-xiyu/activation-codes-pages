@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-01T05:27:51.458Z",
+  "updatedAt": "2026-07-01T06:56:55.983Z",
   "publicFields": [
     "code",
     "status",
@@ -5580,34 +5580,12 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-K4XF-VNCU-C53M",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752772",
-      "expiresAt": "2026-07-01T06:06:27.571Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-QA5H-UK8H-LAT3",
       "status": "used",
       "plan": "30 天",
       "label": "已绑定设备",
       "issuedAt": "1777714752771",
       "expiresAt": "2026-07-02T11:49:20.945Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-HELE-G7Q3-H92H",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752752",
-      "expiresAt": "2026-07-01T06:45:39.215Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
