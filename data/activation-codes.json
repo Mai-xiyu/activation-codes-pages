@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-01T09:44:39.986Z",
+  "updatedAt": "2026-07-01T11:01:00.896Z",
   "publicFields": [
     "code",
     "status",
@@ -1071,14 +1071,14 @@
     },
     {
       "code": "STARX-XWTT-EECR-3QEA",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548874061",
-      "expiresAt": "",
+      "expiresAt": "2026-07-16T10:08:04.326Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Y64B-7K3W-MZUV",
@@ -5432,17 +5432,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714753286",
       "expiresAt": "2026-07-01T11:08:56.899Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-A56S-3RAQ-ECE6",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714753128",
-      "expiresAt": "2026-07-01T09:59:39.978Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
