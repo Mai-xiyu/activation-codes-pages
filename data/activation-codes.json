@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-01T12:21:34.000Z",
+  "updatedAt": "2026-07-01T13:22:43.379Z",
   "publicFields": [
     "code",
     "status",
@@ -1148,14 +1148,14 @@
     },
     {
       "code": "STARX-345S-SNQU-2EQT",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-16T12:57:14.811Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3G7W-UTZ4-YMQY",
@@ -1357,14 +1357,14 @@
     },
     {
       "code": "STARX-B45K-HYL5-D7TU",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-16T12:58:32.545Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-B5C5-N2W7-973A",
