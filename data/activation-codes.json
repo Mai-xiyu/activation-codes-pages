@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-01T06:56:55.983Z",
+  "updatedAt": "2026-07-01T08:25:54.272Z",
   "publicFields": [
     "code",
     "status",
@@ -1214,14 +1214,14 @@
     },
     {
       "code": "STARX-6RDX-7HM6-N5AR",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-16T08:11:47.282Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6Z3U-MYKH-RVTK",
@@ -6059,17 +6059,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714751600",
       "expiresAt": "2026-07-04T16:07:09.255Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-U37W-QG49-4NHQ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751582",
-      "expiresAt": "2026-07-01T08:16:54.948Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
