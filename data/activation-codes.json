@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-02T09:34:38.413Z",
+  "updatedAt": "2026-07-02T10:51:31.574Z",
   "publicFields": [
     "code",
     "status",
@@ -1467,14 +1467,14 @@
     },
     {
       "code": "STARX-DPQD-26FA-H3EM",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-17T09:38:46.257Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-DYKR-DHA6-HEQU",
@@ -1489,14 +1489,14 @@
     },
     {
       "code": "STARX-E98B-D27Z-8TMQ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-17T10:44:28.946Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EFPD-CRP3-WFT3",
@@ -2809,14 +2809,14 @@
     },
     {
       "code": "STARX-EWLQ-NRAA-BQCY",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548794009",
-      "expiresAt": "",
+      "expiresAt": "2026-07-17T10:33:23.139Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EEBY-23HZ-H99Q",
