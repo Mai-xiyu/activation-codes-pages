@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-03T23:20:06.781Z",
+  "updatedAt": "2026-07-03T23:48:11.883Z",
   "publicFields": [
     "code",
     "status",
@@ -5531,17 +5531,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714751896",
       "expiresAt": "2026-07-04T12:24:24.657Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-CEPA-LMWR-N9ES",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751753",
-      "expiresAt": "2026-07-03T23:46:39.680Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
