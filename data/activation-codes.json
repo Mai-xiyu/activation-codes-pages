@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-03T01:04:06.134Z",
+  "updatedAt": "2026-07-03T02:15:08.924Z",
   "publicFields": [
     "code",
     "status",
@@ -1544,14 +1544,14 @@
     },
     {
       "code": "STARX-FYXZ-MP3N-L9KA",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-18T01:09:42.952Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-G5PD-AQ8J-XV5D",
@@ -1566,14 +1566,14 @@
     },
     {
       "code": "STARX-GRTP-69AW-DR6D",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-18T01:18:25.183Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-H5NJ-9HZX-95NB",
@@ -5426,34 +5426,12 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-GXE4-92JT-P56E",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752429",
-      "expiresAt": "2026-07-03T01:39:27.621Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-WAGD-HQLW-AR5S",
       "status": "used",
       "plan": "30 天",
       "label": "已绑定设备",
       "issuedAt": "1777714752409",
       "expiresAt": "2026-07-03T06:12:47.805Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-RSAK-S6CN-9UD8",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752288",
-      "expiresAt": "2026-07-03T02:08:37.737Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -5718,17 +5696,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714751724",
       "expiresAt": "2026-07-04T15:14:28.008Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-TRWA-5EER-Y2A7",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751649",
-      "expiresAt": "2026-07-03T01:42:17.372Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
