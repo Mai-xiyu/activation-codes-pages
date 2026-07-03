@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-03T05:14:12.720Z",
+  "updatedAt": "2026-07-03T06:39:11.297Z",
   "publicFields": [
     "code",
     "status",
@@ -1555,14 +1555,14 @@
     },
     {
       "code": "STARX-G5PD-AQ8J-XV5D",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-18T06:25:22.379Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GRTP-69AW-DR6D",
@@ -1610,14 +1610,14 @@
     },
     {
       "code": "STARX-HT9C-BGLZ-PZVX",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-18T06:34:56.879Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HYB4-XKSM-C58J",
@@ -3216,14 +3216,14 @@
     },
     {
       "code": "STARX-HY2M-Z6EY-36YV",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548768403",
-      "expiresAt": "",
+      "expiresAt": "2026-07-18T06:37:21.892Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VWPH-UV6N-KUP7",
@@ -5426,17 +5426,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-WAGD-HQLW-AR5S",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752409",
-      "expiresAt": "2026-07-03T06:12:47.805Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-38W5-F4BV-C7MZ",
       "status": "used",
       "plan": "30 天",
@@ -5487,17 +5476,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714752166",
       "expiresAt": "2026-07-03T15:55:46.030Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-JW4W-8DPP-5GBA",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752116",
-      "expiresAt": "2026-07-03T06:23:23.610Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
