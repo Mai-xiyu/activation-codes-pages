@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-03T16:02:20.704Z",
+  "updatedAt": "2026-07-03T16:56:45.494Z",
   "publicFields": [
     "code",
     "status",
@@ -5481,17 +5481,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-48Y6-UQ4F-LW74",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751925",
-      "expiresAt": "2026-07-03T16:33:38.205Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-LAQN-XR5D-6U6K",
       "status": "used",
       "plan": "30 天",
@@ -6851,17 +6840,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777289491744",
       "expiresAt": "2026-07-09T03:04:19.988Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-5L4Z-EULF-3L7L",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289488496",
-      "expiresAt": "2026-07-03T16:23:51.769Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
