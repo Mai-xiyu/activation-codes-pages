@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-03T09:13:06.455Z",
+  "updatedAt": "2026-07-03T10:19:28.403Z",
   "publicFields": [
     "code",
     "status",
@@ -2853,14 +2853,14 @@
     },
     {
       "code": "STARX-LUC4-UDZM-B3XE",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548792640",
-      "expiresAt": "",
+      "expiresAt": "2026-07-18T09:32:49.149Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SZAY-MBS7-46JP",
