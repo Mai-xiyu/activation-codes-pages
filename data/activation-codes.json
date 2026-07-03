@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-03T17:30:42.456Z",
+  "updatedAt": "2026-07-03T18:23:49.310Z",
   "publicFields": [
     "code",
     "status",
@@ -3777,14 +3777,14 @@
     },
     {
       "code": "STARX-LQWN-Z47Z-3AGJ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548751051",
-      "expiresAt": "",
+      "expiresAt": "2026-07-18T17:47:18.809Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RHFB-KMKV-CTAV",
@@ -5421,17 +5421,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-S8TX-3ZEN-BX3W",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752100",
-      "expiresAt": "2026-07-03T18:00:34.650Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
