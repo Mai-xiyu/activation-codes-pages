@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-03T00:20:23.563Z",
+  "updatedAt": "2026-07-03T01:04:06.134Z",
   "publicFields": [
     "code",
     "status",
@@ -5426,34 +5426,12 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-N9Q6-BC99-DEBA",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752431",
-      "expiresAt": "2026-07-03T00:28:19.693Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-GXE4-92JT-P56E",
       "status": "used",
       "plan": "30 天",
       "label": "已绑定设备",
       "issuedAt": "1777714752429",
       "expiresAt": "2026-07-03T01:39:27.621Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-UJ8F-7NKK-7PJC",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752429",
-      "expiresAt": "2026-07-03T00:41:47.515Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
