@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-04T01:02:23.202Z",
+  "updatedAt": "2026-07-04T02:15:00.729Z",
   "publicFields": [
     "code",
     "status",
@@ -5410,28 +5410,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-6Z8B-WDNY-568Q",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752087",
-      "expiresAt": "2026-07-04T01:08:03.890Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-KBD8-NV9Q-CJNL",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714752086",
-      "expiresAt": "2026-07-04T01:40:19.035Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
