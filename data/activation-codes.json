@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-04T17:48:14.968Z",
+  "updatedAt": "2026-07-04T18:16:58.644Z",
   "publicFields": [
     "code",
     "status",
@@ -5410,28 +5410,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-G548-CYY8-3K65",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751581",
-      "expiresAt": "2026-07-04T17:56:59.698Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-TQQ6-HHSK-ZNX3",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751573",
-      "expiresAt": "2026-07-04T18:07:50.077Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
