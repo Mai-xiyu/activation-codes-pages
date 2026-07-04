@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-04T12:48:58.438Z",
+  "updatedAt": "2026-07-04T13:28:24.586Z",
   "publicFields": [
     "code",
     "status",
@@ -1764,14 +1764,14 @@
     },
     {
       "code": "STARX-LR6X-2QLB-SJSB",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-19T12:49:11.198Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LZDV-QB58-FRCL",
@@ -5421,17 +5421,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714751914",
       "expiresAt": "2026-07-04T13:37:09.024Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-7MSG-WC26-JHBE",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751741",
-      "expiresAt": "2026-07-04T12:49:35.085Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
