@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-04T15:48:18.603Z",
+  "updatedAt": "2026-07-04T16:20:30.207Z",
   "publicFields": [
     "code",
     "status",
@@ -1797,14 +1797,14 @@
     },
     {
       "code": "STARX-MLLV-7J6M-6BWA",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-19T16:14:15.632Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MQPM-WE3T-LPXX",
@@ -5410,17 +5410,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-BNQU-W8H7-H5ED",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751600",
-      "expiresAt": "2026-07-04T16:07:09.255Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
