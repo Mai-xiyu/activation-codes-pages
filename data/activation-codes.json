@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T11:09:47.460Z",
+  "updatedAt": "2026-07-05T11:56:56.607Z",
   "publicFields": [
     "code",
     "status",
@@ -6427,17 +6427,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-H8BC-LBG5-JYKH",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714747958",
-      "expiresAt": "2026-07-05T11:23:22.268Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-2Z2G-GFT5-5FKM",
       "status": "used",
       "plan": "30 天",
@@ -6532,17 +6521,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777289491744",
       "expiresAt": "2026-07-09T03:04:19.988Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-7AJF-VCVF-69MW",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777289485119",
-      "expiresAt": "2026-07-05T11:34:52.627Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
