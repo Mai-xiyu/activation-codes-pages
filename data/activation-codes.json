@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T16:19:50.593Z",
+  "updatedAt": "2026-07-05T16:47:39.754Z",
   "publicFields": [
     "code",
     "status",
@@ -5421,17 +5421,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714751400",
       "expiresAt": "2026-07-05T20:08:39.900Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-84K5-UF65-HDE7",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751382",
-      "expiresAt": "2026-07-05T16:45:55.273Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
