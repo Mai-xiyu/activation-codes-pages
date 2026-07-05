@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T20:22:42.640Z",
+  "updatedAt": "2026-07-05T20:45:17.316Z",
   "publicFields": [
     "code",
     "status",
@@ -5652,17 +5652,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714750562",
       "expiresAt": "2026-07-08T06:21:54.832Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-B5XM-9A3F-GTUD",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714750550",
-      "expiresAt": "2026-07-05T20:32:44.049Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
