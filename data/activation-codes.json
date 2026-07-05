@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T19:55:49.793Z",
+  "updatedAt": "2026-07-05T20:22:42.640Z",
   "publicFields": [
     "code",
     "status",
@@ -5410,17 +5410,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-F6QW-TFFE-ML9V",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751400",
-      "expiresAt": "2026-07-05T20:08:39.900Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
