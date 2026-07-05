@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-05T03:43:01.715Z",
+  "updatedAt": "2026-07-05T05:16:05.976Z",
   "publicFields": [
     "code",
     "status",
@@ -1786,14 +1786,14 @@
     },
     {
       "code": "STARX-MJLJ-388L-UGPS",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-20T04:05:31.460Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MLLV-7J6M-6BWA",
@@ -1819,14 +1819,14 @@
     },
     {
       "code": "STARX-MZQM-CPKV-RQAU",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-20T04:33:33.472Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-N8NR-EV52-MNLY",
