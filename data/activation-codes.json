@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-06T08:27:30.904Z",
+  "updatedAt": "2026-07-06T09:49:14.266Z",
   "publicFields": [
     "code",
     "status",
@@ -4118,14 +4118,14 @@
     },
     {
       "code": "STARX-23U5-368E-BVXX",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508895876",
-      "expiresAt": "",
+      "expiresAt": "2026-07-08T09:42:47.321Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KTY9-7U97-C7WA",
@@ -5410,17 +5410,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-53GU-9UWH-ZMDG",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714751065",
-      "expiresAt": "2026-07-06T08:35:17.509Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
