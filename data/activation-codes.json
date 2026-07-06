@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-06T03:43:20.856Z",
+  "updatedAt": "2026-07-06T05:22:42.268Z",
   "publicFields": [
     "code",
     "status",
@@ -3832,14 +3832,14 @@
     },
     {
       "code": "STARX-TDYW-CNGU-Q2MH",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548749345",
-      "expiresAt": "",
+      "expiresAt": "2026-07-21T05:21:55.290Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-UPRJ-NPXA-AYRD",
@@ -5619,17 +5619,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714750540",
       "expiresAt": "2026-07-08T14:21:21.366Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-WAMA-YWKV-92T2",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714750539",
-      "expiresAt": "2026-07-06T04:02:10.664Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
