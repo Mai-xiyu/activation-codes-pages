@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-07T21:00:47.446Z",
+  "updatedAt": "2026-07-07T21:56:19.333Z",
   "publicFields": [
     "code",
     "status",
@@ -2215,14 +2215,14 @@
     },
     {
       "code": "STARX-KNV3-VE86-NVJ5",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548812439",
-      "expiresAt": "",
+      "expiresAt": "2026-07-22T21:22:06.521Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-DT93-XMH3-C34C",
