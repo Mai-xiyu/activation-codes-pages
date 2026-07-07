@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-07T14:15:00.238Z",
+  "updatedAt": "2026-07-07T15:27:27.827Z",
   "publicFields": [
     "code",
     "status",
@@ -2083,14 +2083,14 @@
     },
     {
       "code": "STARX-XGMC-5B8Z-3GQ2",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-22T14:44:56.502Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XHQF-P96L-EEPL",
