@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-07T09:43:23.369Z",
+  "updatedAt": "2026-07-07T10:58:30.324Z",
   "publicFields": [
     "code",
     "status",
@@ -2061,14 +2061,14 @@
     },
     {
       "code": "STARX-WYQ9-GASX-K9WL",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-22T10:17:21.220Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-X5AX-G743-63WN",
