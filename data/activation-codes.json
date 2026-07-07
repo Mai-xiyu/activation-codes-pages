@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-07T05:15:24.671Z",
+  "updatedAt": "2026-07-07T06:44:04.122Z",
   "publicFields": [
     "code",
     "status",
@@ -2017,14 +2017,14 @@
     },
     {
       "code": "STARX-UYTL-EZT8-G9VG",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548823296",
-      "expiresAt": "",
+      "expiresAt": "2026-07-22T06:16:44.287Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-V33Y-JLH2-BHRS",
