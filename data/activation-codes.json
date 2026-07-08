@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-08T00:17:30.309Z",
+  "updatedAt": "2026-07-08T00:58:45.036Z",
   "publicFields": [
     "code",
     "status",
@@ -2886,14 +2886,14 @@
     },
     {
       "code": "STARX-82L4-UFYE-KDSU",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548791614",
-      "expiresAt": "",
+      "expiresAt": "2026-07-23T00:54:36.347Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NU43-3WUT-FTWW",
