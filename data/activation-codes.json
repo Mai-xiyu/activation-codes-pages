@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-08T16:08:30.691Z",
+  "updatedAt": "2026-07-08T16:57:37.518Z",
   "publicFields": [
     "code",
     "status",
@@ -2292,14 +2292,14 @@
     },
     {
       "code": "STARX-XM6C-EMZF-VT64",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548810067",
-      "expiresAt": "",
+      "expiresAt": "2026-07-23T16:26:25.709Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6A3N-RCHN-QWJ8",
@@ -5399,17 +5399,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-RQ7P-JVUT-336F",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714750286",
-      "expiresAt": "2026-07-08T16:55:03.312Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
