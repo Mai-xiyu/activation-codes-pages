@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-08T12:27:23.741Z",
+  "updatedAt": "2026-07-08T13:02:16.862Z",
   "publicFields": [
     "code",
     "status",
@@ -2259,14 +2259,14 @@
     },
     {
       "code": "STARX-7JHT-DUFJ-NJXT",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548811084",
-      "expiresAt": "",
+      "expiresAt": "2026-07-23T12:58:46.074Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-J6SF-K8M7-5XDD",
@@ -5421,17 +5421,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714750409",
       "expiresAt": "2026-07-08T14:44:06.760Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-LEDJ-CBUS-A3HX",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714750390",
-      "expiresAt": "2026-07-08T12:58:21.029Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
