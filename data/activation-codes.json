@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-08T02:58:02.324Z",
+  "updatedAt": "2026-07-08T04:05:34.808Z",
   "publicFields": [
     "code",
     "status",
@@ -5487,17 +5487,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714750390",
       "expiresAt": "2026-07-08T12:58:21.029Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-SAJC-9586-TAJC",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714750367",
-      "expiresAt": "2026-07-08T02:58:08.077Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
