@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-08T00:58:45.036Z",
+  "updatedAt": "2026-07-08T01:40:03.562Z",
   "publicFields": [
     "code",
     "status",
@@ -5514,17 +5514,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-UQ6Z-ASS7-JPQD",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714750356",
-      "expiresAt": "2026-07-08T01:18:40.064Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-RQ7P-JVUT-336F",
       "status": "used",
       "plan": "30 天",
@@ -6103,17 +6092,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714748353",
       "expiresAt": "2026-07-09T10:39:24.265Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-BEBB-DY5C-L74V",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714748315",
-      "expiresAt": "2026-07-08T00:59:51.526Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
