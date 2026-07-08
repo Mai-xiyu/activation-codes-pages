@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-08T15:14:41.453Z",
+  "updatedAt": "2026-07-08T16:08:30.691Z",
   "publicFields": [
     "code",
     "status",
@@ -2281,14 +2281,14 @@
     },
     {
       "code": "STARX-3JV5-FCRB-4AFP",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548810406",
-      "expiresAt": "",
+      "expiresAt": "2026-07-23T15:23:54.882Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XM6C-EMZF-VT64",
