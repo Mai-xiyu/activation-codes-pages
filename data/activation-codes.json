@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-08T08:48:10.132Z",
+  "updatedAt": "2026-07-08T09:44:35.069Z",
   "publicFields": [
     "code",
     "status",
@@ -4117,17 +4117,6 @@
       "usedCount": 0
     },
     {
-      "code": "STARX-23U5-368E-BVXX",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508895876",
-      "expiresAt": "2026-07-08T09:42:47.321Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-KTY9-7U97-C7WA",
       "status": "used",
       "plan": "30 天",
@@ -5415,34 +5404,12 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-Y4KJ-QMMX-ESFG",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714750541",
-      "expiresAt": "2026-07-08T08:50:22.042Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-N6AQ-A9XH-GRMN",
       "status": "used",
       "plan": "30 天",
       "label": "已绑定设备",
       "issuedAt": "1777714750540",
       "expiresAt": "2026-07-08T14:21:21.366Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-LF5J-RBGS-3PUK",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714750526",
-      "expiresAt": "2026-07-08T09:07:05.823Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
