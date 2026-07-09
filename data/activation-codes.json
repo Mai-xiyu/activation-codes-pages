@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-09T13:29:04.221Z",
+  "updatedAt": "2026-07-09T14:21:51.402Z",
   "publicFields": [
     "code",
     "status",
@@ -5404,17 +5404,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-S8L6-CSWW-ZERN",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714749383",
-      "expiresAt": "2026-07-09T13:29:10.085Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-XA23-A7BN-4LJU",
       "status": "used",
       "plan": "30 天",
@@ -5536,17 +5525,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-UM3Q-RVPC-39RZ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714748915",
-      "expiresAt": "2026-07-09T14:09:41.706Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-SBVE-FCZB-CNLA",
       "status": "used",
       "plan": "30 天",
@@ -5619,17 +5597,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714748570",
       "expiresAt": "2026-07-10T03:00:30.629Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-8QUK-Z58U-7FCL",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714748478",
-      "expiresAt": "2026-07-09T14:06:36.845Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
