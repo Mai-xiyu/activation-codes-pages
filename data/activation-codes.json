@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-09T17:34:37.267Z",
+  "updatedAt": "2026-07-09T18:32:43.850Z",
   "publicFields": [
     "code",
     "status",
@@ -5399,17 +5399,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-CYYC-SX76-YJDR",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714749183",
-      "expiresAt": "2026-07-09T17:36:36.722Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
