@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-09T12:03:07.386Z",
+  "updatedAt": "2026-07-09T13:29:04.221Z",
   "publicFields": [
     "code",
     "status",
@@ -5404,28 +5404,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-4BTJ-H8BF-BFZG",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714749509",
-      "expiresAt": "2026-07-09T13:25:11.020Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-U93C-BP7M-QWDX",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714749384",
-      "expiresAt": "2026-07-09T13:22:58.546Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-S8L6-CSWW-ZERN",
       "status": "used",
       "plan": "30 天",
@@ -5465,17 +5443,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714749251",
       "expiresAt": "2026-07-09T16:53:27.791Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-Z5RD-FRXD-SARV",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714749212",
-      "expiresAt": "2026-07-09T13:24:05.146Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
