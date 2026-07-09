@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-09T16:47:05.608Z",
+  "updatedAt": "2026-07-09T17:34:37.267Z",
   "publicFields": [
     "code",
     "status",
@@ -5404,17 +5404,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-T22Y-RWLE-8JZC",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714749251",
-      "expiresAt": "2026-07-09T16:53:27.791Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-CYYC-SX76-YJDR",
       "status": "used",
       "plan": "30 天",
@@ -5553,17 +5542,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714748570",
       "expiresAt": "2026-07-10T03:00:30.629Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-ANXF-4T73-SBPH",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714748474",
-      "expiresAt": "2026-07-09T16:51:34.514Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
