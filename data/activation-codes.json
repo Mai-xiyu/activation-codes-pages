@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-09T10:58:17.913Z",
+  "updatedAt": "2026-07-09T12:03:07.386Z",
   "publicFields": [
     "code",
     "status",
@@ -5399,28 +5399,6 @@
       "label": "已绑定设备",
       "issuedAt": "1778327148157",
       "expiresAt": "2026-08-09T07:53:41.593Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-NDXP-LAF7-FB42",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714749603",
-      "expiresAt": "2026-07-09T11:43:26.633Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-NW62-78TF-S89N",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714749554",
-      "expiresAt": "2026-07-09T11:00:07.638Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
