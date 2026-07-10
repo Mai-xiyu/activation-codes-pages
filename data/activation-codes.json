@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-10T02:15:29.189Z",
+  "updatedAt": "2026-07-10T03:42:50.302Z",
   "publicFields": [
     "code",
     "status",
@@ -5437,17 +5437,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-T794-U3G6-2VFJ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714748819",
-      "expiresAt": "2026-07-10T02:38:14.453Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-AX3W-3ZQV-ZHQ5",
       "status": "used",
       "plan": "30 天",
@@ -5465,28 +5454,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714748699",
       "expiresAt": "2026-07-10T06:34:46.539Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-HT9P-E2QQ-QWLP",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714748671",
-      "expiresAt": "2026-07-10T02:39:59.112Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-XCGG-GK9T-CJ8E",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714748570",
-      "expiresAt": "2026-07-10T03:00:30.629Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
