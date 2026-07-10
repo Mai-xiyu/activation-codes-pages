@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-10T18:02:51.673Z",
+  "updatedAt": "2026-07-10T18:58:55.035Z",
   "publicFields": [
     "code",
     "status",
@@ -2457,14 +2457,14 @@
     },
     {
       "code": "STARX-PGE8-WAND-H62E",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548804975",
-      "expiresAt": "",
+      "expiresAt": "2026-07-25T18:29:55.566Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TA9V-DHKX-Y5C5",
@@ -4574,17 +4574,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781070449423",
       "expiresAt": "2026-07-11T03:50:30.389Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-J4K2-YUVG-P432",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070449252",
-      "expiresAt": "2026-07-10T18:31:17.663Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
