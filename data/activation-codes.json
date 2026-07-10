@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-10T12:02:09.547Z",
+  "updatedAt": "2026-07-10T13:13:10.045Z",
   "publicFields": [
     "code",
     "status",
@@ -2424,14 +2424,14 @@
     },
     {
       "code": "STARX-YHNE-5QXM-9RX4",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548805994",
-      "expiresAt": "",
+      "expiresAt": "2026-07-25T12:11:06.533Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Y5AF-5JTB-S8FW",
@@ -5307,10 +5307,10 @@
     {
       "code": "STARX-KHZQ-XPGS-VCMH",
       "status": "used",
-      "plan": "3650 天",
+      "plan": "3653 天",
       "label": "已绑定设备",
       "issuedAt": "1775125749004",
-      "expiresAt": "2036-03-30T10:29:45.221Z",
+      "expiresAt": "2036-04-02T10:29:45.221Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
