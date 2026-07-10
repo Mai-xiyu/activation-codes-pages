@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-10T16:15:14.076Z",
+  "updatedAt": "2026-07-10T17:06:39.584Z",
   "publicFields": [
     "code",
     "status",
@@ -2435,14 +2435,14 @@
     },
     {
       "code": "STARX-Y5AF-5JTB-S8FW",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548805654",
-      "expiresAt": "",
+      "expiresAt": "2026-07-25T16:38:44.677Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ZPLS-T6FG-R2L9",
@@ -4343,28 +4343,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781270051791",
       "expiresAt": "2026-07-23T07:49:00.525Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-LDYP-KT4Z-6LX6",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070453853",
-      "expiresAt": "2026-07-10T16:59:30.115Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-8ZK3-NBLN-TTAL",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070453683",
-      "expiresAt": "2026-07-10T17:05:16.434Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
