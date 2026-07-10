@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-10T22:19:10.656Z",
+  "updatedAt": "2026-07-10T22:45:52.002Z",
   "publicFields": [
     "code",
     "status",
@@ -4343,28 +4343,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781270051791",
       "expiresAt": "2026-07-23T07:49:00.525Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-VEZ9-QFCV-N8VP",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070453001",
-      "expiresAt": "2026-07-10T22:21:54.026Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-RGHH-NEVD-5XHK",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070452660",
-      "expiresAt": "2026-07-10T22:22:17.279Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
