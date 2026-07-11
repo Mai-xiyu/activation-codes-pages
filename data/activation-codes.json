@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-11T08:09:22.935Z",
+  "updatedAt": "2026-07-11T09:01:20.083Z",
   "publicFields": [
     "code",
     "status",
@@ -4381,17 +4381,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-DKB3-HSEL-6A7J",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070449081",
-      "expiresAt": "2026-07-11T08:39:46.816Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-LFKF-24NC-9EXM",
       "status": "used",
       "plan": "30 天",
@@ -4420,17 +4409,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781070447888",
       "expiresAt": "2026-07-11T12:57:29.273Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-7R64-WPED-54UJ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070447548",
-      "expiresAt": "2026-07-11T08:50:53.625Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -4882,17 +4860,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781070272222",
       "expiresAt": "2026-07-12T15:21:14.263Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-XMW3-ZPCA-85RH",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070265677",
-      "expiresAt": "2026-07-11T08:57:36.034Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
