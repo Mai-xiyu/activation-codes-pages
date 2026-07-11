@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-11T05:26:36.423Z",
+  "updatedAt": "2026-07-11T06:15:12.785Z",
   "publicFields": [
     "code",
     "status",
@@ -4354,17 +4354,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781070451297",
       "expiresAt": "2026-07-11T06:32:06.640Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-2MPU-MFL2-X4K2",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070450786",
-      "expiresAt": "2026-07-11T05:31:58.835Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
