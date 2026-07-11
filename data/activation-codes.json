@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-11T09:01:20.083Z",
+  "updatedAt": "2026-07-11T09:58:18.511Z",
   "publicFields": [
     "code",
     "status",
@@ -4348,45 +4348,12 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-YFZ9-239G-UZP9",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070450275",
-      "expiresAt": "2026-07-11T09:08:00.083Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-3DXA-3CQL-4GVX",
       "status": "used",
       "plan": "30 天",
       "label": "已绑定设备",
       "issuedAt": "1781070450105",
       "expiresAt": "2026-07-11T10:42:36.638Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-U4T4-Z45L-287R",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070449593",
-      "expiresAt": "2026-07-11T09:38:53.004Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-LFKF-24NC-9EXM",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070448570",
-      "expiresAt": "2026-07-11T09:32:10.267Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
