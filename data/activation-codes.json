@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-11T10:52:33.068Z",
+  "updatedAt": "2026-07-11T11:20:11.655Z",
   "publicFields": [
     "code",
     "status",
@@ -2479,14 +2479,14 @@
     },
     {
       "code": "STARX-JF3P-96R8-6WG6",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548804297",
-      "expiresAt": "",
+      "expiresAt": "2026-07-26T11:11:26.731Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6JFJ-D9C3-D9LR",
@@ -2776,14 +2776,14 @@
     },
     {
       "code": "STARX-VW3D-TYFC-VZPX",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548795035",
-      "expiresAt": "",
+      "expiresAt": "2026-07-26T11:15:50.901Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EKY3-PSRM-BD5K",
