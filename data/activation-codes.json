@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-11T15:45:09.727Z",
+  "updatedAt": "2026-07-11T16:15:07.526Z",
   "publicFields": [
     "code",
     "status",
@@ -2523,14 +2523,14 @@
     },
     {
       "code": "STARX-K3S4-R3QQ-9MBX",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548802906",
-      "expiresAt": "",
+      "expiresAt": "2026-07-26T15:49:44.494Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-YGMA-VT4K-CML6",
@@ -2578,14 +2578,14 @@
     },
     {
       "code": "STARX-D7ND-MNE9-BKWN",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548801197",
-      "expiresAt": "",
+      "expiresAt": "2026-07-26T15:50:08.244Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-86G7-B8X3-HWQK",
