@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-11T04:04:59.099Z",
+  "updatedAt": "2026-07-11T05:26:36.423Z",
   "publicFields": [
     "code",
     "status",
@@ -2567,14 +2567,14 @@
     },
     {
       "code": "STARX-65SM-MX5R-N4JK",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548801540",
-      "expiresAt": "",
+      "expiresAt": "2026-07-26T04:43:42.025Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-D7ND-MNE9-BKWN",
