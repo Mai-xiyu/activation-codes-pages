@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-11T13:27:49.788Z",
+  "updatedAt": "2026-07-11T14:01:44.059Z",
   "publicFields": [
     "code",
     "status",
@@ -4343,17 +4343,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781270051791",
       "expiresAt": "2026-07-23T07:49:00.525Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-67JV-L48H-NHSA",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070448059",
-      "expiresAt": "2026-07-11T13:36:04.696Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
