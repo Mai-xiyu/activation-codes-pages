@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-11T23:15:22.181Z",
+  "updatedAt": "2026-07-11T23:44:55.022Z",
   "publicFields": [
     "code",
     "status",
@@ -4348,17 +4348,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-T6JY-RTYL-XBRK",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070445331",
-      "expiresAt": "2026-07-11T23:38:51.441Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-5U97-35VM-GPDJ",
       "status": "used",
       "plan": "30 天",
@@ -4376,17 +4365,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781070444990",
       "expiresAt": "2026-07-12T01:42:47.936Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-KEPQ-88G6-DB5L",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070444820",
-      "expiresAt": "2026-07-11T23:39:11.294Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
