@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-12T05:37:09.411Z",
+  "updatedAt": "2026-07-12T06:48:38.773Z",
   "publicFields": [
     "code",
     "status",
@@ -4348,17 +4348,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-VB5T-LYC5-UKHQ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070444138",
-      "expiresAt": "2026-07-12T06:04:04.065Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-ZVHE-25HJ-M7FY",
       "status": "used",
       "plan": "30 天",
@@ -4409,17 +4398,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781070442605",
       "expiresAt": "2026-07-12T13:03:20.030Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-TAJT-YNGJ-7QNK",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070442435",
-      "expiresAt": "2026-07-12T06:05:47.681Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
