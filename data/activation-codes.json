@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-12T00:16:16.947Z",
+  "updatedAt": "2026-07-12T00:59:56.433Z",
   "publicFields": [
     "code",
     "status",
@@ -4348,34 +4348,12 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-5U97-35VM-GPDJ",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070445160",
-      "expiresAt": "2026-07-12T00:31:27.484Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-TRNL-EHB3-TZLR",
       "status": "used",
       "plan": "30 天",
       "label": "已绑定设备",
       "issuedAt": "1781070444990",
       "expiresAt": "2026-07-12T01:42:47.936Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-BR98-4F6B-NCBR",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070444479",
-      "expiresAt": "2026-07-12T00:38:08.449Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
