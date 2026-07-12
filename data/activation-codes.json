@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-12T04:14:50.626Z",
+  "updatedAt": "2026-07-12T05:37:09.411Z",
   "publicFields": [
     "code",
     "status",
@@ -4354,28 +4354,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781070444138",
       "expiresAt": "2026-07-12T06:04:04.065Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-7WS5-VWFE-FXVR",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070443968",
-      "expiresAt": "2026-07-12T04:27:01.530Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-QWKG-EWD7-PVXB",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070443798",
-      "expiresAt": "2026-07-12T04:57:07.418Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
