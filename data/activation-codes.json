@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-12T16:45:19.047Z",
+  "updatedAt": "2026-07-12T17:20:05.049Z",
   "publicFields": [
     "code",
     "status",
@@ -14,34 +14,12 @@
   ],
   "codes": [
     {
-      "code": "STARX-4VDF-GYUS-2WPX",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-12T16:55:33.388Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-58G6-ABUK-KMGZ",
       "status": "used",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548874061",
       "expiresAt": "2026-07-12T17:21:17.151Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-5RPP-WKBE-AGB2",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-12T17:13:31.512Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -2600,14 +2578,14 @@
     },
     {
       "code": "STARX-Y8ST-32US-RTQB",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548795717",
-      "expiresAt": "",
+      "expiresAt": "2026-07-27T17:13:46.411Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-G39G-YA7J-JV2K",
