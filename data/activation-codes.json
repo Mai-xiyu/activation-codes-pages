@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-12T01:40:39.729Z",
+  "updatedAt": "2026-07-12T02:58:20.385Z",
   "publicFields": [
     "code",
     "status",
@@ -4348,28 +4348,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-TRNL-EHB3-TZLR",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070444990",
-      "expiresAt": "2026-07-12T01:42:47.936Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-2Z6A-L3MJ-XUY9",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070444309",
-      "expiresAt": "2026-07-12T02:40:41.492Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-VB5T-LYC5-UKHQ",
       "status": "used",
       "plan": "30 天",
@@ -4420,17 +4398,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781070443287",
       "expiresAt": "2026-07-12T12:42:25.226Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-EDPU-J57U-HFYV",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070443116",
-      "expiresAt": "2026-07-12T02:43:18.717Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
