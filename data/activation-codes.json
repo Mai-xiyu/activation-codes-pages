@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-12T18:45:34.321Z",
+  "updatedAt": "2026-07-12T19:22:23.016Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-5ZCD-DHFW-VCYX",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-12T18:57:43.688Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-6HSF-92P8-YRX3",
       "status": "used",
@@ -2490,14 +2479,14 @@
     },
     {
       "code": "STARX-N93H-JN74-WLA5",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548797091",
-      "expiresAt": "",
+      "expiresAt": "2026-07-27T18:47:58.753Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-46DD-74FK-CGRW",
