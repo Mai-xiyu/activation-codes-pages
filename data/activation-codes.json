@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-12T13:28:03.060Z",
+  "updatedAt": "2026-07-12T14:02:42.350Z",
   "publicFields": [
     "code",
     "status",
@@ -4211,28 +4211,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781270051791",
       "expiresAt": "2026-07-23T07:49:00.525Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-BVUR-DJ4F-SG69",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070441242",
-      "expiresAt": "2026-07-12T13:56:20.099Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-JXUU-XR5P-AXP9",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781070440730",
-      "expiresAt": "2026-07-12T13:36:29.037Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
