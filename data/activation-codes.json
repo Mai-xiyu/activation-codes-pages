@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-12T02:58:20.385Z",
+  "updatedAt": "2026-07-12T04:14:50.626Z",
   "publicFields": [
     "code",
     "status",
@@ -4618,17 +4618,6 @@
       "label": "已绑定设备",
       "issuedAt": "1777714747152",
       "expiresAt": "2026-07-12T14:57:39.848Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-5S24-6WRT-SC22",
-      "status": "used",
-      "plan": "30 天",
-      "label": "已绑定设备",
-      "issuedAt": "1777714746070",
-      "expiresAt": "2026-07-12T03:52:36.867Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
