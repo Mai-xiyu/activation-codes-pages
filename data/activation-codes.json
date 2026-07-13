@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-13T06:58:13.145Z",
+  "updatedAt": "2026-07-13T08:07:00.275Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-8KVK-FRDR-5C4D",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-13T07:17:24.134Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-8LCH-24BK-J4UT",
       "status": "used",
@@ -240,17 +229,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548874061",
       "expiresAt": "2026-07-14T07:23:53.444Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-FTNB-4LN3-ZMWM",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-13T07:32:06.432Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
