@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-13T05:42:36.813Z",
+  "updatedAt": "2026-07-13T06:58:13.145Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-7TLJ-395E-64YR",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-13T06:45:07.070Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-8KVK-FRDR-5C4D",
       "status": "used",
