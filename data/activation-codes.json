@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-13T12:04:25.036Z",
+  "updatedAt": "2026-07-13T13:14:56.324Z",
   "publicFields": [
     "code",
     "status",
@@ -449,17 +449,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548874061",
       "expiresAt": "2026-07-15T02:19:58.887Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-N2YF-GB46-RTEM",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-13T12:32:42.885Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
