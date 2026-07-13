@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-13T13:14:56.324Z",
+  "updatedAt": "2026-07-13T14:16:38.417Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-ADE8-4KNM-8UUW",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-13T13:37:05.613Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-AKAA-JZEF-P6UF",
       "status": "used",
@@ -2864,14 +2853,14 @@
     },
     {
       "code": "STARX-VWPH-UV6N-KUP7",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548768063",
-      "expiresAt": "",
+      "expiresAt": "2026-07-28T13:27:33.491Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-YPGS-G86E-RFB6",
