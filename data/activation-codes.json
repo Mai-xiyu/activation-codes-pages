@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-14T20:22:03.084Z",
+  "updatedAt": "2026-07-14T20:46:14.183Z",
   "publicFields": [
     "code",
     "status",
@@ -207,17 +207,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548874061",
       "expiresAt": "2026-07-15T12:37:22.483Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-W7K7-5U9B-ZYT6",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-14T20:37:13.552Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
