@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-14T10:07:50.892Z",
+  "updatedAt": "2026-07-14T11:00:29.173Z",
   "publicFields": [
     "code",
     "status",
@@ -1978,17 +1978,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548797776",
       "expiresAt": "2026-07-27T13:05:56.237Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-LGDT-MB5X-4M2Q",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548797433",
-      "expiresAt": "2026-07-14T10:42:28.917Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
