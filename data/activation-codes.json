@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-14T05:17:03.810Z",
+  "updatedAt": "2026-07-14T06:12:55.668Z",
   "publicFields": [
     "code",
     "status",
@@ -163,17 +163,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548874061",
       "expiresAt": "2026-07-14T17:35:17.076Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-LYZP-GX7B-CF7Z",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-14T05:22:02.431Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
