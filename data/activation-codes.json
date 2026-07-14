@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-14T02:57:39.271Z",
+  "updatedAt": "2026-07-14T04:02:09.452Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-FFUW-5MKA-HXRM",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-14T03:52:45.078Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-FRTF-S2NJ-ECLE",
       "status": "used",
@@ -53,17 +42,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548874061",
       "expiresAt": "2026-07-14T04:04:46.248Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GSLR-5MP6-PDH7",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-14T03:20:31.393Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -295,17 +273,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548874061",
       "expiresAt": "2026-07-15T04:13:44.866Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-P7WZ-PX6R-9ES4",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-14T03:10:50.349Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
