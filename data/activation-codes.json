@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-14T08:12:52.351Z",
+  "updatedAt": "2026-07-14T09:11:36.870Z",
   "publicFields": [
     "code",
     "status",
@@ -42,17 +42,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548874061",
       "expiresAt": "2026-07-14T14:21:48.062Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-HVVS-FHQM-25T2",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-14T08:13:35.455Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -614,17 +603,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-15T10:57:55.136Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-98F4-UBAZ-AUYJ",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-14T08:45:05.211Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
