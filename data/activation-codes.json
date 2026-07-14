@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-14T04:02:09.452Z",
+  "updatedAt": "2026-07-14T05:17:03.810Z",
   "publicFields": [
     "code",
     "status",
@@ -31,17 +31,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548874061",
       "expiresAt": "2026-07-14T07:34:09.905Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-G7D4-8UC4-45NF",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-14T04:04:46.248Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -537,17 +526,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-16T12:14:43.106Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-2EKT-R4EK-UK9A",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-14T04:19:06.764Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -2171,14 +2149,14 @@
     },
     {
       "code": "STARX-G39G-YA7J-JV2K",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548795375",
-      "expiresAt": "",
+      "expiresAt": "2026-07-29T04:20:26.240Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VW3D-TYFC-VZPX",
