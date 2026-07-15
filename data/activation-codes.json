@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-15T11:03:01.696Z",
+  "updatedAt": "2026-07-15T11:58:29.037Z",
   "publicFields": [
     "code",
     "status",
@@ -1907,14 +1907,14 @@
     },
     {
       "code": "STARX-T3KR-QM5A-MJCS",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548789219",
-      "expiresAt": "",
+      "expiresAt": "2026-07-30T11:41:52.926Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KCJU-H3S7-GC73",
