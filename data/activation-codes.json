@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-15T12:35:47.183Z",
+  "updatedAt": "2026-07-15T13:29:21.439Z",
   "publicFields": [
     "code",
     "status",
@@ -13,28 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-TP8L-X6FA-V8P2",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-15T12:46:04.142Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-V973-D6SK-LB2W",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548874061",
-      "expiresAt": "2026-07-15T12:37:22.483Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-WM7W-D4LW-97T2",
       "status": "used",
@@ -163,17 +141,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-16T12:57:14.811Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-3G7W-UTZ4-YMQY",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-15T12:53:44.710Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -394,17 +361,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-17T09:17:19.820Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-C44Y-S2D2-692Q",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-15T12:53:15.603Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -1918,14 +1874,14 @@
     },
     {
       "code": "STARX-KCJU-H3S7-GC73",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548788878",
-      "expiresAt": "",
+      "expiresAt": "2026-07-30T12:47:00.991Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4RRF-D53U-8W8V",
