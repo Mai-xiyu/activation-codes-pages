@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-16T07:15:26.286Z",
+  "updatedAt": "2026-07-16T08:13:29.081Z",
   "publicFields": [
     "code",
     "status",
@@ -108,17 +108,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-17T01:24:40.694Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-6RDX-7HM6-N5AR",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-16T08:11:47.282Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
