@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-16T16:31:04.157Z",
+  "updatedAt": "2026-07-16T17:27:04.653Z",
   "publicFields": [
     "code",
     "status",
@@ -262,17 +262,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-18T01:18:25.183Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-H5NJ-9HZX-95NB",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-16T16:36:35.252Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
