@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-16T14:16:31.995Z",
+  "updatedAt": "2026-07-16T15:10:22.924Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-63UF-RZBL-QS8S",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-16T14:32:26.998Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-6ART-ARYR-YXGB",
       "status": "used",
@@ -119,17 +108,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-17T07:23:21.365Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-B7EP-X629-KFYM",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-16T14:51:31.578Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
