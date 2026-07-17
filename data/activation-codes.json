@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-17T05:27:02.870Z",
+  "updatedAt": "2026-07-17T06:16:34.326Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-A9YZ-H7VA-6RNY",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-17T05:33:00.988Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-B5C5-N2W7-973A",
       "status": "used",
@@ -229,17 +218,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-18T09:08:36.607Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-JWSS-DUFC-7PQW",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-17T05:30:36.258Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -1808,14 +1786,14 @@
     },
     {
       "code": "STARX-LARM-JVYS-HFAY",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548766702",
-      "expiresAt": "",
+      "expiresAt": "2026-08-01T05:59:25.491Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-X952-7C5Z-CTBS",
