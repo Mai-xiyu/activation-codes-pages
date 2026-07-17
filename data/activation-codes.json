@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-17T04:03:30.721Z",
+  "updatedAt": "2026-07-17T05:27:02.870Z",
   "publicFields": [
     "code",
     "status",
@@ -1621,14 +1621,14 @@
     },
     {
       "code": "STARX-W4WJ-ZLMA-4ZGX",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548772839",
-      "expiresAt": "",
+      "expiresAt": "2026-08-01T04:44:07.115Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HMGG-EGMY-AXYN",
