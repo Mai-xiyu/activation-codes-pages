@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-17T10:08:35.859Z",
+  "updatedAt": "2026-07-17T11:00:34.400Z",
   "publicFields": [
     "code",
     "status",
@@ -20,17 +20,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-17T13:31:14.488Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-E98B-D27Z-8TMQ",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-17T10:44:28.946Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -1263,17 +1252,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548794352",
       "expiresAt": "2026-07-29T08:07:09.079Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-EWLQ-NRAA-BQCY",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548794009",
-      "expiresAt": "2026-07-17T10:33:23.139Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
