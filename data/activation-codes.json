@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-18T11:19:16.130Z",
+  "updatedAt": "2026-07-18T11:45:00.018Z",
   "publicFields": [
     "code",
     "status",
@@ -1357,14 +1357,14 @@
     },
     {
       "code": "STARX-YZRL-KGWG-FNCB",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548771132",
-      "expiresAt": "",
+      "expiresAt": "2026-08-02T11:28:19.428Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-497X-XG6F-Z6B9",
