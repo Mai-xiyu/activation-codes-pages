@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-18T18:45:19.270Z",
+  "updatedAt": "2026-07-18T19:22:34.762Z",
   "publicFields": [
     "code",
     "status",
@@ -20,17 +20,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-18T19:27:31.700Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-L6HS-YPR6-5SSD",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-18T18:48:39.414Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
