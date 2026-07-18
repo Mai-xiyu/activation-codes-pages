@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-18T00:57:20.858Z",
+  "updatedAt": "2026-07-18T01:35:05.123Z",
   "publicFields": [
     "code",
     "status",
@@ -14,34 +14,12 @@
   ],
   "codes": [
     {
-      "code": "STARX-FYXZ-MP3N-L9KA",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-18T01:09:42.952Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-G5PD-AQ8J-XV5D",
       "status": "used",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-18T06:25:22.379Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GRTP-69AW-DR6D",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-18T01:18:25.183Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
