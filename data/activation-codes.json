@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-18T12:13:16.549Z",
+  "updatedAt": "2026-07-18T12:45:35.902Z",
   "publicFields": [
     "code",
     "status",
@@ -1335,14 +1335,14 @@
     },
     {
       "code": "STARX-B4LG-ZXJ2-GJJF",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548771474",
-      "expiresAt": "",
+      "expiresAt": "2026-08-02T12:35:17.707Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-YZRL-KGWG-FNCB",
