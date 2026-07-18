@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-18T17:45:35.124Z",
+  "updatedAt": "2026-07-18T18:14:43.957Z",
   "publicFields": [
     "code",
     "status",
@@ -1923,17 +1923,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548751391",
       "expiresAt": "2026-07-28T17:06:54.933Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-LQWN-Z47Z-3AGJ",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548751051",
-      "expiresAt": "2026-07-18T17:47:18.809Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
