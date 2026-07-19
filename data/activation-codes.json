@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-19T16:45:09.664Z",
+  "updatedAt": "2026-07-19T17:19:12.704Z",
   "publicFields": [
     "code",
     "status",
@@ -1632,14 +1632,14 @@
     },
     {
       "code": "STARX-GLEX-CH8U-6RZU",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548758194",
-      "expiresAt": "",
+      "expiresAt": "2026-08-03T17:00:21.501Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-X8DQ-EFCW-EL47",
@@ -2146,17 +2146,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-GTPJ-WZJ6-YUNZ",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508897927",
-      "expiresAt": "2026-07-19T17:14:07.484Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-2ZEA-Z4BB-4RPJ",
