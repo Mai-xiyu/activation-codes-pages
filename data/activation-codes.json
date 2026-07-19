@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-19T12:45:47.448Z",
+  "updatedAt": "2026-07-19T13:27:46.572Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-LR6X-2QLB-SJSB",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-19T12:49:11.198Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-LZDV-QB58-FRCL",
       "status": "used",
