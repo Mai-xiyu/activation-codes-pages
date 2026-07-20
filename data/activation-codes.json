@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-20T01:00:20.283Z",
+  "updatedAt": "2026-07-20T02:15:07.485Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-LZDV-QB58-FRCL",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-20T02:03:57.339Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-MJLJ-388L-UGPS",
       "status": "used",
