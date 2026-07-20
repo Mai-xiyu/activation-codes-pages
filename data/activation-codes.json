@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-20T07:38:03.930Z",
+  "updatedAt": "2026-07-20T08:58:52.779Z",
   "publicFields": [
     "code",
     "status",
@@ -13,28 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-N8NR-EV52-MNLY",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-20T08:55:16.547Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-PP4W-DC5P-YP6R",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-20T08:46:10.853Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-PZRR-ZM4S-KG7F",
       "status": "used",
