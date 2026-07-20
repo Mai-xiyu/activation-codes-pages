@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-20T03:42:29.440Z",
+  "updatedAt": "2026-07-20T05:10:02.120Z",
   "publicFields": [
     "code",
     "status",
@@ -14,34 +14,12 @@
   ],
   "codes": [
     {
-      "code": "STARX-MJLJ-388L-UGPS",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-20T04:05:31.460Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-MQPM-WE3T-LPXX",
       "status": "used",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-20T06:49:34.965Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-MZQM-CPKV-RQAU",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-20T04:33:33.472Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
