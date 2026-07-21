@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-21T21:47:34.762Z",
+  "updatedAt": "2026-07-21T22:16:12.641Z",
   "publicFields": [
     "code",
     "status",
@@ -1390,14 +1390,14 @@
     },
     {
       "code": "STARX-ZKKX-SXGQ-7XDY",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548757173",
-      "expiresAt": "",
+      "expiresAt": "2026-08-05T21:51:38.467Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-E9KP-BWAG-5853",
