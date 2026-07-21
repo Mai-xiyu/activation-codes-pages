@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-21T16:04:12.936Z",
+  "updatedAt": "2026-07-21T16:57:12.363Z",
   "publicFields": [
     "code",
     "status",
@@ -13,28 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-SNQ5-XUW8-FLQL",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-21T16:36:06.179Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-TY82-JPFA-RCQM",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-21T16:21:44.018Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-UGGJ-G823-558T",
       "status": "used",
@@ -1192,14 +1170,14 @@
     },
     {
       "code": "STARX-24NJ-H8UP-FXTV",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548765341",
-      "expiresAt": "",
+      "expiresAt": "2026-08-05T16:04:59.955Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ML9M-XM46-H378",
