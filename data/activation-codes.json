@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-21T02:58:10.881Z",
+  "updatedAt": "2026-07-21T04:05:49.269Z",
   "publicFields": [
     "code",
     "status",
@@ -339,17 +339,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548809727",
       "expiresAt": "2026-07-23T18:49:10.567Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-A3F2-MYZE-WB95",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548809388",
-      "expiresAt": "2026-07-21T03:21:51.925Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -1302,14 +1291,14 @@
     },
     {
       "code": "STARX-C9Y8-TSEK-2AZM",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548763980",
-      "expiresAt": "",
+      "expiresAt": "2026-08-05T03:54:01.153Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-99JN-E6P8-3PSM",
