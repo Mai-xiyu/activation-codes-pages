@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-21T13:37:48.140Z",
+  "updatedAt": "2026-07-21T14:37:51.320Z",
   "publicFields": [
     "code",
     "status",
@@ -1181,14 +1181,14 @@
     },
     {
       "code": "STARX-2EZP-SPAT-HAYY",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548765682",
-      "expiresAt": "",
+      "expiresAt": "2026-08-05T14:00:11.621Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-24NJ-H8UP-FXTV",
