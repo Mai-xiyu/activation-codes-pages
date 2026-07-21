@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-21T09:46:49.405Z",
+  "updatedAt": "2026-07-21T10:40:08.049Z",
   "publicFields": [
     "code",
     "status",
@@ -273,17 +273,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548811084",
       "expiresAt": "2026-07-23T12:58:46.074Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-J6SF-K8M7-5XDD",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548810745",
-      "expiresAt": "2026-07-21T10:35:20.837Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -1192,14 +1181,14 @@
     },
     {
       "code": "STARX-X72K-J5LX-QDS9",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548766022",
-      "expiresAt": "",
+      "expiresAt": "2026-08-05T09:59:53.523Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2EZP-SPAT-HAYY",
