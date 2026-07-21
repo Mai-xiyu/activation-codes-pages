@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-21T17:30:46.115Z",
+  "updatedAt": "2026-07-21T18:24:19.857Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-UGGJ-G823-558T",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-21T18:16:11.014Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-UYTL-EZT8-G9VG",
       "status": "used",
@@ -1159,14 +1148,14 @@
     },
     {
       "code": "STARX-ML9M-XM46-H378",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548765001",
-      "expiresAt": "",
+      "expiresAt": "2026-08-05T18:24:03.730Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LSJN-5PXP-MMQ7",
