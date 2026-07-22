@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-22T18:48:43.453Z",
+  "updatedAt": "2026-07-22T19:28:06.066Z",
   "publicFields": [
     "code",
     "status",
@@ -31,17 +31,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548823296",
       "expiresAt": "2026-07-22T23:52:17.071Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-ZL58-8R8K-8F73",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-22T18:48:56.432Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
