@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-22T10:40:06.746Z",
+  "updatedAt": "2026-07-22T11:32:52.658Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-WTL7-J78Y-BEYP",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548823296",
-      "expiresAt": "2026-07-22T10:58:59.159Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-XGMC-5B8Z-3GQ2",
       "status": "used",
