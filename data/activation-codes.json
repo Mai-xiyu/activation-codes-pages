@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-23T07:46:02.290Z",
+  "updatedAt": "2026-07-23T08:48:22.141Z",
   "publicFields": [
     "code",
     "status",
@@ -1681,17 +1681,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781270055878",
       "expiresAt": "2026-07-23T08:54:11.376Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-Z8R4-EU73-EUCJ",
-      "status": "used",
-      "plan": "40 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781270051791",
-      "expiresAt": "2026-07-23T07:49:00.525Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
