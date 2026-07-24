@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-24T21:47:56.394Z",
+  "updatedAt": "2026-07-24T22:20:14.987Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-YP8Q-W3SJ-RL7S",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548808367",
-      "expiresAt": "2026-07-24T21:49:36.567Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-ML48-GTWG-FWMV",
       "status": "used",
