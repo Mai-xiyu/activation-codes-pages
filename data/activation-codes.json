@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-24T00:16:19.151Z",
+  "updatedAt": "2026-07-24T00:57:06.255Z",
   "publicFields": [
     "code",
     "status",
@@ -994,14 +994,14 @@
     },
     {
       "code": "STARX-VHWT-NK5Z-WCMV",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548761260",
-      "expiresAt": "",
+      "expiresAt": "2026-08-08T00:37:44.721Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PN5N-4GXJ-KB74",
