@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-25T09:08:38.056Z",
+  "updatedAt": "2026-07-25T10:02:27.755Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-84N8-HS72-2F3F",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548807689",
-      "expiresAt": "2026-07-25T09:55:27.277Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-QH4J-N46K-Z7YK",
       "status": "used",
