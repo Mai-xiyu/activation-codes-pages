@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-25T17:18:39.619Z",
+  "updatedAt": "2026-07-25T17:45:43.813Z",
   "publicFields": [
     "code",
     "status",
@@ -20,17 +20,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548806672",
       "expiresAt": "2026-07-26T02:53:59.725Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-ZPLS-T6FG-R2L9",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548805315",
-      "expiresAt": "2026-07-25T17:27:54.944Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -64,17 +53,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548803618",
       "expiresAt": "2026-07-26T14:25:59.185Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-TJUG-A66U-3CRW",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548803247",
-      "expiresAt": "2026-07-25T17:35:08.179Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
