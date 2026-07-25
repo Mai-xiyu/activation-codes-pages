@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-25T04:04:09.230Z",
+  "updatedAt": "2026-07-25T05:28:20.133Z",
   "publicFields": [
     "code",
     "status",
@@ -163,17 +163,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548802222",
       "expiresAt": "2026-07-26T07:40:29.860Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-B5YA-FUZG-9TXR",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548801882",
-      "expiresAt": "2026-07-25T04:34:08.359Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
