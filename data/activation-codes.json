@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-26T10:09:12.741Z",
+  "updatedAt": "2026-07-26T10:58:33.385Z",
   "publicFields": [
     "code",
     "status",
@@ -829,14 +829,14 @@
     },
     {
       "code": "STARX-ZD9Z-SMJK-A4NQ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548760238",
-      "expiresAt": "",
+      "expiresAt": "2026-08-10T10:56:10.421Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CWSQ-FL5Y-U6LL",
