@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-26T12:18:48.071Z",
+  "updatedAt": "2026-07-26T12:46:38.520Z",
   "publicFields": [
     "code",
     "status",
@@ -862,14 +862,14 @@
     },
     {
       "code": "STARX-S2UN-QRLN-53Z5",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548758535",
-      "expiresAt": "",
+      "expiresAt": "2026-08-10T12:32:58.370Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GLEX-CH8U-6RZU",
