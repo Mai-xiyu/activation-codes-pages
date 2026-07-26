@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-26T23:17:12.663Z",
+  "updatedAt": "2026-07-26T23:46:05.288Z",
   "publicFields": [
     "code",
     "status",
@@ -730,14 +730,14 @@
     },
     {
       "code": "STARX-WBND-EQV9-BSSA",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548759557",
-      "expiresAt": "",
+      "expiresAt": "2026-08-10T23:25:54.707Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PBKF-DJFC-JQY5",
