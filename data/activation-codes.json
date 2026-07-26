@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-26T18:16:35.071Z",
+  "updatedAt": "2026-07-26T18:46:12.147Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-TFPL-KGA7-G499",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548799828",
-      "expiresAt": "2026-07-26T18:39:33.951Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-VX78-X9J5-9ERZ",
       "status": "used",
@@ -746,17 +735,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548760238",
       "expiresAt": "2026-08-10T10:56:10.421Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-CWSQ-FL5Y-U6LL",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548759898",
-      "expiresAt": "2026-07-26T18:40:27.810Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
