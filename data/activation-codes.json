@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-26T17:47:13.324Z",
+  "updatedAt": "2026-07-26T18:16:35.071Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-HHAR-UN8T-8VNM",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548800170",
-      "expiresAt": "2026-07-26T18:08:32.510Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-TFPL-KGA7-G499",
       "status": "used",
