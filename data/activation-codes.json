@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-26T01:01:30.692Z",
+  "updatedAt": "2026-07-26T02:14:42.840Z",
   "publicFields": [
     "code",
     "status",
@@ -163,17 +163,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548798798",
       "expiresAt": "2026-07-27T12:11:58.270Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-PL2C-QGL9-PGBC",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548798117",
-      "expiresAt": "2026-07-26T01:56:05.778Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
