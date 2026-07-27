@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-27T12:36:12.610Z",
+  "updatedAt": "2026-07-27T13:45:57.216Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-QJAZ-KHWB-DGNX",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548797776",
-      "expiresAt": "2026-07-27T13:05:56.237Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-N93H-JN74-WLA5",
       "status": "used",
@@ -796,14 +785,14 @@
     },
     {
       "code": "STARX-E9KP-BWAG-5853",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548756832",
-      "expiresAt": "",
+      "expiresAt": "2026-08-11T12:48:53.215Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CESD-PVLT-TTGJ",
