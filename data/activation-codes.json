@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-27T16:39:34.164Z",
+  "updatedAt": "2026-07-27T17:30:26.958Z",
   "publicFields": [
     "code",
     "status",
@@ -53,17 +53,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548796061",
       "expiresAt": "2026-07-28T09:49:25.530Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-Y8ST-32US-RTQB",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548795717",
-      "expiresAt": "2026-07-27T17:13:46.411Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
