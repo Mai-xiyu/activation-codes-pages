@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-28T16:58:32.091Z",
+  "updatedAt": "2026-07-28T17:34:03.874Z",
   "publicFields": [
     "code",
     "status",
@@ -870,17 +870,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-KUDV-ZXPW-BYML",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548751391",
-      "expiresAt": "2026-07-28T17:06:54.933Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-RHFB-KMKV-CTAV",
