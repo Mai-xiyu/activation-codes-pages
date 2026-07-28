@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-28T14:13:03.243Z",
+  "updatedAt": "2026-07-28T15:14:56.073Z",
   "publicFields": [
     "code",
     "status",
@@ -708,25 +708,25 @@
     },
     {
       "code": "STARX-CESD-PVLT-TTGJ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548756492",
-      "expiresAt": "",
+      "expiresAt": "2026-08-12T15:09:53.804Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-J9LK-3G9C-GEE3",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548756153",
-      "expiresAt": "",
+      "expiresAt": "2026-08-12T15:10:39.387Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-N87S-T7SY-BQCA",
