@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-28T13:03:04.309Z",
+  "updatedAt": "2026-07-28T14:13:03.243Z",
   "publicFields": [
     "code",
     "status",
@@ -361,17 +361,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548768743",
       "expiresAt": "2026-08-03T15:58:47.240Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-VWPH-UV6N-KUP7",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548768063",
-      "expiresAt": "2026-07-28T13:27:33.491Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -895,14 +884,14 @@
     },
     {
       "code": "STARX-RHFB-KMKV-CTAV",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548750712",
-      "expiresAt": "",
+      "expiresAt": "2026-08-12T14:03:10.313Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-M322-8H9M-W9MG",
