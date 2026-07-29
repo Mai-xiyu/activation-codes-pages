@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T06:48:30.586Z",
+  "updatedAt": "2026-07-29T07:52:22.753Z",
   "publicFields": [
     "code",
     "status",
@@ -53,17 +53,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548792984",
       "expiresAt": "2026-07-30T07:41:33.288Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-MSEF-FY7K-6MRC",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548791956",
-      "expiresAt": "2026-07-29T07:37:14.533Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
