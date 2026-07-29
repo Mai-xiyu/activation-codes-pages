@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-29T07:52:22.753Z",
+  "updatedAt": "2026-07-29T08:53:38.975Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-P77D-UJBW-QCP8",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548794352",
-      "expiresAt": "2026-07-29T08:07:09.079Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-EEBY-23HZ-H99Q",
       "status": "used",
