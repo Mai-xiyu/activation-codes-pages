@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-30T21:21:48.805Z",
+  "updatedAt": "2026-07-30T21:49:11.703Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-Y6HM-Z5W9-FVAD",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548787852",
-      "expiresAt": "2026-07-30T21:33:49.698Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-3XK8-4485-7XP9",
       "status": "used",
