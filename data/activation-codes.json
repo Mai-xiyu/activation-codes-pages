@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-30T02:57:51.473Z",
+  "updatedAt": "2026-07-30T04:02:26.664Z",
   "publicFields": [
     "code",
     "status",
@@ -741,14 +741,14 @@
     },
     {
       "code": "STARX-LBV4-N5Y3-U5GZ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548753432",
-      "expiresAt": "",
+      "expiresAt": "2026-08-14T04:00:24.066Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-BDLE-4TM6-4PG2",
