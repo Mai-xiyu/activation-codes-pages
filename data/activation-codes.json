@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-30T15:12:51.747Z",
+  "updatedAt": "2026-07-30T16:02:01.080Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-ZVQD-GLND-UMNE",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548788194",
-      "expiresAt": "2026-07-30T15:48:24.657Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-Y6HM-Z5W9-FVAD",
       "status": "used",
@@ -152,17 +141,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548771132",
       "expiresAt": "2026-08-02T11:28:19.428Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-497X-XG6F-Z6B9",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548770105",
-      "expiresAt": "2026-07-30T15:55:17.412Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
