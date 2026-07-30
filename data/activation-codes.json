@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-30T18:57:33.714Z",
+  "updatedAt": "2026-07-30T19:31:53.529Z",
   "publicFields": [
     "code",
     "status",
@@ -708,14 +708,14 @@
     },
     {
       "code": "STARX-M322-8H9M-W9MG",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1782548750371",
-      "expiresAt": "",
+      "expiresAt": "2026-08-14T19:17:44.269Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ASG2-DPG7-MMYX",
