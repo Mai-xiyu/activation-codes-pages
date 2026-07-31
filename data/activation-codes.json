@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-31T06:53:10.261Z",
+  "updatedAt": "2026-07-31T07:57:15.628Z",
   "publicFields": [
     "code",
     "status",
@@ -719,14 +719,14 @@
     },
     {
       "code": "STARX-BE8N-22T7-Q2SG",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508907454",
-      "expiresAt": "",
+      "expiresAt": "2026-08-02T07:53:21.733Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HTGN-A8MN-UQ8G",
