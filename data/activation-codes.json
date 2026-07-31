@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-31T12:09:19.325Z",
+  "updatedAt": "2026-07-31T13:05:37.967Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-6RVF-JUXC-CD9E",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548773519",
-      "expiresAt": "2026-07-31T12:55:44.849Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-W4WJ-ZLMA-4ZGX",
       "status": "used",
