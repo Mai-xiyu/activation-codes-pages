@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-07-31T04:11:43.686Z",
+  "updatedAt": "2026-07-31T05:42:23.223Z",
   "publicFields": [
     "code",
     "status",
@@ -13,28 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-3XK8-4485-7XP9",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548787512",
-      "expiresAt": "2026-07-31T04:36:27.858Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-XZ82-DXHN-F9YV",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548774199",
-      "expiresAt": "2026-07-31T05:12:00.634Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-3C2J-43FE-ARVN",
       "status": "used",
