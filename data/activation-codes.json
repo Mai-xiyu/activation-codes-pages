@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-01T01:41:37.581Z",
+  "updatedAt": "2026-08-01T02:58:25.576Z",
   "publicFields": [
     "code",
     "status",
@@ -42,17 +42,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548772157",
       "expiresAt": "2026-08-02T03:25:45.319Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-YHR7-FWRN-KHMA",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548771815",
-      "expiresAt": "2026-08-01T02:12:00.756Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
