@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-01T05:35:46.402Z",
+  "updatedAt": "2026-08-01T06:45:02.633Z",
   "publicFields": [
     "code",
     "status",
@@ -130,17 +130,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548767042",
       "expiresAt": "2026-08-04T13:24:27.946Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-LARM-JVYS-HFAY",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548766702",
-      "expiresAt": "2026-08-01T05:59:25.491Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -647,17 +636,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548749690",
       "expiresAt": "2026-08-14T02:55:26.458Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-UPRJ-NPXA-AYRD",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508908136",
-      "expiresAt": "2026-08-01T05:57:10.413Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
