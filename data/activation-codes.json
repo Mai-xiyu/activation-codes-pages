@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-01T14:03:55.482Z",
+  "updatedAt": "2026-08-01T14:47:52.454Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-HMGG-EGMY-AXYN",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548772498",
-      "expiresAt": "2026-08-01T14:17:00.424Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-T77A-QCU4-SZ7U",
       "status": "used",
@@ -664,14 +653,14 @@
     },
     {
       "code": "STARX-2YXA-Q4MN-E3U9",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508906775",
-      "expiresAt": "",
+      "expiresAt": "2026-08-03T14:07:37.698Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EZAT-DUGB-6TPP",
