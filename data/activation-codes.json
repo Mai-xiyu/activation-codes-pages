@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-02T02:14:34.828Z",
+  "updatedAt": "2026-08-02T03:41:30.375Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-T77A-QCU4-SZ7U",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548772157",
-      "expiresAt": "2026-08-02T03:25:45.319Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-B4LG-ZXJ2-GJJF",
       "status": "used",
