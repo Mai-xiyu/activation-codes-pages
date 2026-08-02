@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-02T16:45:21.878Z",
+  "updatedAt": "2026-08-02T17:19:19.523Z",
   "publicFields": [
     "code",
     "status",
@@ -20,17 +20,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548769763",
       "expiresAt": "2026-08-02T18:44:06.100Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-WPA3-W928-BL6U",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548769423",
-      "expiresAt": "2026-08-02T17:16:08.196Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
