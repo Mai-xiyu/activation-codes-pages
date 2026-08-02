@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-02T20:44:48.604Z",
+  "updatedAt": "2026-08-02T21:15:12.074Z",
   "publicFields": [
     "code",
     "status",
@@ -609,14 +609,14 @@
     },
     {
       "code": "STARX-QRX9-9FH9-5WJS",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508904396",
-      "expiresAt": "",
+      "expiresAt": "2026-08-04T20:55:40.628Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MHP4-J3LZ-ENZT",
