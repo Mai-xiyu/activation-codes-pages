@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-03T09:43:36.489Z",
+  "updatedAt": "2026-08-03T11:01:11.278Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-T6J9-GL3L-48YA",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548769083",
-      "expiresAt": "2026-08-03T10:37:33.891Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-D6LY-4HZT-A5AH",
       "status": "used",
