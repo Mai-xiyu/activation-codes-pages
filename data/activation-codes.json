@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-03T15:53:37.057Z",
+  "updatedAt": "2026-08-03T16:45:12.650Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-D6LY-4HZT-A5AH",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548768743",
-      "expiresAt": "2026-08-03T15:58:47.240Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-YPGS-G86E-RFB6",
       "status": "used",
@@ -548,17 +537,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548749690",
       "expiresAt": "2026-08-14T02:55:26.458Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-EZAT-DUGB-6TPP",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508906097",
-      "expiresAt": "2026-08-03T16:43:26.473Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
