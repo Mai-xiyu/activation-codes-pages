@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-03T12:35:43.666Z",
+  "updatedAt": "2026-08-03T13:49:00.407Z",
   "publicFields": [
     "code",
     "status",
@@ -741,14 +741,14 @@
     },
     {
       "code": "STARX-ZDSP-M3X6-PS94",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508898271",
-      "expiresAt": "",
+      "expiresAt": "2026-08-05T13:23:45.665Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2ZEA-Z4BB-4RPJ",
