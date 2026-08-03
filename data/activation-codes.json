@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-03T08:05:40.554Z",
+  "updatedAt": "2026-08-03T09:43:36.489Z",
   "publicFields": [
     "code",
     "status",
@@ -620,14 +620,14 @@
     },
     {
       "code": "STARX-C8JF-HJDT-2X6Y",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508903713",
-      "expiresAt": "",
+      "expiresAt": "2026-08-05T09:39:52.166Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MEES-NUM8-8AH6",
