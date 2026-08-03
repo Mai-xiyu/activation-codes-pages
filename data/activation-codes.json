@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-03T13:49:00.407Z",
+  "updatedAt": "2026-08-03T14:57:24.475Z",
   "publicFields": [
     "code",
     "status",
@@ -548,17 +548,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548749690",
       "expiresAt": "2026-08-14T02:55:26.458Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-2YXA-Q4MN-E3U9",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508906775",
-      "expiresAt": "2026-08-03T14:07:37.698Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
