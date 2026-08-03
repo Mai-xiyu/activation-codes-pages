@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-03T16:45:12.650Z",
+  "updatedAt": "2026-08-03T17:31:15.759Z",
   "publicFields": [
     "code",
     "status",
@@ -273,17 +273,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548758535",
       "expiresAt": "2026-08-10T12:32:58.370Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GLEX-CH8U-6RZU",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548758194",
-      "expiresAt": "2026-08-03T17:00:21.501Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
