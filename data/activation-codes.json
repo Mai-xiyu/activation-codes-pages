@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T15:15:15.476Z",
+  "updatedAt": "2026-08-04T16:13:10.191Z",
   "publicFields": [
     "code",
     "status",
@@ -493,17 +493,6 @@
       "label": "已绑定设备",
       "issuedAt": "1781508904396",
       "expiresAt": "2026-08-04T20:55:40.628Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-MHP4-J3LZ-ENZT",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508904055",
-      "expiresAt": "2026-08-04T15:46:41.883Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
