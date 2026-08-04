@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T07:21:58.706Z",
+  "updatedAt": "2026-08-04T08:15:44.937Z",
   "publicFields": [
     "code",
     "status",
@@ -576,14 +576,14 @@
     },
     {
       "code": "STARX-25LX-P3B6-NQLY",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508902348",
-      "expiresAt": "",
+      "expiresAt": "2026-08-06T07:58:56.875Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-74MV-ZPGR-66FS",
