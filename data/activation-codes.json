@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T12:10:12.557Z",
+  "updatedAt": "2026-08-04T13:07:19.003Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-H7JS-MYKX-MCEV",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548767383",
-      "expiresAt": "2026-08-04T12:43:28.697Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-GK8D-JAED-39UA",
       "status": "used",
