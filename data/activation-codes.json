@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T11:15:21.310Z",
+  "updatedAt": "2026-08-04T12:10:12.557Z",
   "publicFields": [
     "code",
     "status",
@@ -509,17 +509,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-HR4T-ZEBH-FDRY",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508904735",
-      "expiresAt": "2026-08-04T11:54:19.294Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-QRX9-9FH9-5WJS",
       "status": "used",
       "plan": "2 天",
@@ -587,14 +576,14 @@
     },
     {
       "code": "STARX-RXG3-R5VN-MHA5",
-      "status": "active",
+      "status": "used",
       "plan": "2 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1781508901670",
-      "expiresAt": "",
+      "expiresAt": "2026-08-06T11:40:15.206Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FEU9-7QUN-JFC6",
