@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T05:29:09.239Z",
+  "updatedAt": "2026-08-04T06:20:55.934Z",
   "publicFields": [
     "code",
     "status",
@@ -141,17 +141,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548763299",
       "expiresAt": "2026-08-07T05:31:01.003Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-349B-9Z2N-GEBR",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548762958",
-      "expiresAt": "2026-08-04T06:04:43.975Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
