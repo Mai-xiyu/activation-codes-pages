@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-04T09:24:26.553Z",
+  "updatedAt": "2026-08-04T10:19:19.558Z",
   "publicFields": [
     "code",
     "status",
@@ -650,28 +650,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-3YF5-GGZH-LTWG",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508899292",
-      "expiresAt": "2026-08-04T09:53:07.038Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-D4ML-BWDA-F9FZ",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508898610",
-      "expiresAt": "2026-08-04T10:08:29.809Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-ZDSP-M3X6-PS94",
