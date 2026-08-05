@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-05T15:13:22.317Z",
+  "updatedAt": "2026-08-05T16:07:37.575Z",
   "publicFields": [
     "code",
     "status",
@@ -13,17 +13,6 @@
     "usedCount"
   ],
   "codes": [
-    {
-      "code": "STARX-24NJ-H8UP-FXTV",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548765341",
-      "expiresAt": "2026-08-05T16:04:59.955Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
     {
       "code": "STARX-ML9M-XM46-H378",
       "status": "used",
