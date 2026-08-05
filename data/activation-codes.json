@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-05T21:23:09.785Z",
+  "updatedAt": "2026-08-05T21:52:45.324Z",
   "publicFields": [
     "code",
     "status",
@@ -185,17 +185,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548757513",
       "expiresAt": "2026-08-11T11:16:35.644Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-ZKKX-SXGQ-7XDY",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548757173",
-      "expiresAt": "2026-08-05T21:51:38.467Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
