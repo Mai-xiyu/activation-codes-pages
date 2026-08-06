@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-06T15:13:31.181Z",
+  "updatedAt": "2026-08-06T23:44:06.811Z",
   "publicFields": [
     "code",
     "status",
@@ -59,14 +59,14 @@
     },
     {
       "code": "STARX-3BAW-S3DJ-DN9S",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-08-21T21:58:58.527Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3CL5-T9P8-Q35A",
@@ -3312,17 +3312,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-LSJN-5PXP-MMQ7",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548764660",
-      "expiresAt": "2026-08-06T18:47:49.583Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-99JN-E6P8-3PSM",
