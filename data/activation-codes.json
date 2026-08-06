@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-06T14:13:20.645Z",
+  "updatedAt": "2026-08-06T15:13:31.181Z",
   "publicFields": [
     "code",
     "status",
@@ -3694,28 +3694,6 @@
       "label": "已绑定设备",
       "issuedAt": "1782548749690",
       "expiresAt": "2026-08-14T02:55:26.458Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-97UP-GNGU-GT4L",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508900653",
-      "expiresAt": "2026-08-06T14:18:55.447Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-K974-2MT8-AR8T",
-      "status": "used",
-      "plan": "2 天",
-      "label": "已绑定设备",
-      "issuedAt": "1781508900313",
-      "expiresAt": "2026-08-06T14:43:56.139Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
