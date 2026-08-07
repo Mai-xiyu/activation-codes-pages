@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-07T08:45:16.423Z",
+  "updatedAt": "2026-08-07T09:18:37.731Z",
   "publicFields": [
     "code",
     "status",
@@ -3312,28 +3312,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-73L2-YZVJ-AYD9",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548762618",
-      "expiresAt": "2026-08-07T08:49:28.793Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-P3LQ-ZHUU-2E4N",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548762279",
-      "expiresAt": "2026-08-07T08:49:58.789Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-DWT2-D447-DA63",
