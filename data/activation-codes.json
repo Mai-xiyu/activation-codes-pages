@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-07T08:22:45.901Z",
+  "updatedAt": "2026-08-07T08:45:16.423Z",
   "publicFields": [
     "code",
     "status",
@@ -103,14 +103,14 @@
     },
     {
       "code": "STARX-4QH7-5Y54-4AW9",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-08-22T08:38:57.660Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4RD4-GGBD-V2B8",
