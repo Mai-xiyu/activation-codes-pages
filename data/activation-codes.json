@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-07T06:24:26.874Z",
+  "updatedAt": "2026-08-07T06:52:01.268Z",
   "publicFields": [
     "code",
     "status",
@@ -180,14 +180,14 @@
     },
     {
       "code": "STARX-6KGR-KMRM-ANTC",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-08-22T06:27:35.164Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6LFV-MM3Q-X9W9",
