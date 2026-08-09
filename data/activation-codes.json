@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-09T16:05:17.393Z",
+  "updatedAt": "2026-08-09T16:42:22.061Z",
   "publicFields": [
     "code",
     "status",
@@ -455,14 +455,14 @@
     },
     {
       "code": "STARX-G6KQ-6ZEW-UE2T",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-08-24T16:42:08.750Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GHWF-G3MA-NAQJ",
