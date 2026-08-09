@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-09T04:29:51.273Z",
+  "updatedAt": "2026-08-09T04:52:59.728Z",
   "publicFields": [
     "code",
     "status",
@@ -279,14 +279,14 @@
     },
     {
       "code": "STARX-9K3P-2J8M-2H4E",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-08-24T04:32:20.733Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-9RPR-AD44-CAR8",
