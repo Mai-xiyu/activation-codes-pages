@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-10T19:45:32.434Z",
+  "updatedAt": "2026-08-10T20:10:57.088Z",
   "publicFields": [
     "code",
     "status",
@@ -345,14 +345,14 @@
     },
     {
       "code": "STARX-BBFU-7GR3-6MDD",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-08-25T20:00:48.617Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-BZMM-4FUS-792R",
