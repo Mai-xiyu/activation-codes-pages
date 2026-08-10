@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-10T11:43:51.553Z",
+  "updatedAt": "2026-08-10T12:11:38.935Z",
   "publicFields": [
     "code",
     "status",
@@ -312,14 +312,14 @@
     },
     {
       "code": "STARX-AEFQ-8NAP-7A9G",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-08-25T11:48:52.734Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AN9D-7H2N-YD2F",
