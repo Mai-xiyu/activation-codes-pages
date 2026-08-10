@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-10T10:49:13.140Z",
+  "updatedAt": "2026-08-10T11:20:57.647Z",
   "publicFields": [
     "code",
     "status",
@@ -323,14 +323,14 @@
     },
     {
       "code": "STARX-AN9D-7H2N-YD2F",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-08-25T10:49:45.399Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AV62-VE38-V5WQ",
@@ -3312,17 +3312,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-ZD9Z-SMJK-A4NQ",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548760238",
-      "expiresAt": "2026-08-10T10:56:10.421Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-WBND-EQV9-BSSA",
