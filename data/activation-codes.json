@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-11T12:44:54.849Z",
+  "updatedAt": "2026-08-11T13:25:41.286Z",
   "publicFields": [
     "code",
     "status",
@@ -3312,17 +3312,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-E9KP-BWAG-5853",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548756832",
-      "expiresAt": "2026-08-11T12:48:53.215Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-CESD-PVLT-TTGJ",
