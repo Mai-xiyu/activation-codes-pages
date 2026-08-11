@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-11T05:45:38.240Z",
+  "updatedAt": "2026-08-11T06:13:57.638Z",
   "publicFields": [
     "code",
     "status",
@@ -3312,17 +3312,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-PBKF-DJFC-JQY5",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1782548759216",
-      "expiresAt": "2026-08-11T06:01:00.228Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-ZG5X-FFNC-Y6ET",
