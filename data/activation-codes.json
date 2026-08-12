@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-12T00:46:15.554Z",
+  "updatedAt": "2026-08-12T01:29:37.987Z",
   "publicFields": [
     "code",
     "status",
@@ -400,14 +400,14 @@
     },
     {
       "code": "STARX-EVHD-WKUA-NSPT",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-08-27T01:26:33.803Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-F8VM-EU4D-KRC8",
