@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-12T18:45:34.311Z",
+  "updatedAt": "2026-08-12T19:21:06.197Z",
   "publicFields": [
     "code",
     "status",
@@ -3920,7 +3920,7 @@
     },
     {
       "code": "STARX-N87S-T7SY-BQCA",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548755813",
@@ -4030,7 +4030,7 @@
     },
     {
       "code": "STARX-J94S-XZXV-54TJ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548752411",
