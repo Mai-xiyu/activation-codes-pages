@@ -102,7 +102,14 @@ function sanitizeCode(entry) {
   };
 }
 
+// 隐私激活码（发给赞助者等私密渠道）绝不公开：服务器端 list 默认已过滤，
+// 这里再做一层兜底，防止后台配置失误导致隐私码被写入公开仓库。
+function isPrivate(entry) {
+  return entry && (entry.private === true || entry.privacy === true || entry.is_private === true);
+}
+
 const publicCodes = rawCodes
+  .filter((entry) => !isPrivate(entry))
   .map(sanitizeCode)
   .filter(Boolean)
   .sort((a, b) => String(b.issuedAt).localeCompare(String(a.issuedAt)) || a.code.localeCompare(b.code));
