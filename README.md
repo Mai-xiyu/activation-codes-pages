@@ -40,6 +40,16 @@
 
 当前 StarX 服务器没有单独的公开只读接口；管理工具也是通过 `POST /api/admin/list` 加 `Authorization: Bearer <ADMIN_SECRET>` 获取列表。同步脚本会在 GitHub Actions 里使用 Secret 调接口，然后只把公开白名单字段写入 `data/activation-codes.json`。管理员密钥、设备 ID、后台原始响应不会写入前端仓库。
 
+## 隐私激活码
+
+后台生成激活码时支持 `private: true` 标记（发给赞助者等私密渠道的码）。此类激活码：
+
+- 服务器 `/api/admin/list` 默认不返回（只有管理工具显式传 `include_private: true` 才能看到）；
+- 同步脚本也会再过滤一遍 `private` / `privacy` / `is_private` 字段为真的记录（双保险），
+  保证隐私码永远不会写入本仓库的 `data/activation-codes.json` 并出现在 GitHub Pages 上。
+
+隐私码的激活、续期与普通码完全一致，只是不公开。
+
 ## 后台接口格式
 
 同步脚本支持数组，或对象中的 `codes` / `data` / `items` 数组。当前 StarX 管理接口返回字段类似：
