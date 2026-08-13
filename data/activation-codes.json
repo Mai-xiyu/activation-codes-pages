@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-13T12:45:17.648Z",
+  "updatedAt": "2026-08-13T13:27:19.149Z",
   "publicFields": [
     "code",
     "status",
@@ -180,14 +180,14 @@
     },
     {
       "code": "STARX-CQT6-TT6T-G7GE",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T13:20:09.130Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CUGJ-TTVR-ZR2B",
@@ -680,17 +680,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-08-23T23:59:45.032Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-7KCZ-XQXX-5Q6D",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-08-22T07:46:09.875Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
