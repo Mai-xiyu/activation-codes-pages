@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-13T12:12:42.148Z",
+  "updatedAt": "2026-08-13T12:45:17.648Z",
   "publicFields": [
     "code",
     "status",
@@ -103,14 +103,14 @@
     },
     {
       "code": "STARX-7Y2H-2VQ4-SGRV",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T12:36:23.799Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8QGL-LYRC-ADPW",
@@ -213,14 +213,14 @@
     },
     {
       "code": "STARX-GWKX-AWDP-BZYT",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T12:38:05.654Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HFYF-GKYP-5C7F",
