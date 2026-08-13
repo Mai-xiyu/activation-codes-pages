@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-13T08:53:20.033Z",
+  "updatedAt": "2026-08-13T09:23:10.683Z",
   "publicFields": [
     "code",
     "status",
@@ -801,17 +801,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-08-25T18:34:27.764Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-BBFU-7GR3-6MDD",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-08-25T20:00:48.617Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -3865,7 +3854,7 @@
     },
     {
       "code": "STARX-VM5D-VRWV-E53M",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548754792",
