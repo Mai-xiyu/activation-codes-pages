@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-13T16:45:17.557Z",
+  "updatedAt": "2026-08-13T17:17:26.916Z",
   "publicFields": [
     "code",
     "status",
@@ -136,14 +136,14 @@
     },
     {
       "code": "STARX-94WH-GNDT-5TBS",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T16:51:42.618Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-9NY7-DRFC-3WRK",
@@ -466,14 +466,14 @@
     },
     {
       "code": "STARX-VM7H-8K95-QP7H",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T17:14:27.877Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VXLY-CGR8-LYS9",
