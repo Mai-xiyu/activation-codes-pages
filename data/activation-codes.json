@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-13T06:34:32.189Z",
+  "updatedAt": "2026-08-13T07:28:25.029Z",
   "publicFields": [
     "code",
     "status",
@@ -59,14 +59,14 @@
     },
     {
       "code": "STARX-5N98-E3A7-YDV3",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T07:26:10.729Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5XWJ-N94J-LXWX",
