@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-13T02:19:16.423Z",
+  "updatedAt": "2026-08-13T03:17:45.970Z",
   "publicFields": [
     "code",
     "status",
@@ -3942,7 +3942,7 @@
     },
     {
       "code": "STARX-2J9S-2EKU-R4JY",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548755132",
