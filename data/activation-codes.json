@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-14T10:19:18.689Z",
+  "updatedAt": "2026-08-14T10:45:31.029Z",
   "publicFields": [
     "code",
     "status",
@@ -3909,7 +3909,7 @@
     },
     {
       "code": "STARX-KVTL-JXD9-K3UT",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548752072",
