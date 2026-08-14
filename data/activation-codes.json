@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-14T16:14:22.391Z",
+  "updatedAt": "2026-08-14T16:48:35.506Z",
   "publicFields": [
     "code",
     "status",
@@ -3909,7 +3909,7 @@
     },
     {
       "code": "STARX-ASMK-4BJ2-7HNU",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548751732",
