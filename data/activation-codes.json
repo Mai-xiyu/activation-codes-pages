@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-14T07:58:52.613Z",
+  "updatedAt": "2026-08-14T08:33:39.276Z",
   "publicFields": [
     "code",
     "status",
@@ -3898,7 +3898,7 @@
     },
     {
       "code": "STARX-JPZC-9KHV-ABQP",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548752751",
