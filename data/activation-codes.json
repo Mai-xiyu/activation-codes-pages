@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-14T12:44:50.415Z",
+  "updatedAt": "2026-08-14T13:25:42.788Z",
   "publicFields": [
     "code",
     "status",
@@ -243,17 +243,6 @@
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
-    },
-    {
-      "code": "STARX-JF5C-9NQL-DXH7",
-      "status": "active",
-      "plan": "60 天",
-      "label": "未使用",
-      "issuedAt": "1786555905178",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
     },
     {
       "code": "STARX-KME9-JW58-9YF8",
