@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-14T02:19:28.712Z",
+  "updatedAt": "2026-08-14T03:16:05.275Z",
   "publicFields": [
     "code",
     "status",
@@ -3975,7 +3975,7 @@
     },
     {
       "code": "STARX-HPZB-JEGB-SVHK",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548749690",
