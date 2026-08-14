@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-14T18:44:18.927Z",
+  "updatedAt": "2026-08-14T19:17:55.745Z",
   "publicFields": [
     "code",
     "status",
@@ -3931,7 +3931,7 @@
     },
     {
       "code": "STARX-M322-8H9M-W9MG",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1782548750371",
