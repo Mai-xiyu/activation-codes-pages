@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-14T05:04:31.990Z",
+  "updatedAt": "2026-08-14T05:57:37.418Z",
   "publicFields": [
     "code",
     "status",
@@ -169,14 +169,14 @@
     },
     {
       "code": "STARX-ABZL-U8JE-NY9A",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-13T05:32:43.221Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CQT6-TT6T-G7GE",
