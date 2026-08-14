@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-14T08:33:39.276Z",
+  "updatedAt": "2026-08-14T09:20:53.137Z",
   "publicFields": [
     "code",
     "status",
@@ -614,17 +614,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-08-22T19:31:51.815Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-64EG-C8VG-LLCQ",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-08-23T03:34:15.024Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -3744,14 +3733,14 @@
     },
     {
       "code": "STARX-ZGA3-Q7V7-LGAQ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-08-29T09:01:23.821Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PN5N-4GXJ-KB74",
