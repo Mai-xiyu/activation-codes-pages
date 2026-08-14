@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-14T12:12:06.446Z",
+  "updatedAt": "2026-08-14T12:44:50.415Z",
   "publicFields": [
     "code",
     "status",
@@ -224,14 +224,14 @@
     },
     {
       "code": "STARX-HFYF-GKYP-5C7F",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-13T12:33:39.241Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-JD34-ZS3Q-7ZEM",
