@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-14T14:44:41.051Z",
+  "updatedAt": "2026-08-14T15:14:15.329Z",
   "publicFields": [
     "code",
     "status",
@@ -246,14 +246,14 @@
     },
     {
       "code": "STARX-KME9-JW58-9YF8",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-13T14:52:49.595Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LWLC-AHSG-B65C",
