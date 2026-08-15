@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-15T18:01:36.696Z",
+  "updatedAt": "2026-08-15T18:40:49.787Z",
   "publicFields": [
     "code",
     "status",
@@ -389,14 +389,14 @@
     },
     {
       "code": "STARX-TMCU-5SU4-ULPV",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-14T18:11:52.193Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TY8E-QJG5-Z7BN",
@@ -735,17 +735,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-08-25T11:48:52.734Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-AN9D-7H2N-YD2F",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-08-25T10:49:45.399Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
