@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-15T02:00:03.583Z",
+  "updatedAt": "2026-08-15T02:26:55.676Z",
   "publicFields": [
     "code",
     "status",
@@ -279,14 +279,14 @@
     },
     {
       "code": "STARX-NC27-2MYC-U8A7",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-14T02:20:08.739Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ND2U-V83Z-FJPN",
