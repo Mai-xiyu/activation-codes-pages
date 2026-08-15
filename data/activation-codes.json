@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-15T04:07:35.708Z",
+  "updatedAt": "2026-08-15T04:40:15.441Z",
   "publicFields": [
     "code",
     "status",
@@ -300,26 +300,15 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-NSPP-WMSR-3J5V",
-      "status": "active",
-      "plan": "60 天",
-      "label": "未使用",
-      "issuedAt": "1786555905178",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
       "code": "STARX-NUCB-DWXD-C2ZC",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-14T04:17:51.477Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PN77-BB6V-FJWB",
@@ -823,17 +812,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-08-27T01:26:33.803Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-F8VM-EU4D-KRC8",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-08-27T08:47:03.054Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
