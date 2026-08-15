@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-15T16:37:43.320Z",
+  "updatedAt": "2026-08-15T17:03:15.663Z",
   "publicFields": [
     "code",
     "status",
@@ -378,14 +378,14 @@
     },
     {
       "code": "STARX-T9L3-9KLW-6SHB",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-14T16:56:39.360Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TMCU-5SU4-ULPV",
