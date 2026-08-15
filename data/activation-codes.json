@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-15T02:46:50.682Z",
+  "updatedAt": "2026-08-15T03:13:08.095Z",
   "publicFields": [
     "code",
     "status",
@@ -290,14 +290,14 @@
     },
     {
       "code": "STARX-ND2U-V83Z-FJPN",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-14T02:59:51.664Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NSPP-WMSR-3J5V",
