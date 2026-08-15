@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-15T11:02:19.336Z",
+  "updatedAt": "2026-08-15T11:34:38.295Z",
   "publicFields": [
     "code",
     "status",
@@ -345,14 +345,14 @@
     },
     {
       "code": "STARX-R5XU-VQ2W-EZDF",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-14T11:12:28.620Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SD9C-SXWA-C43M",
