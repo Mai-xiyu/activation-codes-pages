@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-15T23:34:52.486Z",
+  "updatedAt": "2026-08-16T00:02:12.565Z",
   "publicFields": [
     "code",
     "status",
@@ -433,14 +433,14 @@
     },
     {
       "code": "STARX-VG4L-FBDN-8EK2",
-      "status": "active",
+      "status": "used",
       "plan": "60 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786555905178",
-      "expiresAt": "",
+      "expiresAt": "2026-10-14T23:51:54.233Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VM7H-8K95-QP7H",
