@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-16T13:11:17.648Z",
+  "updatedAt": "2026-08-16T13:39:16.578Z",
   "publicFields": [
     "code",
     "status",
@@ -862,14 +862,14 @@
     },
     {
       "code": "STARX-GLW6-JQDF-ZXYH",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-08-31T13:20:56.042Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GSKH-R6MA-7FS5",
