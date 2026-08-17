@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-17T03:17:06.746Z",
+  "updatedAt": "2026-08-17T03:44:16.004Z",
   "publicFields": [
     "code",
     "status",
@@ -895,14 +895,14 @@
     },
     {
       "code": "STARX-HAUR-S45L-5M7B",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-01T03:29:52.277Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HCND-4JZL-HUUS",
