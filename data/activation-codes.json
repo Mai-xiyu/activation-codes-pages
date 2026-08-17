@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-17T17:05:10.770Z",
+  "updatedAt": "2026-08-17T17:38:36.548Z",
   "publicFields": [
     "code",
     "status",
@@ -950,14 +950,14 @@
     },
     {
       "code": "STARX-K6RQ-EBJF-N74M",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-01T17:13:53.078Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KBFJ-4RZ2-9JWC",
@@ -2347,17 +2347,6 @@
     },
     {
       "code": "STARX-NM96-2HWC-6HTF",
-      "status": "active",
-      "plan": "15 天",
-      "label": "未使用",
-      "issuedAt": "1786001238453",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
-      "code": "STARX-NSYU-FQ47-BN8C",
       "status": "active",
       "plan": "15 天",
       "label": "未使用",
