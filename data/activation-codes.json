@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-17T07:18:53.970Z",
+  "updatedAt": "2026-08-17T07:44:51.362Z",
   "publicFields": [
     "code",
     "status",
@@ -917,14 +917,14 @@
     },
     {
       "code": "STARX-HD2P-NC8Q-SLNX",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-01T07:42:40.136Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HESE-VEL9-7F94",
