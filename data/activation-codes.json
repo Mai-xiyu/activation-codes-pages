@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-18T15:06:13.182Z",
+  "updatedAt": "2026-08-18T15:40:02.529Z",
   "publicFields": [
     "code",
     "status",
@@ -1104,14 +1104,14 @@
     },
     {
       "code": "STARX-PPK2-BY95-9676",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-02T15:10:50.401Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PVQN-QK75-WQA9",
