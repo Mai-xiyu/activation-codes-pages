@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-18T01:27:50.789Z",
+  "updatedAt": "2026-08-18T02:01:07.599Z",
   "publicFields": [
     "code",
     "status",
@@ -972,14 +972,14 @@
     },
     {
       "code": "STARX-KFCZ-FMKF-WH55",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-02T01:32:59.008Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LUWX-AMCM-39AK",
