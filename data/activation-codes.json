@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-18T09:41:22.070Z",
+  "updatedAt": "2026-08-18T10:04:55.806Z",
   "publicFields": [
     "code",
     "status",
@@ -1016,14 +1016,14 @@
     },
     {
       "code": "STARX-MRP9-GFXS-DCW2",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-02T09:49:16.974Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MS76-X2V8-35BZ",
@@ -1060,14 +1060,14 @@
     },
     {
       "code": "STARX-NPY2-PD3C-DYFG",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-02T09:59:54.504Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NUTF-2WPR-8GJQ",
