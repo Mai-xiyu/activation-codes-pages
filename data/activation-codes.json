@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-19T09:41:11.173Z",
+  "updatedAt": "2026-08-19T10:04:54.218Z",
   "publicFields": [
     "code",
     "status",
@@ -1071,14 +1071,14 @@
     },
     {
       "code": "STARX-PLBK-8MY2-SRT4",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-03T09:49:27.353Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PPK2-BY95-9676",
