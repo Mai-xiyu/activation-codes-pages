@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-19T04:42:16.950Z",
+  "updatedAt": "2026-08-19T05:07:08.265Z",
   "publicFields": [
     "code",
     "status",
@@ -977,17 +977,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-09-02T01:32:59.008Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-M6PM-VELD-Y5VE",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-09-02T06:03:55.489Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
