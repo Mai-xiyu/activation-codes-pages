@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-20T04:11:07.390Z",
+  "updatedAt": "2026-08-20T04:42:18.941Z",
   "publicFields": [
     "code",
     "status",
@@ -1115,14 +1115,14 @@
     },
     {
       "code": "STARX-PXNU-C2HG-52VS",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-04T04:20:35.585Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-QA8M-ZKKA-V5N9",
