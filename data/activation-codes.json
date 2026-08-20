@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-20T16:05:50.585Z",
+  "updatedAt": "2026-08-20T16:41:53.854Z",
   "publicFields": [
     "code",
     "status",
@@ -1225,14 +1225,14 @@
     },
     {
       "code": "STARX-TABZ-PEEX-K5SS",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-04T16:09:43.812Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TBVZ-PHA3-4EBG",
