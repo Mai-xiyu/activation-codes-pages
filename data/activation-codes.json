@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-20T17:06:29.954Z",
+  "updatedAt": "2026-08-20T17:39:28.187Z",
   "publicFields": [
     "code",
     "status",
@@ -1236,14 +1236,14 @@
     },
     {
       "code": "STARX-TBVZ-PHA3-4EBG",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-04T17:32:35.313Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TTN6-7DHP-9RGC",
