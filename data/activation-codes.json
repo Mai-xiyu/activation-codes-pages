@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-20T20:04:26.656Z",
+  "updatedAt": "2026-08-20T20:39:41.326Z",
   "publicFields": [
     "code",
     "status",
@@ -1247,14 +1247,14 @@
     },
     {
       "code": "STARX-TTN6-7DHP-9RGC",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-04T20:21:04.496Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TVSU-GPP6-BWPG",
