@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-20T10:06:01.534Z",
+  "updatedAt": "2026-08-20T10:40:12.066Z",
   "publicFields": [
     "code",
     "status",
@@ -1159,14 +1159,14 @@
     },
     {
       "code": "STARX-RFUW-EZFW-3ZPT",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-04T10:10:57.193Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RYHM-SKEN-6EKA",
