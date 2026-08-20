@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-20T03:15:33.795Z",
+  "updatedAt": "2026-08-20T03:43:46.350Z",
   "publicFields": [
     "code",
     "status",
@@ -1445,14 +1445,14 @@
     },
     {
       "code": "STARX-3LAK-443Z-GV3H",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238454",
-      "expiresAt": "",
+      "expiresAt": "2026-09-04T03:30:33.683Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4G7L-QUSV-AQYP",
