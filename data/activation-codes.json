@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-21T08:42:51.780Z",
+  "updatedAt": "2026-08-21T09:10:37.506Z",
   "publicFields": [
     "code",
     "status",
@@ -477,7 +477,7 @@
     },
     {
       "code": "STARX-23JE-TYJG-MJ56",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
