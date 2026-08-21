@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-21T10:40:12.311Z",
+  "updatedAt": "2026-08-21T11:04:37.264Z",
   "publicFields": [
     "code",
     "status",
@@ -510,7 +510,7 @@
     },
     {
       "code": "STARX-33M5-FMQJ-EZL6",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
