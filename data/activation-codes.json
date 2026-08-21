@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-21T14:41:58.309Z",
+  "updatedAt": "2026-08-21T15:07:24.158Z",
   "publicFields": [
     "code",
     "status",
@@ -1280,14 +1280,14 @@
     },
     {
       "code": "STARX-UVEB-QCAC-M8UH",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-05T15:07:05.436Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VE9L-LDY2-JEP2",
