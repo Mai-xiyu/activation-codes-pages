@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-21T12:04:23.156Z",
+  "updatedAt": "2026-08-21T12:43:29.295Z",
   "publicFields": [
     "code",
     "status",
@@ -499,7 +499,7 @@
     },
     {
       "code": "STARX-2ZEZ-XHGU-6KF6",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
