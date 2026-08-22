@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-22T06:03:06.383Z",
+  "updatedAt": "2026-08-22T06:42:42.947Z",
   "publicFields": [
     "code",
     "status",
@@ -598,7 +598,7 @@
     },
     {
       "code": "STARX-6KGR-KMRM-ANTC",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
