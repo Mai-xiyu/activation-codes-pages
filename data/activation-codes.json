@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-23T17:03:33.824Z",
+  "updatedAt": "2026-08-23T17:35:06.501Z",
   "publicFields": [
     "code",
     "status",
@@ -1456,14 +1456,14 @@
     },
     {
       "code": "STARX-4V3A-EJJZ-RPVM",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238454",
-      "expiresAt": "",
+      "expiresAt": "2026-09-07T17:32:35.684Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5UY4-HCY9-QHZD",
