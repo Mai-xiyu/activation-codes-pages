@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-23T05:06:53.821Z",
+  "updatedAt": "2026-08-23T05:39:12.193Z",
   "publicFields": [
     "code",
     "status",
@@ -576,7 +576,7 @@
     },
     {
       "code": "STARX-682G-2GVU-U4W9",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
