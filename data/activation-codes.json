@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-23T03:44:22.728Z",
+  "updatedAt": "2026-08-23T04:11:37.326Z",
   "publicFields": [
     "code",
     "status",
@@ -537,17 +537,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-08-22T04:05:47.567Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-462B-884B-XXWQ",
-      "status": "expired",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-08-21T10:08:20.493Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -1346,14 +1335,14 @@
     },
     {
       "code": "STARX-WWWG-7GDJ-7YW9",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-07T04:08:50.428Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-X8S8-PD4R-E5VM",
