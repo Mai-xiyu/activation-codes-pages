@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-23T15:03:23.524Z",
+  "updatedAt": "2026-08-23T15:35:40.247Z",
   "publicFields": [
     "code",
     "status",
@@ -1423,14 +1423,14 @@
     },
     {
       "code": "STARX-ZK9W-RXKS-ZRGG",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001244908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-07T15:11:01.872Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3LAK-443Z-GV3H",
@@ -1478,14 +1478,14 @@
     },
     {
       "code": "STARX-5XR9-RUB7-Z6BU",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238454",
-      "expiresAt": "",
+      "expiresAt": "2026-09-07T15:12:43.106Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-74Q5-USB7-2LR7",
