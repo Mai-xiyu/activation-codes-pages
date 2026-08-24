@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-24T13:18:15.627Z",
+  "updatedAt": "2026-08-24T13:58:30.595Z",
   "publicFields": [
     "code",
     "status",
@@ -1808,14 +1808,14 @@
     },
     {
       "code": "STARX-YHB6-DLN3-U9JW",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238454",
-      "expiresAt": "",
+      "expiresAt": "2026-09-08T13:38:51.310Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-YY87-RR2E-MTT5",
