@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-24T16:07:53.439Z",
+  "updatedAt": "2026-08-24T16:42:25.943Z",
   "publicFields": [
     "code",
     "status",
@@ -818,7 +818,7 @@
     },
     {
       "code": "STARX-G6KQ-6ZEW-UE2T",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
