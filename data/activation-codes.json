@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-23T23:35:20.415Z",
+  "updatedAt": "2026-08-24T00:02:23.324Z",
   "publicFields": [
     "code",
     "status",
@@ -620,7 +620,7 @@
     },
     {
       "code": "STARX-6YNT-PHE9-UCPF",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
