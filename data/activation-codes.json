@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-24T02:50:00.685Z",
+  "updatedAt": "2026-08-24T03:18:49.322Z",
   "publicFields": [
     "code",
     "status",
@@ -642,7 +642,7 @@
     },
     {
       "code": "STARX-8VLX-NHM3-XL6C",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -664,7 +664,7 @@
     },
     {
       "code": "STARX-9EQX-G674-SWNA",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
