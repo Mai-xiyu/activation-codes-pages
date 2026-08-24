@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-24T04:13:47.910Z",
+  "updatedAt": "2026-08-24T04:43:20.933Z",
   "publicFields": [
     "code",
     "status",
@@ -675,7 +675,7 @@
     },
     {
       "code": "STARX-9K3P-2J8M-2H4E",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
