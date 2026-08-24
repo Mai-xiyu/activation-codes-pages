@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-24T08:11:58.601Z",
+  "updatedAt": "2026-08-24T08:44:02.898Z",
   "publicFields": [
     "code",
     "status",
@@ -1511,14 +1511,14 @@
     },
     {
       "code": "STARX-8W38-5MVW-P5KF",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238454",
-      "expiresAt": "",
+      "expiresAt": "2026-09-08T08:20:38.836Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8XLK-LQ4B-EQGR",
