@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-24T11:38:52.605Z",
+  "updatedAt": "2026-08-24T12:04:45.007Z",
   "publicFields": [
     "code",
     "status",
@@ -2952,14 +2952,14 @@
     },
     {
       "code": "STARX-FVEH-SDE3-NJEK",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-08T12:00:34.212Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GBBM-Q6JC-BJ7S",
