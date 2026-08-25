@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-25T16:10:30.153Z",
+  "updatedAt": "2026-08-25T16:42:20.554Z",
   "publicFields": [
     "code",
     "status",
@@ -1709,14 +1709,14 @@
     },
     {
       "code": "STARX-S9VQ-LNG5-5P2M",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238454",
-      "expiresAt": "",
+      "expiresAt": "2026-09-09T16:26:54.283Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TQ6U-79U4-XL2K",
