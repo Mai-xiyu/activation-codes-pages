@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-25T09:10:38.831Z",
+  "updatedAt": "2026-08-25T09:42:05.550Z",
   "publicFields": [
     "code",
     "status",
@@ -1610,14 +1610,14 @@
     },
     {
       "code": "STARX-HAAM-NT7Y-BK92",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238454",
-      "expiresAt": "",
+      "expiresAt": "2026-09-09T09:37:25.626Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KBZB-TT4M-RKAD",
