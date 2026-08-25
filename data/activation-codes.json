@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-25T08:43:03.678Z",
+  "updatedAt": "2026-08-25T09:10:38.831Z",
   "publicFields": [
     "code",
     "status",
@@ -697,7 +697,7 @@
     },
     {
       "code": "STARX-ADRT-4GCZ-UBQ3",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
