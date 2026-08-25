@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-25T08:11:36.937Z",
+  "updatedAt": "2026-08-25T08:43:03.678Z",
   "publicFields": [
     "code",
     "status",
@@ -1588,14 +1588,14 @@
     },
     {
       "code": "STARX-FBK3-F8M8-W8D7",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238454",
-      "expiresAt": "",
+      "expiresAt": "2026-09-09T08:17:35.102Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FUMW-8WB8-PDTH",
