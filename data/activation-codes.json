@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-25T12:43:35.023Z",
+  "updatedAt": "2026-08-25T13:17:00.885Z",
   "publicFields": [
     "code",
     "status",
@@ -1632,14 +1632,14 @@
     },
     {
       "code": "STARX-KTKN-VD8X-A4RW",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238454",
-      "expiresAt": "",
+      "expiresAt": "2026-09-09T13:11:31.469Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-M4RB-U6C8-6P75",
