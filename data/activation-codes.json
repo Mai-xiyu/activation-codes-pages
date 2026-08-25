@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-25T18:05:15.547Z",
+  "updatedAt": "2026-08-25T18:42:42.554Z",
   "publicFields": [
     "code",
     "status",
@@ -719,7 +719,7 @@
     },
     {
       "code": "STARX-AV62-VE38-V5WQ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -3062,14 +3062,14 @@
     },
     {
       "code": "STARX-M3ZS-HY6X-VGQ4",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-09T18:07:37.023Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-M6MD-TDXH-VY33",
