@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-26T18:32:28.419Z",
+  "updatedAt": "2026-08-26T19:30:45.673Z",
   "publicFields": [
     "code",
     "status",
@@ -752,7 +752,7 @@
     },
     {
       "code": "STARX-E77C-7EMV-R2SD",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -1742,14 +1742,14 @@
     },
     {
       "code": "STARX-VNTU-ERVZ-UXUH",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238454",
-      "expiresAt": "",
+      "expiresAt": "2026-09-10T18:52:14.298Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-W4B8-6YAC-35FQ",
