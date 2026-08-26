@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-26T08:43:09.146Z",
+  "updatedAt": "2026-08-26T09:12:49.594Z",
   "publicFields": [
     "code",
     "status",
@@ -1731,14 +1731,14 @@
     },
     {
       "code": "STARX-U9LX-C6KR-BUYC",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238454",
-      "expiresAt": "",
+      "expiresAt": "2026-09-10T08:57:39.930Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-V876-ZHB8-WNJR",
