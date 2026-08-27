@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-27T14:06:55.680Z",
+  "updatedAt": "2026-08-27T18:11:38.288Z",
   "publicFields": [
     "code",
     "status",
@@ -1852,14 +1852,14 @@
     },
     {
       "code": "STARX-3TKS-UGHL-ED6Z",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-11T14:50:51.064Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-46AN-JLN3-YNMS",
@@ -3535,14 +3535,14 @@
     },
     {
       "code": "STARX-YRXX-4VGG-59MY",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-11T17:01:02.182Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Z27N-AF8Q-VXDK",
