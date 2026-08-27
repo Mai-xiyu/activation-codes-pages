@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-26T22:57:18.100Z",
+  "updatedAt": "2026-08-27T00:08:50.375Z",
   "publicFields": [
     "code",
     "status",
@@ -763,7 +763,7 @@
     },
     {
       "code": "STARX-EVC3-4C5R-ZFND",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
