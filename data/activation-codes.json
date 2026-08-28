@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-28T06:28:57.720Z",
+  "updatedAt": "2026-08-28T09:48:34.703Z",
   "publicFields": [
     "code",
     "status",
@@ -1918,14 +1918,14 @@
     },
     {
       "code": "STARX-5EVX-PL72-XHGR",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-12T07:51:05.864Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5K2N-5AB2-84QS",
