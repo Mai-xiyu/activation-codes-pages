@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-27T21:43:26.606Z",
+  "updatedAt": "2026-08-28T00:51:59.419Z",
   "publicFields": [
     "code",
     "status",
@@ -1863,14 +1863,14 @@
     },
     {
       "code": "STARX-46AN-JLN3-YNMS",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-12T00:36:54.895Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4AT9-HXAA-7RXU",
