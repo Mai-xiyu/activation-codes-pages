@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-29T09:30:42.791Z",
+  "updatedAt": "2026-08-29T10:00:35.186Z",
   "publicFields": [
     "code",
     "status",
@@ -1962,14 +1962,14 @@
     },
     {
       "code": "STARX-7F27-AYFJ-SF75",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-13T09:33:03.269Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-7XJA-9QF7-JRRC",
