@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-29T09:00:43.642Z",
+  "updatedAt": "2026-08-29T09:30:42.791Z",
   "publicFields": [
     "code",
     "status",
@@ -3546,7 +3546,7 @@
     },
     {
       "code": "STARX-ZGA3-Q7V7-LGAQ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
