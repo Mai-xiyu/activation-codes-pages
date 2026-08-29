@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-29T23:00:50.452Z",
+  "updatedAt": "2026-08-29T23:30:40.876Z",
   "publicFields": [
     "code",
     "status",
@@ -823,17 +823,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-08-31T13:20:56.042Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-GSKH-R6MA-7FS5",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-08-31T14:10:56.871Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -2050,14 +2039,14 @@
     },
     {
       "code": "STARX-E9AC-A2TC-BF54",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-13T23:23:23.486Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EYYL-2DNP-X9DB",
