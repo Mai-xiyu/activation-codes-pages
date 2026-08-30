@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-30T19:00:56.624Z",
+  "updatedAt": "2026-08-30T19:30:39.763Z",
   "publicFields": [
     "code",
     "status",
@@ -2325,14 +2325,14 @@
     },
     {
       "code": "STARX-TCJT-738E-E52V",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T19:09:32.104Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TTS9-J8LG-WMVB",
