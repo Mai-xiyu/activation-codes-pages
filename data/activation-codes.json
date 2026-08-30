@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-30T07:30:44.417Z",
+  "updatedAt": "2026-08-30T08:00:46.457Z",
   "publicFields": [
     "code",
     "status",
@@ -2083,14 +2083,14 @@
     },
     {
       "code": "STARX-FK67-AL5S-A55W",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T07:56:11.126Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HHWL-5MZT-LQVB",
