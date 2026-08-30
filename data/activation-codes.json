@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-30T15:30:51.163Z",
+  "updatedAt": "2026-08-30T16:00:42.760Z",
   "publicFields": [
     "code",
     "status",
@@ -2160,14 +2160,14 @@
     },
     {
       "code": "STARX-KPCD-QZKQ-D4X5",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T15:36:10.861Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LAMT-EV4F-AWLB",
