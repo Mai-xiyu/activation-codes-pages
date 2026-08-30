@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-30T10:30:51.988Z",
+  "updatedAt": "2026-08-30T11:00:56.020Z",
   "publicFields": [
     "code",
     "status",
@@ -785,7 +785,7 @@
     },
     {
       "code": "STARX-FX2Y-D3TK-L8MU",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
