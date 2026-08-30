@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-30T17:30:39.596Z",
+  "updatedAt": "2026-08-30T18:00:48.212Z",
   "publicFields": [
     "code",
     "status",
@@ -2237,14 +2237,14 @@
     },
     {
       "code": "STARX-PF2M-CLQ4-BNKJ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T17:43:11.300Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PP9K-6BH3-C7VL",
