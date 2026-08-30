@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-30T12:36:38.243Z",
+  "updatedAt": "2026-08-30T13:00:43.566Z",
   "publicFields": [
     "code",
     "status",
@@ -2105,14 +2105,14 @@
     },
     {
       "code": "STARX-HK7S-SLP8-ZY6T",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T12:58:48.703Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HRDK-KL64-JAPA",
@@ -3348,14 +3348,14 @@
     },
     {
       "code": "STARX-VR29-VEAF-3F7T",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T12:58:25.608Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VTAJ-S9JB-3Z5S",
