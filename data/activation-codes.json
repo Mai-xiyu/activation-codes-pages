@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-30T14:00:50.041Z",
+  "updatedAt": "2026-08-30T14:30:27.407Z",
   "publicFields": [
     "code",
     "status",
@@ -2127,14 +2127,14 @@
     },
     {
       "code": "STARX-J6DX-ACTJ-BT9V",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T14:21:30.296Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-JCUR-NZZ8-BJP8",
@@ -2336,14 +2336,14 @@
     },
     {
       "code": "STARX-TTS9-J8LG-WMVB",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T14:27:03.091Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-UBUR-W423-HLG4",
