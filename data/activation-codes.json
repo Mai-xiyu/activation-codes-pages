@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-30T03:34:33.604Z",
+  "updatedAt": "2026-08-30T04:00:57.058Z",
   "publicFields": [
     "code",
     "status",
@@ -2072,14 +2072,14 @@
     },
     {
       "code": "STARX-FJ3X-AL43-NPJG",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T03:50:54.334Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FK67-AL5S-A55W",
