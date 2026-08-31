@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-31T07:07:27.254Z",
+  "updatedAt": "2026-08-31T07:39:30.472Z",
   "publicFields": [
     "code",
     "status",
@@ -2413,14 +2413,14 @@
     },
     {
       "code": "STARX-ZWFU-3Y4F-6D43",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T07:29:20.623Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-25UJ-ZSMG-BULY",
