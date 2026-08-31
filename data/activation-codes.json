@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-31T05:32:32.233Z",
+  "updatedAt": "2026-08-31T06:01:37.518Z",
   "publicFields": [
     "code",
     "status",
@@ -961,7 +961,7 @@
     },
     {
       "code": "STARX-MS76-X2V8-35BZ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
