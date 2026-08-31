@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-31T16:31:50.728Z",
+  "updatedAt": "2026-08-31T17:00:41.886Z",
   "publicFields": [
     "code",
     "status",
@@ -2577,17 +2577,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-8XSM-ATVP-XDVQ",
-      "status": "active",
-      "plan": "15 天",
-      "label": "未使用",
-      "issuedAt": "1786001228670",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
       "code": "STARX-9SVU-447E-W7PT",
       "status": "active",
       "plan": "15 天",
@@ -2710,14 +2699,14 @@
     },
     {
       "code": "STARX-DTRF-PVW4-3JZC",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T16:38:41.811Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-E3F9-V8ZG-SURL",
