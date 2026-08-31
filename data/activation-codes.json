@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-31T01:08:48.561Z",
+  "updatedAt": "2026-08-31T01:43:08.621Z",
   "publicFields": [
     "code",
     "status",
@@ -2259,14 +2259,14 @@
     },
     {
       "code": "STARX-RHW3-R32Q-5FTV",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T01:14:09.858Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-S5V9-L2DE-4CCZ",
@@ -2281,14 +2281,14 @@
     },
     {
       "code": "STARX-SPUM-5EKF-4B8S",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T01:32:58.122Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ST9V-MBG9-5KHY",
