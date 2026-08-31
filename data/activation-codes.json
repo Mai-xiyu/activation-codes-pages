@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-31T22:00:46.710Z",
+  "updatedAt": "2026-08-31T22:30:37.687Z",
   "publicFields": [
     "code",
     "status",
@@ -2512,14 +2512,14 @@
     },
     {
       "code": "STARX-4E7F-RZ4S-DDTC",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T22:21:04.234Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4SV6-PSCD-KKUT",
