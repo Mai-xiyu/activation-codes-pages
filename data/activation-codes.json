@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-31T17:30:43.857Z",
+  "updatedAt": "2026-08-31T18:00:59.722Z",
   "publicFields": [
     "code",
     "status",
@@ -2501,14 +2501,14 @@
     },
     {
       "code": "STARX-48RK-HGRA-EU9V",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T17:50:53.199Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4E7F-RZ4S-DDTC",
