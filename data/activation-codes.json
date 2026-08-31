@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-31T11:00:45.526Z",
+  "updatedAt": "2026-08-31T11:30:46.174Z",
   "publicFields": [
     "code",
     "status",
@@ -2413,14 +2413,14 @@
     },
     {
       "code": "STARX-2BUY-YDGY-3PKY",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T11:07:27.288Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2GT6-NLRM-WE6Q",
@@ -2567,14 +2567,14 @@
     },
     {
       "code": "STARX-8UJC-6CF5-X6CJ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T11:27:04.014Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8XSM-ATVP-XDVQ",
