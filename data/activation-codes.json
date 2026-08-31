@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-31T03:00:53.172Z",
+  "updatedAt": "2026-08-31T03:37:32.227Z",
   "publicFields": [
     "code",
     "status",
@@ -2325,14 +2325,14 @@
     },
     {
       "code": "STARX-UBUR-W423-HLG4",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T03:03:22.638Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-UMJA-BQ9Y-2YSF",
@@ -2380,14 +2380,14 @@
     },
     {
       "code": "STARX-WSCW-ZHMQ-N5DZ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001238453",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T03:07:43.138Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Y7EL-CCFB-4Z5J",
