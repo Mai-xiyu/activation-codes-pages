@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-08-31T11:30:46.174Z",
+  "updatedAt": "2026-08-31T12:01:11.596Z",
   "publicFields": [
     "code",
     "status",
@@ -2435,14 +2435,14 @@
     },
     {
       "code": "STARX-2LPW-SATP-NXGP",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T11:51:06.225Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2VWS-C9JL-46J6",
