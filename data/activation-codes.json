@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-01T03:00:58.524Z",
+  "updatedAt": "2026-09-01T03:37:26.074Z",
   "publicFields": [
     "code",
     "status",
@@ -818,7 +818,7 @@
     },
     {
       "code": "STARX-HAUR-S45L-5M7B",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -2589,14 +2589,14 @@
     },
     {
       "code": "STARX-APUK-ZJQD-R2W9",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T03:24:48.372Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-BLV7-EDV3-Y8QB",
@@ -3326,14 +3326,14 @@
     },
     {
       "code": "STARX-XHXU-AHKN-MX37",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T03:06:29.066Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XJYX-DNHT-9B89",
