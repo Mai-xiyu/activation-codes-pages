@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-01T11:00:53.081Z",
+  "updatedAt": "2026-09-01T11:30:36.982Z",
   "publicFields": [
     "code",
     "status",
@@ -2677,14 +2677,14 @@
     },
     {
       "code": "STARX-EFC2-HQUX-VCYX",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T11:30:13.413Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EN3E-UFHZ-89FL",
