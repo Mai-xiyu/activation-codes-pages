@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-01T13:01:02.660Z",
+  "updatedAt": "2026-09-01T13:32:13.712Z",
   "publicFields": [
     "code",
     "status",
@@ -840,7 +840,7 @@
     },
     {
       "code": "STARX-HESE-VEL9-7F94",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
