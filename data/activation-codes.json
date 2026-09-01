@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-01T01:14:37.969Z",
+  "updatedAt": "2026-09-01T01:46:06.369Z",
   "publicFields": [
     "code",
     "status",
@@ -2688,14 +2688,14 @@
     },
     {
       "code": "STARX-E3F9-V8ZG-SURL",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T01:16:43.701Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EFC2-HQUX-VCYX",
