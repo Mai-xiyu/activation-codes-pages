@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-01T15:01:01.316Z",
+  "updatedAt": "2026-09-01T15:46:50.065Z",
   "publicFields": [
     "code",
     "status",
@@ -862,7 +862,7 @@
     },
     {
       "code": "STARX-JZPU-FJCP-EKZ8",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -1071,7 +1071,7 @@
     },
     {
       "code": "STARX-QSYG-GA9P-35EE",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
