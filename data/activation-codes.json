@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-01T05:00:53.931Z",
+  "updatedAt": "2026-09-01T05:32:46.289Z",
   "publicFields": [
     "code",
     "status",
@@ -829,7 +829,7 @@
     },
     {
       "code": "STARX-HCND-4JZL-HUUS",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -2633,14 +2633,14 @@
     },
     {
       "code": "STARX-DBLK-VTUL-LE9V",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T05:11:03.285Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-DRSD-K38L-4GGS",
@@ -2710,14 +2710,14 @@
     },
     {
       "code": "STARX-EWV6-QVPW-N4MN",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T05:02:12.341Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EWXT-JLE3-3WCN",
