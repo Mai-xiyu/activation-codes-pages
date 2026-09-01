@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-01T10:01:12.282Z",
+  "updatedAt": "2026-09-01T10:34:05.187Z",
   "publicFields": [
     "code",
     "status",
@@ -2721,14 +2721,14 @@
     },
     {
       "code": "STARX-EWXT-JLE3-3WCN",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T10:16:37.627Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EXN3-5H39-S9KU",
