@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-01T09:34:31.891Z",
+  "updatedAt": "2026-09-01T10:01:12.282Z",
   "publicFields": [
     "code",
     "status",
@@ -851,7 +851,7 @@
     },
     {
       "code": "STARX-JSDU-62EL-5MT8",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
