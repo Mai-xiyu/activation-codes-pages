@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-01T17:00:45.187Z",
+  "updatedAt": "2026-09-01T17:30:45.350Z",
   "publicFields": [
     "code",
     "status",
@@ -873,7 +873,7 @@
     },
     {
       "code": "STARX-K6RQ-EBJF-N74M",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
