@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-01T14:00:48.261Z",
+  "updatedAt": "2026-09-01T14:33:38.717Z",
   "publicFields": [
     "code",
     "status",
@@ -2500,17 +2500,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-5TNC-6FPM-MHCC",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001228670",
-      "expiresAt": "2026-09-15T08:12:04.494Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-849F-NGHF-GXU6",
       "status": "used",
       "plan": "15 天",
@@ -2732,14 +2721,14 @@
     },
     {
       "code": "STARX-EXN3-5H39-S9KU",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T14:12:08.309Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EZ49-HZXW-MCEQ",
