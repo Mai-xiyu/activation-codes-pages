@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T04:36:40.011Z",
+  "updatedAt": "2026-09-02T05:00:47.633Z",
   "publicFields": [
     "code",
     "status",
@@ -2831,14 +2831,14 @@
     },
     {
       "code": "STARX-LJ4Q-5G4L-XU7H",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T04:48:07.119Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-M3ZS-HY6X-VGQ4",
