@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T23:01:32.531Z",
+  "updatedAt": "2026-09-02T23:30:34.041Z",
   "publicFields": [
     "code",
     "status",
@@ -2335,17 +2335,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-2GT6-NLRM-WE6Q",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001228670",
-      "expiresAt": "2026-09-15T09:20:14.529Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-2LPW-SATP-NXGP",
       "status": "used",
       "plan": "15 天",
@@ -2952,14 +2941,14 @@
     },
     {
       "code": "STARX-PQG7-Q2VP-6Y8X",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T23:05:20.759Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PWMV-E2VC-CMCP",
