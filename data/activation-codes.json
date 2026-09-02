@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T09:33:55.657Z",
+  "updatedAt": "2026-09-02T10:01:04.655Z",
   "publicFields": [
     "code",
     "status",
@@ -906,7 +906,7 @@
     },
     {
       "code": "STARX-MRP9-GFXS-DCW2",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -950,7 +950,7 @@
     },
     {
       "code": "STARX-NPY2-PD3C-DYFG",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
