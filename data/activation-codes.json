@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T21:30:47.702Z",
+  "updatedAt": "2026-09-02T22:01:05.816Z",
   "publicFields": [
     "code",
     "status",
@@ -504,17 +504,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-08-22T04:05:47.567Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-4P5K-5432-HSNV",
-      "status": "expired",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-08-22T07:37:33.826Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -3260,14 +3249,14 @@
     },
     {
       "code": "STARX-XQQ4-7M64-TA4J",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T21:57:34.189Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XVQU-L4ZK-7LJM",
