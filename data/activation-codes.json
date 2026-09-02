@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T17:30:54.193Z",
+  "updatedAt": "2026-09-02T18:00:54.888Z",
   "publicFields": [
     "code",
     "status",
@@ -2952,14 +2952,14 @@
     },
     {
       "code": "STARX-PMB6-7HXQ-4RYG",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T17:48:11.625Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PQG7-Q2VP-6Y8X",
