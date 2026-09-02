@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T12:00:56.988Z",
+  "updatedAt": "2026-09-02T12:42:34.239Z",
   "publicFields": [
     "code",
     "status",
@@ -3271,14 +3271,14 @@
     },
     {
       "code": "STARX-XVQU-L4ZK-7LJM",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T12:28:11.942Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Y4CA-WM9E-BAP4",
