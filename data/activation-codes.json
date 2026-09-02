@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T15:02:29.039Z",
+  "updatedAt": "2026-09-02T15:35:04.221Z",
   "publicFields": [
     "code",
     "status",
@@ -983,7 +983,7 @@
     },
     {
       "code": "STARX-PPK2-BY95-9676",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -2897,14 +2897,14 @@
     },
     {
       "code": "STARX-N5U4-EZSJ-UD56",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T15:25:11.423Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NA92-UZCP-Q665",
