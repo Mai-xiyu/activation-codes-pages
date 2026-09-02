@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T08:38:36.537Z",
+  "updatedAt": "2026-09-02T09:00:52.483Z",
   "publicFields": [
     "code",
     "status",
@@ -895,7 +895,7 @@
     },
     {
       "code": "STARX-MQGD-78KU-9RGK",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -1280,7 +1280,7 @@
     },
     {
       "code": "STARX-XGQS-H3WF-9ZUF",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
