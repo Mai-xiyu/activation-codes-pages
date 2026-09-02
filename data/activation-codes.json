@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T08:01:11.638Z",
+  "updatedAt": "2026-09-02T08:38:36.537Z",
   "publicFields": [
     "code",
     "status",
@@ -2875,14 +2875,14 @@
     },
     {
       "code": "STARX-MG8H-QBZY-LTGU",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T08:03:31.972Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MLCJ-6JEY-Y7W3",
