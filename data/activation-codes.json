@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T05:34:47.848Z",
+  "updatedAt": "2026-09-02T06:01:34.228Z",
   "publicFields": [
     "code",
     "status",
@@ -928,7 +928,7 @@
     },
     {
       "code": "STARX-MWVW-HH3U-XNKW",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
