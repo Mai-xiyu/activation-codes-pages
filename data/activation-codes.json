@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T02:12:05.295Z",
+  "updatedAt": "2026-09-02T02:53:22.695Z",
   "publicFields": [
     "code",
     "status",
@@ -141,17 +141,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
       "expiresAt": "2026-10-12T06:30:01.660Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-A7CK-DQL4-H5XY",
-      "status": "used",
-      "plan": "60 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786555905178",
-      "expiresAt": "2026-10-13T04:38:07.570Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -2787,14 +2776,14 @@
     },
     {
       "code": "STARX-JPEQ-RBQW-LVJW",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T02:15:51.747Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KJZN-LZMB-UHN6",
@@ -2820,14 +2809,14 @@
     },
     {
       "code": "STARX-KNM5-4TE4-6JW6",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T02:17:40.994Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-L9SF-2NH7-5PXS",
@@ -2864,14 +2853,14 @@
     },
     {
       "code": "STARX-M6MD-TDXH-VY33",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T02:41:58.710Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MC7R-Z3GG-EZ6X",
