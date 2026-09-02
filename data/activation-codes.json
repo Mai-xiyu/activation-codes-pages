@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-02T11:00:56.217Z",
+  "updatedAt": "2026-09-02T11:31:04.013Z",
   "publicFields": [
     "code",
     "status",
@@ -2908,14 +2908,14 @@
     },
     {
       "code": "STARX-NA92-UZCP-Q665",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T11:12:33.044Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NBGV-K4DQ-M49K",
