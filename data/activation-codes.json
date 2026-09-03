@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-03T00:02:01.694Z",
+  "updatedAt": "2026-09-03T01:05:08.816Z",
   "publicFields": [
     "code",
     "status",
@@ -2952,14 +2952,14 @@
     },
     {
       "code": "STARX-PWMV-E2VC-CMCP",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1786001228670",
-      "expiresAt": "",
+      "expiresAt": "2026-09-18T01:03:45.437Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PZG5-PYC8-59MB",
