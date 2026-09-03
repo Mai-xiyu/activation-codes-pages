@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-03T13:01:28.508Z",
+  "updatedAt": "2026-09-03T13:32:43.444Z",
   "publicFields": [
     "code",
     "status",
@@ -983,7 +983,7 @@
     },
     {
       "code": "STARX-PW23-PRSY-G62A",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
