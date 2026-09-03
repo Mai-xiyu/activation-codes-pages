@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-03T20:31:17.746Z",
+  "updatedAt": "2026-09-03T21:01:03.181Z",
   "publicFields": [
     "code",
     "status",
@@ -1082,7 +1082,7 @@
     },
     {
       "code": "STARX-SQX6-J2HP-ZEKN",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
