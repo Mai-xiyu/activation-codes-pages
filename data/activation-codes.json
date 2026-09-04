@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-04T14:36:00.877Z",
+  "updatedAt": "2026-09-04T15:10:00.019Z",
   "publicFields": [
     "code",
     "status",
@@ -26,14 +26,14 @@
     },
     {
       "code": "STARX-ASHE-DAYS-ESAQ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788514385606",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T15:00:25.501Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EHCP-M6BN-TUKC",
@@ -5581,7 +5581,7 @@
     },
     {
       "code": "STARX-SQ79-NXGM-TAGX",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
