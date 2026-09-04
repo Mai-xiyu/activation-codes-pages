@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-04T03:01:18.210Z",
+  "updatedAt": "2026-09-04T03:35:15.110Z",
   "publicFields": [
     "code",
     "status",
@@ -1324,7 +1324,7 @@
     },
     {
       "code": "STARX-3LAK-443Z-GV3H",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
