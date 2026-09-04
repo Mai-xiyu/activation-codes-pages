@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-04T18:37:02.620Z",
+  "updatedAt": "2026-09-04T19:07:30.886Z",
   "publicFields": [
     "code",
     "status",
@@ -37,14 +37,14 @@
     },
     {
       "code": "STARX-EHCP-M6BN-TUKC",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788514385606",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T18:57:22.841Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ETAB-UZNG-JWSL",
@@ -7126,17 +7126,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
       "expiresAt": "2026-09-16T10:16:37.627Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-EXN3-5H39-S9KU",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001228670",
-      "expiresAt": "2026-09-16T14:12:08.309Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
