@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-04T04:01:10.852Z",
+  "updatedAt": "2026-09-04T04:35:12.598Z",
   "publicFields": [
     "code",
     "status",
@@ -994,7 +994,7 @@
     },
     {
       "code": "STARX-PXNU-C2HG-52VS",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
