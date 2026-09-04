@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-04T20:09:59.734Z",
+  "updatedAt": "2026-09-04T20:35:12.680Z",
   "publicFields": [
     "code",
     "status",
@@ -5636,7 +5636,7 @@
     },
     {
       "code": "STARX-TTN6-7DHP-9RGC",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
