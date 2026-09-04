@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-04T10:01:01.504Z",
+  "updatedAt": "2026-09-04T10:32:18.892Z",
   "publicFields": [
     "code",
     "status",
@@ -5526,7 +5526,7 @@
     },
     {
       "code": "STARX-QJ39-P64G-LMBW",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -5548,7 +5548,7 @@
     },
     {
       "code": "STARX-RFUW-EZFW-3ZPT",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
