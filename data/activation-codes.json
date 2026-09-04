@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-04T15:35:52.988Z",
+  "updatedAt": "2026-09-04T16:10:50.842Z",
   "publicFields": [
     "code",
     "status",
@@ -5603,7 +5603,7 @@
     },
     {
       "code": "STARX-SU2P-X4GQ-ASY7",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -5614,7 +5614,7 @@
     },
     {
       "code": "STARX-TABZ-PEEX-K5SS",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
