@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-05T10:33:48.314Z",
+  "updatedAt": "2026-09-05T11:07:53.261Z",
   "publicFields": [
     "code",
     "status",
@@ -59,14 +59,14 @@
     },
     {
       "code": "STARX-H3D6-5RHK-HAXV",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788514385606",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T10:37:13.918Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-N7BZ-R2WH-RZNS",
