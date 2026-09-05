@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-05T09:34:15.082Z",
+  "updatedAt": "2026-09-05T10:08:42.940Z",
   "publicFields": [
     "code",
     "status",
@@ -48,14 +48,14 @@
     },
     {
       "code": "STARX-ETAB-UZNG-JWSL",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788514385606",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T10:04:22.683Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-H3D6-5RHK-HAXV",
@@ -5647,7 +5647,7 @@
     },
     {
       "code": "STARX-TVSU-GPP6-BWPG",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
