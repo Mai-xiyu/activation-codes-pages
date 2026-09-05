@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-05T16:33:51.995Z",
+  "updatedAt": "2026-09-05T17:07:47.605Z",
   "publicFields": [
     "code",
     "status",
@@ -136,14 +136,14 @@
     },
     {
       "code": "STARX-2YBM-UM5E-GT62",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788514378926",
-      "expiresAt": "",
+      "expiresAt": "2026-09-12T16:59:47.070Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-33Q4-M9KU-D8Q2",
