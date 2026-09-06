@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-06T19:06:50.027Z",
+  "updatedAt": "2026-09-06T19:34:18.057Z",
   "publicFields": [
     "code",
     "status",
@@ -103,14 +103,14 @@
     },
     {
       "code": "STARX-ZNG8-GH63-7GVL",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703212777",
-      "expiresAt": "",
+      "expiresAt": "2026-09-13T19:18:06.918Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XTCD-4N9H-6TSL",
