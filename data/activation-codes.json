@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-06T03:12:06.629Z",
+  "updatedAt": "2026-09-06T03:38:21.772Z",
   "publicFields": [
     "code",
     "status",
@@ -5680,7 +5680,7 @@
     },
     {
       "code": "STARX-VE9L-LDY2-JEP2",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
