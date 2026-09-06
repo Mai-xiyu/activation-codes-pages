@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-06T04:11:28.297Z",
+  "updatedAt": "2026-09-06T04:37:16.167Z",
   "publicFields": [
     "code",
     "status",
@@ -5691,7 +5691,7 @@
     },
     {
       "code": "STARX-VGVG-WZD3-KESS",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
