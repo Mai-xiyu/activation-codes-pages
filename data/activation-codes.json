@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-06T08:36:51.320Z",
+  "updatedAt": "2026-09-06T09:09:42.395Z",
   "publicFields": [
     "code",
     "status",
@@ -213,14 +213,14 @@
     },
     {
       "code": "STARX-4TJH-KMXN-7SD6",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788514378926",
-      "expiresAt": "",
+      "expiresAt": "2026-09-13T08:53:05.817Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4YTR-FSZH-PCXY",
