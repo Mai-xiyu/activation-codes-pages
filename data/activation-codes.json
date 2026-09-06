@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-06T14:08:39.052Z",
+  "updatedAt": "2026-09-06T14:34:20.387Z",
   "publicFields": [
     "code",
     "status",
@@ -4453,17 +4453,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-09-01T15:25:51.962Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-RFUW-EZFW-3ZPT",
-      "status": "expired",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-09-04T10:10:57.193Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
