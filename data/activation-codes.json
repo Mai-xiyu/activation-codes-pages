@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-07T15:10:05.063Z",
+  "updatedAt": "2026-09-07T15:35:15.832Z",
   "publicFields": [
     "code",
     "status",
@@ -4646,7 +4646,7 @@
     },
     {
       "code": "STARX-ZK9W-RXKS-ZRGG",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
@@ -4690,7 +4690,7 @@
     },
     {
       "code": "STARX-5XR9-RUB7-Z6BU",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
