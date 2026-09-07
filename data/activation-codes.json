@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-07T17:09:01.309Z",
+  "updatedAt": "2026-09-07T17:34:28.008Z",
   "publicFields": [
     "code",
     "status",
@@ -4679,7 +4679,7 @@
     },
     {
       "code": "STARX-4V3A-EJJZ-RPVM",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
