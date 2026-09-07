@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-07T11:09:41.063Z",
+  "updatedAt": "2026-09-07T11:35:09.621Z",
   "publicFields": [
     "code",
     "status",
@@ -499,14 +499,14 @@
     },
     {
       "code": "STARX-ARTC-WN9P-RYZ7",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703199773",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T11:31:48.976Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LQLG-U983-E6L8",
@@ -2479,14 +2479,14 @@
     },
     {
       "code": "STARX-MNQ2-K53V-WYU2",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703029839",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T11:13:43.115Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8TL4-Q69S-R496",
