@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-07T02:42:41.032Z",
+  "updatedAt": "2026-09-07T03:13:04.234Z",
   "publicFields": [
     "code",
     "status",
@@ -224,14 +224,14 @@
     },
     {
       "code": "STARX-RNC4-Y6PS-2QDK",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703208932",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T03:02:30.387Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4FR7-AG3M-D8LP",
@@ -239,17 +239,6 @@
       "plan": "7 天",
       "label": "未使用",
       "issuedAt": "1788703208577",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
-      "code": "STARX-MNQC-JM4H-MMQZ",
-      "status": "active",
-      "plan": "7 天",
-      "label": "未使用",
-      "issuedAt": "1788703208223",
       "expiresAt": "",
       "maxUses": 1,
       "remainingUses": 1,
@@ -290,14 +279,14 @@
     },
     {
       "code": "STARX-Q8BJ-569B-A768",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703206830",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T02:57:43.978Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-URAK-73YF-UWPF",
@@ -653,14 +642,14 @@
     },
     {
       "code": "STARX-BKTZ-RNEQ-L6QA",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703195244",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T02:45:53.558Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TX9S-CKH5-P4BX",
@@ -730,14 +719,14 @@
     },
     {
       "code": "STARX-R48Z-M2FL-MQYP",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703192767",
-      "expiresAt": "",
+      "expiresAt": "2026-09-14T03:12:36.992Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TDAB-RURU-GE48",
