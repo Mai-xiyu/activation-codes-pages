@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-08T01:08:53.690Z",
+  "updatedAt": "2026-09-08T01:45:29.239Z",
   "publicFields": [
     "code",
     "status",
@@ -609,14 +609,14 @@
     },
     {
       "code": "STARX-MMUM-AG5C-4JA5",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703196288",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T01:14:53.934Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-9PVG-LCLW-VJV5",
