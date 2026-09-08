@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-08T06:17:26.152Z",
+  "updatedAt": "2026-09-08T06:48:35.488Z",
   "publicFields": [
     "code",
     "status",
@@ -774,14 +774,14 @@
     },
     {
       "code": "STARX-KUWT-VY4D-JBQP",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703190963",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T06:32:00.559Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SZYK-KQZ7-V3F5",
@@ -4690,7 +4690,7 @@
     },
     {
       "code": "STARX-8M2R-73MT-WBWR",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
