@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-08T14:12:02.840Z",
+  "updatedAt": "2026-09-08T14:37:42.825Z",
   "publicFields": [
     "code",
     "status",
@@ -994,14 +994,14 @@
     },
     {
       "code": "STARX-U5DB-JHNJ-3UF9",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703180320",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T14:35:21.968Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CGYL-5GQJ-A4S6",
