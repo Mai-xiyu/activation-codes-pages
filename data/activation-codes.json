@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-08T05:37:14.075Z",
+  "updatedAt": "2026-09-08T06:17:26.152Z",
   "publicFields": [
     "code",
     "status",
@@ -741,14 +741,14 @@
     },
     {
       "code": "STARX-9W24-WDUR-XNVR",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703192046",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T05:42:37.448Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2MCP-WDDR-PRNG",
@@ -763,14 +763,14 @@
     },
     {
       "code": "STARX-3RPA-EEKM-FTXZ",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703191324",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T06:16:18.453Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KUWT-VY4D-JBQP",
@@ -4497,17 +4497,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-09-05T15:07:05.436Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-VE9L-LDY2-JEP2",
-      "status": "expired",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-09-06T03:31:13.407Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
