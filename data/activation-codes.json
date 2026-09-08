@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-08T14:37:42.825Z",
+  "updatedAt": "2026-09-08T15:10:38.056Z",
   "publicFields": [
     "code",
     "status",
@@ -983,14 +983,14 @@
     },
     {
       "code": "STARX-PUAK-PDGE-28LY",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703180667",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T15:03:56.156Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-U5DB-JHNJ-3UF9",
@@ -4712,7 +4712,7 @@
     },
     {
       "code": "STARX-CAD9-KC5K-9A8D",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
