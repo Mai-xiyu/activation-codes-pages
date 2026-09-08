@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-07T23:33:58.664Z",
+  "updatedAt": "2026-09-08T00:28:02.562Z",
   "publicFields": [
     "code",
     "status",
@@ -565,14 +565,14 @@
     },
     {
       "code": "STARX-L4TE-DN8B-MCCE",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703197667",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T00:15:31.497Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-M8EE-C9CK-P74U",
@@ -3084,14 +3084,14 @@
     },
     {
       "code": "STARX-856Z-ZRWT-R7GG",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703010087",
-      "expiresAt": "",
+      "expiresAt": "2026-09-15T00:01:56.255Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GNSF-PMV9-5TT6",
