@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-08T15:10:38.056Z",
+  "updatedAt": "2026-09-08T15:37:34.015Z",
   "publicFields": [
     "code",
     "status",
@@ -4800,7 +4800,7 @@
     },
     {
       "code": "STARX-MDMA-HWJ4-WA7P",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
@@ -4811,7 +4811,7 @@
     },
     {
       "code": "STARX-QPLS-HK8D-VVPQ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
