@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-09T08:39:28.533Z",
+  "updatedAt": "2026-09-09T09:11:43.404Z",
   "publicFields": [
     "code",
     "status",
@@ -1247,14 +1247,14 @@
     },
     {
       "code": "STARX-Q92Z-CYZS-89VH",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703171992",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T09:07:20.441Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-BKEC-MBLP-MYJJ",
@@ -3051,14 +3051,14 @@
     },
     {
       "code": "STARX-8XSH-LFNP-3L9T",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703010798",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T09:06:41.249Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HAUB-53EP-ABFV",
