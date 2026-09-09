@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-09T07:11:16.458Z",
+  "updatedAt": "2026-09-09T07:38:01.855Z",
   "publicFields": [
     "code",
     "status",
@@ -4701,7 +4701,7 @@
     },
     {
       "code": "STARX-EPUC-7H9V-YP3H",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
