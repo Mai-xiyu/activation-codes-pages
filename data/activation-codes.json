@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-09T04:12:00.480Z",
+  "updatedAt": "2026-09-09T04:38:44.382Z",
   "publicFields": [
     "code",
     "status",
@@ -1148,14 +1148,14 @@
     },
     {
       "code": "STARX-3K2G-9P8G-92TZ",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703175114",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T04:24:53.763Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4C4E-R96T-VWNF",
