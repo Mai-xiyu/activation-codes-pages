@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-09T08:14:23.338Z",
+  "updatedAt": "2026-09-09T08:39:28.533Z",
   "publicFields": [
     "code",
     "status",
@@ -1225,14 +1225,14 @@
     },
     {
       "code": "STARX-TMPX-PEVG-9YN5",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703172686",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T08:19:31.982Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MDPV-BCMW-93G9",
@@ -1368,14 +1368,14 @@
     },
     {
       "code": "STARX-J3WS-HJEL-YR64",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703168173",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T08:34:46.299Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-7J7D-YSKH-8XZ5",
@@ -1599,14 +1599,14 @@
     },
     {
       "code": "STARX-9AGL-W6LC-7CBJ",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703150757",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T08:18:54.926Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-JTRY-8U35-YPMQ",
@@ -3336,17 +3336,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-BZHU-PV5A-Y4R2",
-      "status": "used",
-      "plan": "7 天",
-      "label": "已绑定设备",
-      "issuedAt": "1788514378926",
-      "expiresAt": "2026-09-13T10:49:50.487Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-RRAS-A3SH-D9VX",
       "status": "used",
       "plan": "7 天",
@@ -4712,7 +4701,7 @@
     },
     {
       "code": "STARX-FBK3-F8M8-W8D7",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
