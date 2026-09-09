@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-09T06:48:58.746Z",
+  "updatedAt": "2026-09-09T07:11:16.458Z",
   "publicFields": [
     "code",
     "status",
@@ -4976,7 +4976,7 @@
     },
     {
       "code": "STARX-4AT9-HXAA-7RXU",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
@@ -5559,7 +5559,7 @@
     },
     {
       "code": "STARX-376G-SLDV-KY2H",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
