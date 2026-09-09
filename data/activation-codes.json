@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-09T05:10:41.952Z",
+  "updatedAt": "2026-09-09T05:37:02.465Z",
   "publicFields": [
     "code",
     "status",
@@ -1181,14 +1181,14 @@
     },
     {
       "code": "STARX-N8RZ-RTGY-MPFY",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703174074",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T05:24:29.396Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-26ET-GFWK-75TS",
@@ -4723,7 +4723,7 @@
     },
     {
       "code": "STARX-FUMW-8WB8-PDTH",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
