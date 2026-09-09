@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-09T18:13:04.595Z",
+  "updatedAt": "2026-09-09T18:38:38.018Z",
   "publicFields": [
     "code",
     "status",
@@ -1390,14 +1390,14 @@
     },
     {
       "code": "STARX-WBM8-GDLZ-QZ67",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703167473",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T18:25:50.796Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-H494-8RZP-TRXY",
