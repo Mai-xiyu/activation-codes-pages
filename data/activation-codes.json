@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-09T13:09:45.007Z",
+  "updatedAt": "2026-09-09T13:37:18.426Z",
   "publicFields": [
     "code",
     "status",
@@ -1324,14 +1324,14 @@
     },
     {
       "code": "STARX-CQQ5-NT2A-F8JW",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703169563",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T13:20:37.834Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LDBA-2UGF-VQKH",
@@ -4734,7 +4734,7 @@
     },
     {
       "code": "STARX-KTKN-VD8X-A4RW",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
