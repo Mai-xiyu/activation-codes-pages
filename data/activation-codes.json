@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-10T06:48:42.277Z",
+  "updatedAt": "2026-09-10T07:10:48.302Z",
   "publicFields": [
     "code",
     "status",
@@ -4712,7 +4712,7 @@
     },
     {
       "code": "STARX-MCKF-R7T6-ER99",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
