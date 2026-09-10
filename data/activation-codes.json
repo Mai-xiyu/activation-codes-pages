@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-10T04:12:11.660Z",
+  "updatedAt": "2026-09-10T04:38:44.646Z",
   "publicFields": [
     "code",
     "status",
@@ -1092,17 +1092,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-28BQ-RCMC-T2MM",
-      "status": "used",
-      "plan": "7 天",
-      "label": "已绑定设备",
-      "issuedAt": "1788703177196",
-      "expiresAt": "2026-09-16T00:47:25.910Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-8NFM-EJW4-KB7W",
       "status": "used",
       "plan": "7 天",
@@ -1500,14 +1489,14 @@
     },
     {
       "code": "STARX-6AM4-ZT2M-VEKA",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703164001",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T04:29:17.155Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HHYT-EG6F-2V4D",
