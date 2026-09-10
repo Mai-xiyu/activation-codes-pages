@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-10T18:38:18.533Z",
+  "updatedAt": "2026-09-10T19:07:35.992Z",
   "publicFields": [
     "code",
     "status",
@@ -4767,7 +4767,7 @@
     },
     {
       "code": "STARX-VNTU-ERVZ-UXUH",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
