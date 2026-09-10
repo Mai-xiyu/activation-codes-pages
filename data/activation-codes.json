@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-09T23:34:27.366Z",
+  "updatedAt": "2026-09-10T00:26:07.198Z",
   "publicFields": [
     "code",
     "status",
@@ -1753,14 +1753,14 @@
     },
     {
       "code": "STARX-9HTL-VYUZ-NY7J",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703145276",
-      "expiresAt": "",
+      "expiresAt": "2026-09-16T23:48:16.971Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-DDYB-23YP-JLEL",
