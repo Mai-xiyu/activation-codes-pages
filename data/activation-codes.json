@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-10T06:17:50.493Z",
+  "updatedAt": "2026-09-10T06:48:42.277Z",
   "publicFields": [
     "code",
     "status",
@@ -1456,25 +1456,25 @@
     },
     {
       "code": "STARX-TTYE-TVDE-8CHZ",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703165043",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T06:21:04.182Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AV7T-Y7LF-H7C7",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703164695",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T06:29:16.653Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-E5FD-TE26-WSW4",
@@ -4662,17 +4662,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
       "expiresAt": "2026-09-09T03:56:04.565Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-EPUC-7H9V-YP3H",
-      "status": "expired",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001238454",
-      "expiresAt": "2026-09-09T07:17:33.046Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
