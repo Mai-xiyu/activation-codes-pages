@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-10T05:36:09.196Z",
+  "updatedAt": "2026-09-10T06:17:50.493Z",
   "publicFields": [
     "code",
     "status",
@@ -1500,14 +1500,14 @@
     },
     {
       "code": "STARX-HHYT-EG6F-2V4D",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703163654",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T05:36:10.089Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-F37F-LW4T-XDNZ",
@@ -3007,14 +3007,14 @@
     },
     {
       "code": "STARX-FS63-XSMB-RZPL",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703011509",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T06:17:06.151Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SAPK-W59M-MDXV",
