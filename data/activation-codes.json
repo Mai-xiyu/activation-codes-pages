@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-10T15:36:18.708Z",
+  "updatedAt": "2026-09-10T16:10:10.994Z",
   "publicFields": [
     "code",
     "status",
@@ -1808,14 +1808,14 @@
     },
     {
       "code": "STARX-ALBL-3ZNC-CCP2",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703142716",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T15:57:34.225Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PTK8-BH8F-E8LA",
