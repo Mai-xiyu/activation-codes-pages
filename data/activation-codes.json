@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-10T00:26:07.198Z",
+  "updatedAt": "2026-09-10T01:05:55.268Z",
   "publicFields": [
     "code",
     "status",
@@ -1401,36 +1401,36 @@
     },
     {
       "code": "STARX-H494-8RZP-TRXY",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703167126",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T00:41:56.842Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-T86R-32KN-JRPA",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703166780",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T01:04:07.870Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MSMW-J2W9-KJAZ",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703166432",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T00:53:46.986Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-R4UC-9YXJ-UM9Z",
