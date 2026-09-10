@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-10T11:09:40.107Z",
+  "updatedAt": "2026-09-10T11:35:00.284Z",
   "publicFields": [
     "code",
     "status",
@@ -1588,14 +1588,14 @@
     },
     {
       "code": "STARX-JTRY-8U35-YPMQ",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703150392",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T11:20:36.269Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Q2P7-GP7K-TGG5",
