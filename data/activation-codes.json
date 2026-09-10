@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-10T16:10:10.994Z",
+  "updatedAt": "2026-09-10T16:36:05.770Z",
   "publicFields": [
     "code",
     "status",
@@ -1698,14 +1698,14 @@
     },
     {
       "code": "STARX-474C-BKM4-AT94",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703146372",
-      "expiresAt": "",
+      "expiresAt": "2026-09-17T16:32:52.022Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-K3AN-NFT3-67WG",
@@ -5559,7 +5559,7 @@
     },
     {
       "code": "STARX-9TTE-5A2F-MQUB",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
