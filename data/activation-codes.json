@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-11T10:36:33.789Z",
+  "updatedAt": "2026-09-11T11:09:30.453Z",
   "publicFields": [
     "code",
     "status",
@@ -2039,14 +2039,14 @@
     },
     {
       "code": "STARX-TAX9-Q73P-JMGH",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703133181",
-      "expiresAt": "",
+      "expiresAt": "2026-09-18T10:37:46.972Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WG7M-H5ZX-S5H4",
@@ -4789,7 +4789,7 @@
     },
     {
       "code": "STARX-ZAPA-X44T-DJQB",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
