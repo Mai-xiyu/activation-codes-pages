@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-11T07:37:52.115Z",
+  "updatedAt": "2026-09-11T08:13:57.691Z",
   "publicFields": [
     "code",
     "status",
@@ -2171,14 +2171,14 @@
     },
     {
       "code": "STARX-WZLU-QQVB-QXH5",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703128795",
-      "expiresAt": "",
+      "expiresAt": "2026-09-18T07:58:31.946Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KZWH-HBRZ-X8GY",
