@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-11T14:37:10.738Z",
+  "updatedAt": "2026-09-11T15:09:49.254Z",
   "publicFields": [
     "code",
     "status",
@@ -4800,7 +4800,7 @@
     },
     {
       "code": "STARX-3TKS-UGHL-ED6Z",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
