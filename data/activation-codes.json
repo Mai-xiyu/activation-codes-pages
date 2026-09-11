@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-11T08:40:27.469Z",
+  "updatedAt": "2026-09-11T09:11:16.186Z",
   "publicFields": [
     "code",
     "status",
@@ -2006,14 +2006,14 @@
     },
     {
       "code": "STARX-N2AL-DPRB-VKFQ",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703134643",
-      "expiresAt": "",
+      "expiresAt": "2026-09-18T09:08:48.749Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XH72-MM7V-RHDN",
@@ -4811,7 +4811,7 @@
     },
     {
       "code": "STARX-2XTT-DW6W-ABP2",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
