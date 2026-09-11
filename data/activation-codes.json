@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-11T15:09:49.254Z",
+  "updatedAt": "2026-09-11T15:35:42.462Z",
   "publicFields": [
     "code",
     "status",
@@ -2182,14 +2182,14 @@
     },
     {
       "code": "STARX-3QJM-E2PQ-H79T",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703128064",
-      "expiresAt": "",
+      "expiresAt": "2026-09-18T15:33:02.078Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Y3G6-VKVL-L2YM",
