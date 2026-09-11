@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-11T04:12:49.882Z",
+  "updatedAt": "2026-09-11T04:38:26.142Z",
   "publicFields": [
     "code",
     "status",
@@ -1940,14 +1940,14 @@
     },
     {
       "code": "STARX-S62S-WS2M-VZDK",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703137570",
-      "expiresAt": "",
+      "expiresAt": "2026-09-18T04:24:36.553Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NBTH-J8XC-TA9K",
