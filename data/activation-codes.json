@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-11T16:37:09.597Z",
+  "updatedAt": "2026-09-11T17:08:18.156Z",
   "publicFields": [
     "code",
     "status",
@@ -6219,7 +6219,7 @@
     },
     {
       "code": "STARX-YRXX-4VGG-59MY",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
