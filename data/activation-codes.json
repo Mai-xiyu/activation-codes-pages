@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-11T12:15:41.576Z",
+  "updatedAt": "2026-09-11T12:43:50.393Z",
   "publicFields": [
     "code",
     "status",
@@ -2556,14 +2556,14 @@
     },
     {
       "code": "STARX-4SBM-XWLU-DBM4",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703024494",
-      "expiresAt": "",
+      "expiresAt": "2026-09-18T12:37:08.266Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RCTM-W2EY-VHY8",
@@ -4800,7 +4800,7 @@
     },
     {
       "code": "STARX-ZFZQ-GUPJ-BA5Q",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
