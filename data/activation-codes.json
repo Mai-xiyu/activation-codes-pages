@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-11T13:36:26.740Z",
+  "updatedAt": "2026-09-11T14:10:53.771Z",
   "publicFields": [
     "code",
     "status",
@@ -2083,14 +2083,14 @@
     },
     {
       "code": "STARX-ZJZZ-BL4R-KB6T",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703131354",
-      "expiresAt": "",
+      "expiresAt": "2026-09-18T13:57:41.743Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-83VK-WCZP-RL3A",
