@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-11T02:14:41.229Z",
+  "updatedAt": "2026-09-11T02:41:14.103Z",
   "publicFields": [
     "code",
     "status",
@@ -1874,14 +1874,14 @@
     },
     {
       "code": "STARX-D4T2-94VY-YW7X",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703140523",
-      "expiresAt": "",
+      "expiresAt": "2026-09-18T02:15:48.490Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GUWT-S55V-5PYF",
@@ -2017,14 +2017,14 @@
     },
     {
       "code": "STARX-88K5-465U-ZAXN",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703135011",
-      "expiresAt": "",
+      "expiresAt": "2026-09-18T02:40:57.624Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-N2AL-DPRB-VKFQ",
@@ -2963,14 +2963,14 @@
     },
     {
       "code": "STARX-DFFQ-VM7A-AFPZ",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703011864",
-      "expiresAt": "",
+      "expiresAt": "2026-09-18T02:29:06.247Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FS63-XSMB-RZPL",
@@ -6279,17 +6279,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
       "expiresAt": "2026-09-14T12:34:16.468Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-YEW2-HCSE-3ZB9",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001228670",
-      "expiresAt": "2026-09-12T03:08:49.740Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
