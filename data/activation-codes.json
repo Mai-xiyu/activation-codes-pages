@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T09:34:28.997Z",
+  "updatedAt": "2026-09-12T10:08:44.366Z",
   "publicFields": [
     "code",
     "status",
@@ -4899,7 +4899,7 @@
     },
     {
       "code": "STARX-7XJA-9QF7-JRRC",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
