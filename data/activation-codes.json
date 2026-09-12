@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T11:07:59.883Z",
+  "updatedAt": "2026-09-12T11:34:08.874Z",
   "publicFields": [
     "code",
     "status",
@@ -3227,7 +3227,7 @@
     },
     {
       "code": "STARX-H3TR-PERU-9UJD",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788514374199",
