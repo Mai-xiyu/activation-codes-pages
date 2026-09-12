@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T05:34:47.101Z",
+  "updatedAt": "2026-09-12T06:15:37.881Z",
   "publicFields": [
     "code",
     "status",
@@ -2226,14 +2226,14 @@
     },
     {
       "code": "STARX-NW34-SAPS-UGPC",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703126596",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T06:02:48.318Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-K5RM-MQV9-J835",
@@ -4921,7 +4921,7 @@
     },
     {
       "code": "STARX-A23B-VADB-APZM",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
