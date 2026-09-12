@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T04:37:26.006Z",
+  "updatedAt": "2026-09-12T05:09:17.897Z",
   "publicFields": [
     "code",
     "status",
@@ -4844,7 +4844,7 @@
     },
     {
       "code": "STARX-4ZVG-USMG-L5NU",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
