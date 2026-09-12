@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T02:39:58.432Z",
+  "updatedAt": "2026-09-12T03:11:46.067Z",
   "publicFields": [
     "code",
     "status",
@@ -4833,7 +4833,7 @@
     },
     {
       "code": "STARX-4RB4-CFF6-LBJN",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
@@ -6010,7 +6010,7 @@
     },
     {
       "code": "STARX-TWZ3-QVYA-6ZTP",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
