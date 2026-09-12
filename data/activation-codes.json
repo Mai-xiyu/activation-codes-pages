@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T02:14:34.600Z",
+  "updatedAt": "2026-09-12T02:39:58.432Z",
   "publicFields": [
     "code",
     "status",
@@ -2149,14 +2149,14 @@
     },
     {
       "code": "STARX-RLC2-7K8T-J8AG",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703129160",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T02:35:57.213Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WZLU-QQVB-QXH5",
