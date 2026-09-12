@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T18:11:07.110Z",
+  "updatedAt": "2026-09-12T18:36:12.893Z",
   "publicFields": [
     "code",
     "status",
@@ -2369,14 +2369,14 @@
     },
     {
       "code": "STARX-8TL4-Q69S-R496",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703029483",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T18:34:33.509Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2P3A-YAYJ-P4VT",
