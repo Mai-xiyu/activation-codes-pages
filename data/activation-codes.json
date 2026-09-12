@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T15:34:36.104Z",
+  "updatedAt": "2026-09-12T16:10:09.409Z",
   "publicFields": [
     "code",
     "status",
@@ -6153,7 +6153,7 @@
     },
     {
       "code": "STARX-Y4CA-WM9E-BAP4",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
