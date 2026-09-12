@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T10:08:44.366Z",
+  "updatedAt": "2026-09-12T10:34:14.498Z",
   "publicFields": [
     "code",
     "status",
@@ -2259,14 +2259,14 @@
     },
     {
       "code": "STARX-47BD-WZFN-MDLF",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703033682",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T10:19:05.914Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NLPY-8MWM-7MQM",
