@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T12:13:27.477Z",
+  "updatedAt": "2026-09-12T12:39:07.957Z",
   "publicFields": [
     "code",
     "status",
@@ -2270,14 +2270,14 @@
     },
     {
       "code": "STARX-NLPY-8MWM-7MQM",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703033338",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T12:19:03.507Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FX9A-4627-2R79",
@@ -4354,17 +4354,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-09-06T18:41:18.441Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-WWWG-7GDJ-7YW9",
-      "status": "expired",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-09-07T04:08:50.428Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
