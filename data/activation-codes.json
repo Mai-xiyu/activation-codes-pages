@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T00:26:19.428Z",
+  "updatedAt": "2026-09-12T01:04:33.814Z",
   "publicFields": [
     "code",
     "status",
@@ -4811,7 +4811,7 @@
     },
     {
       "code": "STARX-46AN-JLN3-YNMS",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
