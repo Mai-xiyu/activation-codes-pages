@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T19:34:34.507Z",
+  "updatedAt": "2026-09-12T20:09:11.488Z",
   "publicFields": [
     "code",
     "status",
@@ -3095,7 +3095,7 @@
     },
     {
       "code": "STARX-33Q4-M9KU-D8Q2",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788514378926",
