@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T01:40:10.143Z",
+  "updatedAt": "2026-09-12T02:14:34.600Z",
   "publicFields": [
     "code",
     "status",
@@ -2138,14 +2138,14 @@
     },
     {
       "code": "STARX-WS3S-C4SH-GAVY",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703129526",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T01:47:17.287Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RLC2-7K8T-J8AG",
@@ -2853,14 +2853,14 @@
     },
     {
       "code": "STARX-6KJQ-7JAD-G5XB",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703013652",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T01:56:55.280Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-W8U9-VLLQ-4ZRS",
