@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T22:34:43.364Z",
+  "updatedAt": "2026-09-12T23:07:53.232Z",
   "publicFields": [
     "code",
     "status",
@@ -2380,14 +2380,14 @@
     },
     {
       "code": "STARX-2P3A-YAYJ-P4VT",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703029128",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T22:45:59.037Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-7SD7-4HQJ-ACLT",
