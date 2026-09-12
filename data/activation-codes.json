@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T14:34:43.149Z",
+  "updatedAt": "2026-09-12T15:08:37.604Z",
   "publicFields": [
     "code",
     "status",
@@ -2325,14 +2325,14 @@
     },
     {
       "code": "STARX-XYK5-4XW7-MQ9B",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703030893",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T15:01:00.836Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6PXS-Y467-VGPS",
