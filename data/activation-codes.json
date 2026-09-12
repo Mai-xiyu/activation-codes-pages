@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T03:11:46.067Z",
+  "updatedAt": "2026-09-12T03:38:20.332Z",
   "publicFields": [
     "code",
     "status",
@@ -2171,14 +2171,14 @@
     },
     {
       "code": "STARX-KZWH-HBRZ-X8GY",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703128429",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T03:37:59.202Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3QJM-E2PQ-H79T",
