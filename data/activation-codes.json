@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T04:10:57.558Z",
+  "updatedAt": "2026-09-12T04:37:26.006Z",
   "publicFields": [
     "code",
     "status",
@@ -2215,14 +2215,14 @@
     },
     {
       "code": "STARX-2LUK-GUWP-FW48",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703126967",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T04:27:22.979Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NW34-SAPS-UGPC",
@@ -2292,14 +2292,14 @@
     },
     {
       "code": "STARX-TV4H-WYEV-27BT",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703032278",
-      "expiresAt": "",
+      "expiresAt": "2026-09-19T04:22:40.961Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-QHTE-ENUR-BF68",
@@ -4915,17 +4915,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
       "expiresAt": "2026-09-13T13:53:12.297Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-9LCW-L8AS-UK7W",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001238453",
-      "expiresAt": "2026-09-12T06:21:42.718Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
