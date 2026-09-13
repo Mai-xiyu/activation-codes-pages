@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T11:34:04.323Z",
+  "updatedAt": "2026-09-13T12:13:45.418Z",
   "publicFields": [
     "code",
     "status",
@@ -2523,25 +2523,25 @@
     },
     {
       "code": "STARX-KESU-22RS-ZJXY",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703023762",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T11:39:24.214Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6GFH-CDF7-KKRR",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703023401",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T11:42:41.167Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2N2R-3JKN-KF8J",
@@ -3194,7 +3194,7 @@
     },
     {
       "code": "STARX-RRAS-A3SH-D9VX",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788514376448",
