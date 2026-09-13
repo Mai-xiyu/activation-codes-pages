@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T16:09:58.743Z",
+  "updatedAt": "2026-09-13T16:34:46.873Z",
   "publicFields": [
     "code",
     "status",
@@ -26,7 +26,7 @@
     },
     {
       "code": "STARX-UXL2-SA5W-JJB9",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703215244",
@@ -4877,7 +4877,7 @@
     },
     {
       "code": "STARX-BHYJ-KL6K-P273",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
