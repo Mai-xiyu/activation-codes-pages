@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T20:09:23.947Z",
+  "updatedAt": "2026-09-13T20:34:43.675Z",
   "publicFields": [
     "code",
     "status",
@@ -119,17 +119,6 @@
       "label": "已绑定设备",
       "issuedAt": "1788703212075",
       "expiresAt": "2026-09-13T15:04:53.775Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-MKN2-JQGR-YBAE",
-      "status": "expired",
-      "plan": "7 天",
-      "label": "已绑定设备",
-      "issuedAt": "1788703211728",
-      "expiresAt": "2026-09-13T17:01:05.615Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -2622,14 +2611,14 @@
     },
     {
       "code": "STARX-J6W4-VLBK-C2FG",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703019798",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T20:29:46.919Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-F2NU-QVHD-9KUG",
