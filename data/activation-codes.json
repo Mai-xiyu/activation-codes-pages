@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T05:34:49.899Z",
+  "updatedAt": "2026-09-13T06:19:47.059Z",
   "publicFields": [
     "code",
     "status",
@@ -2457,14 +2457,14 @@
     },
     {
       "code": "STARX-37R2-WSLL-HEMM",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703026658",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T06:12:00.436Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-H4MN-C75M-395Y",
@@ -4585,17 +4585,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001238454",
       "expiresAt": "2026-09-10T06:57:44.022Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-MDMA-HWJ4-WA7P",
-      "status": "expired",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001238454",
-      "expiresAt": "2026-09-08T15:18:51.891Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
