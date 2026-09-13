@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T13:34:07.094Z",
+  "updatedAt": "2026-09-13T14:09:02.410Z",
   "publicFields": [
     "code",
     "status",
@@ -3161,7 +3161,7 @@
     },
     {
       "code": "STARX-5S7N-G4K5-2NR4",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788514378926",
@@ -3205,7 +3205,7 @@
     },
     {
       "code": "STARX-YYN5-SBB5-29SH",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788514374199",
@@ -4833,7 +4833,7 @@
     },
     {
       "code": "STARX-96NM-F3RF-BDLE",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
