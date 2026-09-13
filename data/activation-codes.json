@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T13:08:58.700Z",
+  "updatedAt": "2026-09-13T13:34:07.094Z",
   "publicFields": [
     "code",
     "status",
@@ -3150,7 +3150,7 @@
     },
     {
       "code": "STARX-5LJ8-QZMN-7FAP",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788514378926",
