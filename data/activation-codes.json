@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-12T23:34:14.969Z",
+  "updatedAt": "2026-09-13T00:30:50.323Z",
   "publicFields": [
     "code",
     "status",
@@ -2424,14 +2424,14 @@
     },
     {
       "code": "STARX-FAQL-YPEC-WASB",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703027724",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T00:00:48.649Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-S4SB-TQCB-K9L5",
@@ -3925,17 +3925,6 @@
       "label": "已绑定设备",
       "issuedAt": "1786001244908",
       "expiresAt": "2026-08-27T01:26:33.803Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-FP45-PKS7-2XD2",
-      "status": "expired",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001244908",
-      "expiresAt": "2026-08-27T09:47:15.124Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
