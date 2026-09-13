@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T14:34:01.649Z",
+  "updatedAt": "2026-09-13T15:08:28.203Z",
   "publicFields": [
     "code",
     "status",
@@ -114,7 +114,7 @@
     },
     {
       "code": "STARX-D7U7-LJLF-XCWR",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703212075",
@@ -829,7 +829,7 @@
     },
     {
       "code": "STARX-TZ24-8EQY-FHQB",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703184830",
@@ -4855,7 +4855,7 @@
     },
     {
       "code": "STARX-A9RF-HFCN-X85F",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
