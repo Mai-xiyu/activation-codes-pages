@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T19:07:23.759Z",
+  "updatedAt": "2026-09-13T19:34:36.856Z",
   "publicFields": [
     "code",
     "status",
@@ -92,7 +92,7 @@
     },
     {
       "code": "STARX-ZNG8-GH63-7GVL",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703212777",
