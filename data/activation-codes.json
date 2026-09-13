@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T15:08:28.203Z",
+  "updatedAt": "2026-09-13T15:34:53.093Z",
   "publicFields": [
     "code",
     "status",
@@ -15,7 +15,7 @@
   "codes": [
     {
       "code": "STARX-MB6Z-H955-2LM2",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703215950",
@@ -48,7 +48,7 @@
     },
     {
       "code": "STARX-MKZX-6NXN-247D",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703214544",
@@ -81,7 +81,7 @@
     },
     {
       "code": "STARX-59TL-H245-95C9",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703213128",
