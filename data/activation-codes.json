@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T23:08:36.095Z",
+  "updatedAt": "2026-09-13T23:34:14.030Z",
   "publicFields": [
     "code",
     "status",
@@ -2754,14 +2754,14 @@
     },
     {
       "code": "STARX-C9MJ-3NMF-JBSV",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703015099",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T23:27:40.921Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-UKB8-M9P7-FY4L",
@@ -4888,7 +4888,7 @@
     },
     {
       "code": "STARX-E9AC-A2TC-BF54",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
