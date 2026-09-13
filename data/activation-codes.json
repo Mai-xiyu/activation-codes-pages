@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T12:39:47.905Z",
+  "updatedAt": "2026-09-13T13:08:58.700Z",
   "publicFields": [
     "code",
     "status",
@@ -2567,14 +2567,14 @@
     },
     {
       "code": "STARX-2ECZ-6AQG-GTZ6",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703021958",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T12:50:24.673Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RZDQ-5B9Z-5KMP",
