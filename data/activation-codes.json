@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T03:39:04.796Z",
+  "updatedAt": "2026-09-13T04:11:33.127Z",
   "publicFields": [
     "code",
     "status",
@@ -2534,14 +2534,14 @@
     },
     {
       "code": "STARX-RCTM-W2EY-VHY8",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703024128",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T03:46:24.477Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KESU-22RS-ZJXY",
@@ -3117,7 +3117,7 @@
     },
     {
       "code": "STARX-4353-B3ZD-UE8A",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788514378926",
