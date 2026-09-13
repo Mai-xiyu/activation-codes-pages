@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T00:30:50.323Z",
+  "updatedAt": "2026-09-13T01:25:00.710Z",
   "publicFields": [
     "code",
     "status",
@@ -4833,7 +4833,7 @@
     },
     {
       "code": "STARX-773T-XFU9-55U9",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
