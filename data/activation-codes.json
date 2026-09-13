@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-13T03:12:28.367Z",
+  "updatedAt": "2026-09-13T03:39:04.796Z",
   "publicFields": [
     "code",
     "status",
@@ -2446,14 +2446,14 @@
     },
     {
       "code": "STARX-LLZR-JV3L-93ND",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703027013",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T03:16:20.194Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-37R2-WSLL-HEMM",
@@ -2864,14 +2864,14 @@
     },
     {
       "code": "STARX-CB5B-YY59-MS72",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703012930",
-      "expiresAt": "",
+      "expiresAt": "2026-09-20T03:18:24.109Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VPR8-YC8B-L94D",
