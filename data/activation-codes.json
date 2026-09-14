@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-14T14:11:41.533Z",
+  "updatedAt": "2026-09-14T14:38:39.710Z",
   "publicFields": [
     "code",
     "status",
@@ -289,17 +289,6 @@
       "usedCount": 0
     },
     {
-      "code": "STARX-YDW9-5BMU-KY63",
-      "status": "active",
-      "plan": "15 天",
-      "label": "未使用",
-      "issuedAt": "1789368987428",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
       "code": "STARX-K6A9-R3A9-TBVX",
       "status": "active",
       "plan": "15 天",
@@ -312,14 +301,14 @@
     },
     {
       "code": "STARX-DBND-J89K-ZKB7",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368986716",
-      "expiresAt": "",
+      "expiresAt": "2026-09-29T14:20:48.503Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-K35L-XATW-8K7T",
@@ -2776,7 +2765,7 @@
     },
     {
       "code": "STARX-Q3QX-Q3XL-4NU8",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703199086",
@@ -2963,7 +2952,7 @@
     },
     {
       "code": "STARX-7NNJ-Q8K5-SPR8",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703193126",
@@ -3909,7 +3898,7 @@
     },
     {
       "code": "STARX-BW66-AKKN-BAAG",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703146738",
@@ -4508,17 +4497,6 @@
       "label": "已绑定设备",
       "issuedAt": "1788703033338",
       "expiresAt": "2026-09-19T12:19:03.507Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-FX9A-4627-2R79",
-      "status": "used",
-      "plan": "7 天",
-      "label": "已绑定设备",
-      "issuedAt": "1788703032633",
-      "expiresAt": "2026-09-19T10:36:21.927Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -7319,7 +7297,7 @@
     },
     {
       "code": "STARX-TTS9-J8LG-WMVB",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
