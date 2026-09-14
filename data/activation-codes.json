@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-14T14:38:39.710Z",
+  "updatedAt": "2026-09-14T15:11:24.095Z",
   "publicFields": [
     "code",
     "status",
@@ -7132,7 +7132,7 @@
     },
     {
       "code": "STARX-JCUR-NZZ8-BJP8",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
@@ -7143,7 +7143,7 @@
     },
     {
       "code": "STARX-JQFM-XMAS-3QZM",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
