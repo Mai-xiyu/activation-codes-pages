@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-14T03:13:48.555Z",
+  "updatedAt": "2026-09-14T03:41:56.317Z",
   "publicFields": [
     "code",
     "status",
@@ -213,7 +213,7 @@
     },
     {
       "code": "STARX-4FR7-AG3M-D8LP",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703208577",
@@ -323,7 +323,7 @@
     },
     {
       "code": "STARX-QU9D-NLGJ-EXUD",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703204727",
