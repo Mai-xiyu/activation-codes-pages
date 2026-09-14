@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-14T04:12:50.119Z",
+  "updatedAt": "2026-09-14T04:41:51.137Z",
   "publicFields": [
     "code",
     "status",
@@ -400,7 +400,7 @@
     },
     {
       "code": "STARX-NZ4D-P6TQ-LDV2",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703202275",
