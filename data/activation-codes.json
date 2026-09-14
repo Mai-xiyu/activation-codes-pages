@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-14T05:37:47.737Z",
+  "updatedAt": "2026-09-14T06:23:03.273Z",
   "publicFields": [
     "code",
     "status",
@@ -290,7 +290,7 @@
     },
     {
       "code": "STARX-5L23-H2XV-JHPS",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703205776",
