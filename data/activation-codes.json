@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-14T19:08:36.197Z",
+  "updatedAt": "2026-09-14T19:33:59.757Z",
   "publicFields": [
     "code",
     "status",
@@ -7275,7 +7275,7 @@
     },
     {
       "code": "STARX-TCJT-738E-E52V",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
