@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-14T04:41:51.137Z",
+  "updatedAt": "2026-09-14T05:11:19.561Z",
   "publicFields": [
     "code",
     "status",
@@ -356,7 +356,7 @@
     },
     {
       "code": "STARX-R8KD-CAGN-4HWD",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703203668",
