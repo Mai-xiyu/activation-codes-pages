@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-14T05:11:19.561Z",
+  "updatedAt": "2026-09-14T05:37:47.737Z",
   "publicFields": [
     "code",
     "status",
@@ -279,7 +279,7 @@
     },
     {
       "code": "STARX-4YK2-FNN5-ZD9B",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703206126",
