@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-14T01:52:42.210Z",
+  "updatedAt": "2026-09-14T02:17:13.151Z",
   "publicFields": [
     "code",
     "status",
@@ -158,7 +158,7 @@
     },
     {
       "code": "STARX-22NG-8WBF-2AFB",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703210325",
@@ -2644,25 +2644,25 @@
     },
     {
       "code": "STARX-4GY9-VH8X-4RD5",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703018365",
-      "expiresAt": "",
+      "expiresAt": "2026-09-21T01:53:14.565Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SB9X-BWQS-XB4J",
-      "status": "active",
+      "status": "used",
       "plan": "7 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1788703017999",
-      "expiresAt": "",
+      "expiresAt": "2026-09-21T02:05:10.918Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5TQL-NHJR-2X23",
