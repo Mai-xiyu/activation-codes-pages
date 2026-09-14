@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-14T15:37:32.176Z",
+  "updatedAt": "2026-09-14T16:10:31.112Z",
   "publicFields": [
     "code",
     "status",
@@ -7165,7 +7165,7 @@
     },
     {
       "code": "STARX-NFA6-K97B-MXZN",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
