@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-14T17:08:13.547Z",
+  "updatedAt": "2026-09-14T17:34:35.227Z",
   "publicFields": [
     "code",
     "status",
@@ -301,14 +301,14 @@
     },
     {
       "code": "STARX-K35L-XATW-8K7T",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368986355",
-      "expiresAt": "",
+      "expiresAt": "2026-09-29T17:32:13.491Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3CD3-VJ4F-PZJS",
