@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T18:38:55.980Z",
+  "updatedAt": "2026-09-15T19:08:18.667Z",
   "publicFields": [
     "code",
     "status",
@@ -3161,7 +3161,7 @@
     },
     {
       "code": "STARX-CGYL-5GQJ-A4S6",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703179973",
