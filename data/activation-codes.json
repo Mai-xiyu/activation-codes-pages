@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T14:10:59.539Z",
+  "updatedAt": "2026-09-15T14:37:35.593Z",
   "publicFields": [
     "code",
     "status",
@@ -851,14 +851,14 @@
     },
     {
       "code": "STARX-FKP7-D9SD-WXG7",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368962320",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T14:17:06.224Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SWBF-V2T4-UPZ5",
@@ -2929,17 +2929,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-9W24-WDUR-XNVR",
-      "status": "expired",
-      "plan": "7 天",
-      "label": "已绑定设备",
-      "issuedAt": "1788703192046",
-      "expiresAt": "2026-09-15T05:42:37.448Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-2MCP-WDDR-PRNG",
       "status": "expired",
       "plan": "7 天",
@@ -3183,7 +3172,7 @@
     },
     {
       "code": "STARX-U5DB-JHNJ-3UF9",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703180320",
