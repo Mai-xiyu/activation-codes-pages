@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T19:34:27.504Z",
+  "updatedAt": "2026-09-15T20:10:41.148Z",
   "publicFields": [
     "code",
     "status",
@@ -906,14 +906,14 @@
     },
     {
       "code": "STARX-FR98-RRSS-6Z4J",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368960160",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T19:40:19.926Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-BZLQ-WEKT-ST9T",
