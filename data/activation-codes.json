@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T22:09:34.316Z",
+  "updatedAt": "2026-09-15T22:34:41.944Z",
   "publicFields": [
     "code",
     "status",
@@ -7297,7 +7297,7 @@
     },
     {
       "code": "STARX-4E7F-RZ4S-DDTC",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
