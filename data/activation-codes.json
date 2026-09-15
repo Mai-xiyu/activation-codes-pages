@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T03:39:55.007Z",
+  "updatedAt": "2026-09-15T04:12:15.421Z",
   "publicFields": [
     "code",
     "status",
@@ -477,14 +477,14 @@
     },
     {
       "code": "STARX-V7S2-BWEF-VS6F",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368980615",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T03:43:02.170Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-92PC-W4AA-WJRY",
@@ -2886,7 +2886,7 @@
     },
     {
       "code": "STARX-SUZF-K8U5-CJCG",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703194180",
@@ -2897,7 +2897,7 @@
     },
     {
       "code": "STARX-MLFA-C94P-UDBC",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703193825",
@@ -2952,7 +2952,7 @@
     },
     {
       "code": "STARX-2MCP-WDDR-PRNG",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703191690",
@@ -3260,7 +3260,7 @@
     },
     {
       "code": "STARX-G4BC-W9HX-XN9Y",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703178237",
@@ -4085,7 +4085,7 @@
     },
     {
       "code": "STARX-RWGV-ASQW-J8B2",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703138302",
@@ -7253,7 +7253,7 @@
     },
     {
       "code": "STARX-VF52-YEJ2-5YKV",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
