@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T04:39:31.011Z",
+  "updatedAt": "2026-09-15T05:10:45.115Z",
   "publicFields": [
     "code",
     "status",
@@ -7946,7 +7946,7 @@
     },
     {
       "code": "STARX-SB3Q-2HNT-KUKS",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
