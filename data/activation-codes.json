@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T13:37:14.917Z",
+  "updatedAt": "2026-09-15T14:10:59.539Z",
   "publicFields": [
     "code",
     "status",
@@ -840,14 +840,14 @@
     },
     {
       "code": "STARX-GDMS-Z7H4-D3PG",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368962685",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T14:06:19.901Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FKP7-D9SD-WXG7",
