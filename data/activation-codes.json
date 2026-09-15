@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T01:09:32.543Z",
+  "updatedAt": "2026-09-15T01:47:39.834Z",
   "publicFields": [
     "code",
     "status",
@@ -356,14 +356,14 @@
     },
     {
       "code": "STARX-VPMZ-TBLK-MD2D",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368984554",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T01:26:57.593Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8Z6L-G8YY-BKHS",
@@ -400,25 +400,25 @@
     },
     {
       "code": "STARX-CWT6-XGEJ-BSUH",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368983124",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T01:30:23.369Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GZCJ-4NW2-K56Q",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368982765",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T01:35:18.311Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5MYA-2NQA-2GCQ",
@@ -2731,17 +2731,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-K94K-Z42D-62JJ",
-      "status": "expired",
-      "plan": "7 天",
-      "label": "已绑定设备",
-      "issuedAt": "1788703200116",
-      "expiresAt": "2026-09-14T08:35:59.422Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-LQLG-U983-E6L8",
       "status": "expired",
       "plan": "7 天",
@@ -2842,7 +2831,7 @@
     },
     {
       "code": "STARX-MMUM-AG5C-4JA5",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703196288",
@@ -7231,7 +7220,7 @@
     },
     {
       "code": "STARX-RHW3-R32Q-5FTV",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
@@ -7242,7 +7231,7 @@
     },
     {
       "code": "STARX-SPUM-5EKF-4B8S",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
