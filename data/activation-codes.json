@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T05:10:45.115Z",
+  "updatedAt": "2026-09-15T05:37:47.771Z",
   "publicFields": [
     "code",
     "status",
@@ -499,14 +499,14 @@
     },
     {
       "code": "STARX-YLQW-NE6T-5ANP",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368979908",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T05:24:09.306Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-9LAM-GJH5-4GL5",
@@ -521,14 +521,14 @@
     },
     {
       "code": "STARX-X82M-KDPW-RTWE",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368979201",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T05:30:34.639Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NHVG-6HA5-UN8W",
@@ -3304,7 +3304,7 @@
     },
     {
       "code": "STARX-77HJ-CQ56-B2PD",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703176502",
