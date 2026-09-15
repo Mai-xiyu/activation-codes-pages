@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T20:10:41.148Z",
+  "updatedAt": "2026-09-15T20:35:35.879Z",
   "publicFields": [
     "code",
     "status",
@@ -7363,7 +7363,7 @@
     },
     {
       "code": "STARX-BLV7-EDV3-Y8QB",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
