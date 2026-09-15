@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T11:35:36.346Z",
+  "updatedAt": "2026-09-15T12:15:10.046Z",
   "publicFields": [
     "code",
     "status",
@@ -752,14 +752,14 @@
     },
     {
       "code": "STARX-BH2M-7ZQS-U8T2",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368965901",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T12:14:05.217Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-N3W8-AEQ6-J24E",
@@ -774,14 +774,14 @@
     },
     {
       "code": "STARX-PVA9-FAHK-N232",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368964826",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T12:06:29.710Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MNP3-LPNS-ZLNM",
@@ -3216,7 +3216,7 @@
     },
     {
       "code": "STARX-TP46-8BD5-AZ4Q",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703179279",
@@ -7275,7 +7275,7 @@
     },
     {
       "code": "STARX-2LPW-SATP-NXGP",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
