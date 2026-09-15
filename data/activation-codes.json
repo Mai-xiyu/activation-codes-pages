@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T12:44:14.915Z",
+  "updatedAt": "2026-09-15T13:10:57.149Z",
   "publicFields": [
     "code",
     "status",
@@ -3150,7 +3150,7 @@
     },
     {
       "code": "STARX-QHSN-2QG4-JL4N",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703181361",
@@ -3227,7 +3227,7 @@
     },
     {
       "code": "STARX-S67Q-HD4U-JDH2",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703178931",
@@ -7308,7 +7308,7 @@
     },
     {
       "code": "STARX-3DK4-8WC6-YJ8A",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
