@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T05:37:47.771Z",
+  "updatedAt": "2026-09-15T06:18:08.875Z",
   "publicFields": [
     "code",
     "status",
@@ -510,14 +510,14 @@
     },
     {
       "code": "STARX-9LAM-GJH5-4GL5",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368979555",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T06:10:20.776Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-X82M-KDPW-RTWE",
@@ -598,14 +598,14 @@
     },
     {
       "code": "STARX-268E-L96H-Y84F",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368976703",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T06:01:47.393Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6KRN-VZYY-K3UY",
@@ -2941,7 +2941,7 @@
     },
     {
       "code": "STARX-9W24-WDUR-XNVR",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703192046",
@@ -2963,7 +2963,7 @@
     },
     {
       "code": "STARX-3RPA-EEKM-FTXZ",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703191324",
@@ -7286,7 +7286,7 @@
     },
     {
       "code": "STARX-Y7EL-CCFB-4Z5J",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001238453",
