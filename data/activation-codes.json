@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-15T09:40:57.529Z",
+  "updatedAt": "2026-09-15T10:10:49.077Z",
   "publicFields": [
     "code",
     "status",
@@ -719,14 +719,14 @@
     },
     {
       "code": "STARX-69GX-JE5K-9AKS",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368972355",
-      "expiresAt": "",
+      "expiresAt": "2026-09-30T10:01:45.714Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6XQS-A5GC-LSXX",
@@ -3128,7 +3128,7 @@
     },
     {
       "code": "STARX-XWHS-27LW-BK9W",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703182055",
