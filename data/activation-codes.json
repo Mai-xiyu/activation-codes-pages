@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T09:38:11.427Z",
+  "updatedAt": "2026-09-16T10:10:25.220Z",
   "publicFields": [
     "code",
     "status",
@@ -3315,7 +3315,7 @@
     },
     {
       "code": "STARX-R97H-E37X-VY8G",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703170951",
@@ -3469,7 +3469,7 @@
     },
     {
       "code": "STARX-SDUJ-L2LD-6D28",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703165737",
