@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T16:11:30.085Z",
+  "updatedAt": "2026-09-16T16:37:21.799Z",
   "publicFields": [
     "code",
     "status",
@@ -3348,7 +3348,7 @@
     },
     {
       "code": "STARX-QJZ3-TKEX-Z9FJ",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703168867",
@@ -7297,7 +7297,7 @@
     },
     {
       "code": "STARX-EN3E-UFHZ-89FL",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
