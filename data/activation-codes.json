@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T08:14:19.243Z",
+  "updatedAt": "2026-09-16T08:42:21.036Z",
   "publicFields": [
     "code",
     "status",
@@ -3403,7 +3403,7 @@
     },
     {
       "code": "STARX-J3WS-HJEL-YR64",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703168173",
@@ -3601,7 +3601,7 @@
     },
     {
       "code": "STARX-9AGL-W6LC-7CBJ",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703150757",
