@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T19:08:19.066Z",
+  "updatedAt": "2026-09-16T19:34:26.771Z",
   "publicFields": [
     "code",
     "status",
@@ -7803,7 +7803,7 @@
     },
     {
       "code": "STARX-X5AW-TRX8-C2AD",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
