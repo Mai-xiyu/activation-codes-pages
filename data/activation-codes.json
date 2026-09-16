@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T18:39:37.049Z",
+  "updatedAt": "2026-09-16T19:08:19.066Z",
   "publicFields": [
     "code",
     "status",
@@ -3381,7 +3381,7 @@
     },
     {
       "code": "STARX-7J7D-YSKH-8XZ5",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703167826",
@@ -7308,7 +7308,7 @@
     },
     {
       "code": "STARX-ENFS-ZDYU-55QX",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
