@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T09:11:08.562Z",
+  "updatedAt": "2026-09-16T09:38:11.427Z",
   "publicFields": [
     "code",
     "status",
@@ -1236,14 +1236,14 @@
     },
     {
       "code": "STARX-NZU6-RRLH-WSJG",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368949074",
-      "expiresAt": "",
+      "expiresAt": "2026-10-01T09:32:24.859Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-DDCQ-S79Z-5DAJ",
@@ -3304,7 +3304,7 @@
     },
     {
       "code": "STARX-KFU9-8NCP-6HHC",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703171298",
