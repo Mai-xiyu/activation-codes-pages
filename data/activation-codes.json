@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T23:08:43.242Z",
+  "updatedAt": "2026-09-16T23:34:06.687Z",
   "publicFields": [
     "code",
     "status",
@@ -1489,14 +1489,14 @@
     },
     {
       "code": "STARX-HWK4-8LXS-FP77",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368920233",
-      "expiresAt": "",
+      "expiresAt": "2026-10-01T23:26:51.713Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ZJGS-AMXK-7SUE",
