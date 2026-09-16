@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T12:45:33.845Z",
+  "updatedAt": "2026-09-16T13:09:51.999Z",
   "publicFields": [
     "code",
     "status",
@@ -1346,14 +1346,14 @@
     },
     {
       "code": "STARX-37MM-HRNB-JM5Z",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368944761",
-      "expiresAt": "",
+      "expiresAt": "2026-10-01T12:57:56.302Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-QXF5-HE7T-BC9W",
