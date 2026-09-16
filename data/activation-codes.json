@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T17:08:49.098Z",
+  "updatedAt": "2026-09-16T17:34:35.649Z",
   "publicFields": [
     "code",
     "status",
@@ -1456,14 +1456,14 @@
     },
     {
       "code": "STARX-NEA4-JJHP-RFUP",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368921654",
-      "expiresAt": "",
+      "expiresAt": "2026-10-01T17:19:44.176Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XMC8-2BZT-88KR",
