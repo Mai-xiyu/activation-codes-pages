@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T03:12:08.766Z",
+  "updatedAt": "2026-09-16T03:39:53.486Z",
   "publicFields": [
     "code",
     "status",
@@ -1049,14 +1049,14 @@
     },
     {
       "code": "STARX-M6PV-NZQT-48GF",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368955350",
-      "expiresAt": "",
+      "expiresAt": "2026-10-01T03:27:52.417Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-9TXR-YCFK-6KWV",
