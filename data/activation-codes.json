@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T05:10:29.700Z",
+  "updatedAt": "2026-09-16T05:38:01.995Z",
   "publicFields": [
     "code",
     "status",
@@ -1181,14 +1181,14 @@
     },
     {
       "code": "STARX-CAVL-EWY6-RFQV",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368950874",
-      "expiresAt": "",
+      "expiresAt": "2026-10-01T05:11:30.322Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FCPV-B2ME-PDB2",
@@ -2643,17 +2643,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-6P5F-U5W2-Y66M",
-      "status": "expired",
-      "plan": "7 天",
-      "label": "已绑定设备",
-      "issuedAt": "1788703201565",
-      "expiresAt": "2026-09-14T08:34:17.323Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-ERMB-93Y2-ME85",
       "status": "expired",
       "plan": "7 天",
@@ -3271,7 +3260,7 @@
     },
     {
       "code": "STARX-N8RZ-RTGY-MPFY",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703174074",
@@ -7319,7 +7308,7 @@
     },
     {
       "code": "STARX-DBLK-VTUL-LE9V",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
