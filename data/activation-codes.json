@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T21:34:13.738Z",
+  "updatedAt": "2026-09-17T22:09:23.657Z",
   "publicFields": [
     "code",
     "status",
@@ -7660,7 +7660,7 @@
     },
     {
       "code": "STARX-XQQ4-7M64-TA4J",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
