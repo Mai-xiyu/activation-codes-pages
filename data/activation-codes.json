@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T10:37:41.941Z",
+  "updatedAt": "2026-09-17T11:09:39.138Z",
   "publicFields": [
     "code",
     "status",
@@ -1819,14 +1819,14 @@
     },
     {
       "code": "STARX-AS3X-4LMB-MUBW",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368907797",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T11:00:25.913Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-W5CP-6UQS-4DJV",
@@ -2028,14 +2028,14 @@
     },
     {
       "code": "STARX-WM6H-NGYV-FB2G",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368901048",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T10:38:26.766Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VH9E-67H7-ZL6D",
