@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T06:51:20.540Z",
+  "updatedAt": "2026-09-17T07:13:33.078Z",
   "publicFields": [
     "code",
     "status",
@@ -3425,7 +3425,7 @@
     },
     {
       "code": "STARX-F37F-LW4T-XDNZ",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703163307",
