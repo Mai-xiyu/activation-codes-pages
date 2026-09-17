@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T05:10:42.715Z",
+  "updatedAt": "2026-09-17T05:37:31.470Z",
   "publicFields": [
     "code",
     "status",
@@ -3425,7 +3425,7 @@
     },
     {
       "code": "STARX-HHYT-EG6F-2V4D",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703163654",
