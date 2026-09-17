@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-16T23:34:06.687Z",
+  "updatedAt": "2026-09-17T00:26:46.653Z",
   "publicFields": [
     "code",
     "status",
@@ -1500,47 +1500,47 @@
     },
     {
       "code": "STARX-ZJGS-AMXK-7SUE",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368919878",
-      "expiresAt": "",
+      "expiresAt": "2026-10-01T23:46:06.755Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5SXD-N5BM-4EGE",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368919522",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T00:06:18.360Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8NGK-GQDK-VY8Z",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368919167",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T00:03:31.164Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SBET-F56K-WMJM",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368918808",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T00:04:06.318Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Q8SG-A3GW-87Z4",
@@ -1566,14 +1566,14 @@
     },
     {
       "code": "STARX-ZSEJ-94X2-K872",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368917744",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T00:06:24.941Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-YFE2-928G-L5FB",
@@ -1962,14 +1962,14 @@
     },
     {
       "code": "STARX-AP4B-AQTK-UGRE",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368904956",
-      "expiresAt": "",
+      "expiresAt": "2026-10-01T23:55:02.055Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-9J7R-DCML-PPJ8",
@@ -3711,7 +3711,7 @@
     },
     {
       "code": "STARX-9HTL-VYUZ-NY7J",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703145276",
@@ -7120,17 +7120,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-2VWS-C9JL-46J6",
-      "status": "expired",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1786001228670",
-      "expiresAt": "2026-09-15T02:05:05.981Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-376G-SLDV-KY2H",
       "status": "expired",
       "plan": "15 天",
@@ -7341,7 +7330,7 @@
     },
     {
       "code": "STARX-EZ49-HZXW-MCEQ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
@@ -7352,7 +7341,7 @@
     },
     {
       "code": "STARX-F4XU-ZTU6-MX58",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
@@ -7396,7 +7385,7 @@
     },
     {
       "code": "STARX-GBBM-Q6JC-BJ7S",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
