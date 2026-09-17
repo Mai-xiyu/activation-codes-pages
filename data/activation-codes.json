@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T08:15:13.526Z",
+  "updatedAt": "2026-09-17T08:41:09.122Z",
   "publicFields": [
     "code",
     "status",
@@ -3425,7 +3425,7 @@
     },
     {
       "code": "STARX-8GA3-S8CX-DJB4",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703162266",
@@ -3447,7 +3447,7 @@
     },
     {
       "code": "STARX-ELZB-FA9Z-VG6M",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703151123",
@@ -3491,7 +3491,7 @@
     },
     {
       "code": "STARX-86U5-SCV2-F3FY",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703149661",
@@ -3524,7 +3524,7 @@
     },
     {
       "code": "STARX-494V-JA69-ABFS",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703148199",
