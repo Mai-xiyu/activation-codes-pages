@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T03:39:59.717Z",
+  "updatedAt": "2026-09-17T04:12:11.393Z",
   "publicFields": [
     "code",
     "status",
@@ -1686,37 +1686,15 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-3HRL-HU7Y-9YGY",
-      "status": "active",
-      "plan": "15 天",
-      "label": "未使用",
-      "issuedAt": "1789368913124",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
-      "code": "STARX-PFY9-PFFX-UXAA",
-      "status": "active",
-      "plan": "15 天",
-      "label": "未使用",
-      "issuedAt": "1789368912770",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
       "code": "STARX-EPL2-LVJF-SXB8",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368912415",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T03:42:37.359Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RDAQ-287Y-P66Q",
