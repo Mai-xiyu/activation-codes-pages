@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T22:33:42.015Z",
+  "updatedAt": "2026-09-17T23:07:58.409Z",
   "publicFields": [
     "code",
     "status",
@@ -7396,7 +7396,7 @@
     },
     {
       "code": "STARX-PQG7-Q2VP-6Y8X",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
