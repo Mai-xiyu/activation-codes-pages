@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T13:10:12.678Z",
+  "updatedAt": "2026-09-17T13:37:04.109Z",
   "publicFields": [
     "code",
     "status",
@@ -1852,14 +1852,14 @@
     },
     {
       "code": "STARX-PDYD-PCSB-NVHJ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368906732",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T13:27:35.051Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NAMN-8UZK-E2E9",
