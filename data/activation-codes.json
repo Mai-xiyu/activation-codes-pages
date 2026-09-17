@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T04:39:18.799Z",
+  "updatedAt": "2026-09-17T05:10:42.715Z",
   "publicFields": [
     "code",
     "status",
@@ -7363,7 +7363,7 @@
     },
     {
       "code": "STARX-LJ4Q-5G4L-XU7H",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
