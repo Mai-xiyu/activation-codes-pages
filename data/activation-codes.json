@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T10:10:45.861Z",
+  "updatedAt": "2026-09-17T10:37:41.941Z",
   "publicFields": [
     "code",
     "status",
@@ -1786,14 +1786,14 @@
     },
     {
       "code": "STARX-FKDC-T35S-KLTS",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368908863",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T10:14:04.840Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3ECV-DYZJ-JU72",
@@ -1808,14 +1808,14 @@
     },
     {
       "code": "STARX-Y7Y6-SDH4-E8GJ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368908152",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T10:29:33.094Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AS3X-4LMB-MUBW",
@@ -7473,7 +7473,7 @@
     },
     {
       "code": "STARX-RHZU-RRKY-9LVL",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
