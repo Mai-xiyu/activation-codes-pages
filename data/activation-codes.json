@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T15:10:34.038Z",
+  "updatedAt": "2026-09-17T15:36:35.111Z",
   "publicFields": [
     "code",
     "status",
@@ -3733,7 +3733,7 @@
     },
     {
       "code": "STARX-GUWT-S55V-5PYF",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703140158",
@@ -7330,7 +7330,7 @@
     },
     {
       "code": "STARX-N5U4-EZSJ-UD56",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
