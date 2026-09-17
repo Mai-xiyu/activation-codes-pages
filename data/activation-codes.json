@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T17:34:41.926Z",
+  "updatedAt": "2026-09-17T18:12:54.744Z",
   "publicFields": [
     "code",
     "status",
@@ -2127,14 +2127,14 @@
     },
     {
       "code": "STARX-DUEP-PLSP-QH6Z",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368897496",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T17:35:26.766Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GJ4J-MFF5-9L6E",
@@ -3601,7 +3601,7 @@
     },
     {
       "code": "STARX-94MG-63GD-GG2W",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703144544",
@@ -7385,7 +7385,7 @@
     },
     {
       "code": "STARX-PMB6-7HXQ-4RYG",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
