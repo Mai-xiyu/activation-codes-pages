@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T16:37:49.099Z",
+  "updatedAt": "2026-09-17T17:08:16.326Z",
   "publicFields": [
     "code",
     "status",
@@ -3568,7 +3568,7 @@
     },
     {
       "code": "STARX-22VJ-GZ8J-2EPG",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703145641",
@@ -7363,7 +7363,7 @@
     },
     {
       "code": "STARX-NC5D-MY2U-ZJ8V",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
