@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-17T05:37:31.470Z",
+  "updatedAt": "2026-09-17T06:18:12.926Z",
   "publicFields": [
     "code",
     "status",
@@ -1698,25 +1698,25 @@
     },
     {
       "code": "STARX-RDAQ-287Y-P66Q",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368912060",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T05:56:27.894Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-633B-F8N2-4QBU",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789368911704",
-      "expiresAt": "",
+      "expiresAt": "2026-10-02T06:16:28.928Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MLRC-PZQF-YY4P",
@@ -3232,17 +3232,6 @@
       "label": "已绑定设备",
       "issuedAt": "1788703171298",
       "expiresAt": "2026-09-16T09:14:27.542Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-R97H-E37X-VY8G",
-      "status": "expired",
-      "plan": "7 天",
-      "label": "已绑定设备",
-      "issuedAt": "1788703170951",
-      "expiresAt": "2026-09-16T09:44:57.915Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
@@ -4778,7 +4767,7 @@
     },
     {
       "code": "STARX-FS63-XSMB-RZPL",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703011509",
