@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T12:43:47.614Z",
+  "updatedAt": "2026-09-18T13:09:39.702Z",
   "publicFields": [
     "code",
     "status",
@@ -4536,7 +4536,7 @@
     },
     {
       "code": "STARX-59FX-657R-V3SL",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703130624",
@@ -5768,7 +5768,7 @@
     },
     {
       "code": "STARX-VTAJ-S9JB-3Z5S",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
