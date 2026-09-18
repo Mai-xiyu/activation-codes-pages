@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T13:35:57.142Z",
+  "updatedAt": "2026-09-18T14:10:27.984Z",
   "publicFields": [
     "code",
     "status",
@@ -4514,7 +4514,7 @@
     },
     {
       "code": "STARX-ZJZZ-BL4R-KB6T",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703131354",
