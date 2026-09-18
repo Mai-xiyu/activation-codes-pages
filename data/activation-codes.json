@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T17:08:47.461Z",
+  "updatedAt": "2026-09-18T17:34:19.920Z",
   "publicFields": [
     "code",
     "status",
@@ -5108,7 +5108,7 @@
     },
     {
       "code": "STARX-8TCY-Q9K4-NL3L",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703016192",
