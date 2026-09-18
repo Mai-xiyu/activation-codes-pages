@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T02:42:22.518Z",
+  "updatedAt": "2026-09-18T03:11:50.220Z",
   "publicFields": [
     "code",
     "status",
@@ -3733,7 +3733,7 @@
     },
     {
       "code": "STARX-VUWL-HMC5-GH77",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703138667",
@@ -3755,7 +3755,7 @@
     },
     {
       "code": "STARX-EDD6-VE5X-U4E9",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703137936",
@@ -3909,7 +3909,7 @@
     },
     {
       "code": "STARX-KTLY-PJVY-DJMJ",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703132085",
