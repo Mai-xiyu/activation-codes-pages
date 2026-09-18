@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T02:14:04.452Z",
+  "updatedAt": "2026-09-18T02:42:22.518Z",
   "publicFields": [
     "code",
     "status",
@@ -3689,7 +3689,7 @@
     },
     {
       "code": "STARX-JW39-LYJH-HRWQ",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703140889",
@@ -3700,7 +3700,7 @@
     },
     {
       "code": "STARX-D4T2-94VY-YW7X",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703140523",
@@ -3832,7 +3832,7 @@
     },
     {
       "code": "STARX-88K5-465U-ZAXN",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703135011",
@@ -4668,7 +4668,7 @@
     },
     {
       "code": "STARX-DFFQ-VM7A-AFPZ",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703011864",
@@ -7396,7 +7396,7 @@
     },
     {
       "code": "STARX-QKVL-HDZW-ZUES",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
@@ -7473,7 +7473,7 @@
     },
     {
       "code": "STARX-SS2L-PXLG-VL43",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
