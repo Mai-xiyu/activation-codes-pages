@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T01:08:44.576Z",
+  "updatedAt": "2026-09-18T01:45:12.611Z",
   "publicFields": [
     "code",
     "status",
@@ -3656,7 +3656,7 @@
     },
     {
       "code": "STARX-GNBS-6JL5-6ZA5",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703141986",
