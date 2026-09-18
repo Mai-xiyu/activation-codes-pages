@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T11:34:49.434Z",
+  "updatedAt": "2026-09-18T12:14:31.130Z",
   "publicFields": [
     "code",
     "status",
@@ -257,14 +257,14 @@
     },
     {
       "code": "STARX-TYZW-45GK-TQXD",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718130402",
-      "expiresAt": "",
+      "expiresAt": "2026-10-08T12:13:37.818Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WVSU-X7A6-WHKF",
