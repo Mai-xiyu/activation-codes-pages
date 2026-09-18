@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T09:10:50.665Z",
+  "updatedAt": "2026-09-18T09:37:29.537Z",
   "publicFields": [
     "code",
     "status",
@@ -4470,7 +4470,7 @@
     },
     {
       "code": "STARX-XH72-MM7V-RHDN",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703133912",
@@ -4536,7 +4536,7 @@
     },
     {
       "code": "STARX-83VK-WCZP-RL3A",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703130989",
@@ -4624,7 +4624,7 @@
     },
     {
       "code": "STARX-Y3G6-VKVL-L2YM",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703127698",
