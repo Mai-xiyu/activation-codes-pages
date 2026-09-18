@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T05:37:02.813Z",
+  "updatedAt": "2026-09-18T06:17:19.274Z",
   "publicFields": [
     "code",
     "status",
@@ -3777,7 +3777,7 @@
     },
     {
       "code": "STARX-NBTH-J8XC-TA9K",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703137205",
