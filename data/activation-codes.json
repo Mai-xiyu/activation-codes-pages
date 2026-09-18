@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T12:14:31.130Z",
+  "updatedAt": "2026-09-18T12:43:47.614Z",
   "publicFields": [
     "code",
     "status",
@@ -4877,7 +4877,7 @@
     },
     {
       "code": "STARX-4SBM-XWLU-DBM4",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703024494",
@@ -5757,7 +5757,7 @@
     },
     {
       "code": "STARX-UNMM-BQDR-BG6Y",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
@@ -5779,7 +5779,7 @@
     },
     {
       "code": "STARX-WEEC-D2C7-Q8E5",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1786001228670",
