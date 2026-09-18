@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T13:09:39.702Z",
+  "updatedAt": "2026-09-18T13:35:57.142Z",
   "publicFields": [
     "code",
     "status",
@@ -4503,7 +4503,7 @@
     },
     {
       "code": "STARX-GZL9-D963-3CL6",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703131720",
@@ -4954,7 +4954,7 @@
     },
     {
       "code": "STARX-RZDQ-5B9Z-5KMP",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703021597",
