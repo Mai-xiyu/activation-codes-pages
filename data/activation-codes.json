@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T07:11:28.963Z",
+  "updatedAt": "2026-09-18T07:38:29.309Z",
   "publicFields": [
     "code",
     "status",
@@ -3788,7 +3788,7 @@
     },
     {
       "code": "STARX-3HLF-L6JU-JCMM",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703136839",
