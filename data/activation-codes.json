@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-18T18:38:23.674Z",
+  "updatedAt": "2026-09-18T19:08:37.297Z",
   "publicFields": [
     "code",
     "status",
@@ -4646,7 +4646,7 @@
     },
     {
       "code": "STARX-K5RM-MQV9-J835",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703034387",
