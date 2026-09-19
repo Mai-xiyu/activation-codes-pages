@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T05:35:32.683Z",
+  "updatedAt": "2026-09-19T06:16:06.562Z",
   "publicFields": [
     "code",
     "status",
@@ -4635,7 +4635,7 @@
     },
     {
       "code": "STARX-NW34-SAPS-UGPC",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703126596",
