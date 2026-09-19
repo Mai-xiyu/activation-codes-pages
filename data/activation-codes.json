@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T22:33:52.639Z",
+  "updatedAt": "2026-09-19T23:08:07.268Z",
   "publicFields": [
     "code",
     "status",
@@ -4745,7 +4745,7 @@
     },
     {
       "code": "STARX-2P3A-YAYJ-P4VT",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703029128",
