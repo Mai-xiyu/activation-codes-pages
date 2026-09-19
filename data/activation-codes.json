@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T02:13:44.980Z",
+  "updatedAt": "2026-09-19T02:39:40.863Z",
   "publicFields": [
     "code",
     "status",
@@ -4580,7 +4580,7 @@
     },
     {
       "code": "STARX-RLC2-7K8T-J8AG",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703129160",
