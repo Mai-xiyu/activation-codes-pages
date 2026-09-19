@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T17:34:11.900Z",
+  "updatedAt": "2026-09-19T18:10:58.555Z",
   "publicFields": [
     "code",
     "status",
@@ -5262,7 +5262,7 @@
     },
     {
       "code": "STARX-XWYH-SK7L-YWKJ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1788514385606",
