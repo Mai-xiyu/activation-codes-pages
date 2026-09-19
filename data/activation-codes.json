@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T16:09:33.667Z",
+  "updatedAt": "2026-09-19T16:35:12.000Z",
   "publicFields": [
     "code",
     "status",
@@ -312,14 +312,14 @@
     },
     {
       "code": "STARX-256N-2VMB-U4WD",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718128566",
-      "expiresAt": "",
+      "expiresAt": "2026-10-09T16:12:40.625Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FMGC-8FSS-B99A",
@@ -400,14 +400,14 @@
     },
     {
       "code": "STARX-JE6Q-HRMG-WJQ8",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718125628",
-      "expiresAt": "",
+      "expiresAt": "2026-10-09T16:16:29.593Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FYHE-5J2J-HWGN",
