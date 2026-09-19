@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T23:08:07.268Z",
+  "updatedAt": "2026-09-19T23:34:21.341Z",
   "publicFields": [
     "code",
     "status",
@@ -4767,7 +4767,7 @@
     },
     {
       "code": "STARX-TY2P-DSCC-DQJS",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703028079",
