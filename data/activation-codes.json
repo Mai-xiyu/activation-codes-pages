@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T14:08:53.622Z",
+  "updatedAt": "2026-09-19T14:33:58.866Z",
   "publicFields": [
     "code",
     "status",
@@ -213,14 +213,14 @@
     },
     {
       "code": "STARX-3EP4-RZQK-XRAF",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718131870",
-      "expiresAt": "",
+      "expiresAt": "2026-10-09T14:26:14.614Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FZTE-4PPA-CKMS",
