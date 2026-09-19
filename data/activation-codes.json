@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T04:11:17.128Z",
+  "updatedAt": "2026-09-19T04:38:16.674Z",
   "publicFields": [
     "code",
     "status",
@@ -4624,7 +4624,7 @@
     },
     {
       "code": "STARX-2LUK-GUWP-FW48",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703126967",
@@ -4690,7 +4690,7 @@
     },
     {
       "code": "STARX-TV4H-WYEV-27BT",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703032278",
