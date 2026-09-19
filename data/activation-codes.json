@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T07:36:02.285Z",
+  "updatedAt": "2026-09-19T08:12:35.015Z",
   "publicFields": [
     "code",
     "status",
@@ -4657,7 +4657,7 @@
     },
     {
       "code": "STARX-2ZW8-VVX9-W9NT",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703034037",
