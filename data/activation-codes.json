@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T01:43:09.535Z",
+  "updatedAt": "2026-09-19T02:13:44.980Z",
   "publicFields": [
     "code",
     "status",
@@ -4569,7 +4569,7 @@
     },
     {
       "code": "STARX-WS3S-C4SH-GAVY",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703129526",
@@ -5185,7 +5185,7 @@
     },
     {
       "code": "STARX-6KJQ-7JAD-G5XB",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703013652",
