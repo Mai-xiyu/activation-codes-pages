@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T01:06:10.286Z",
+  "updatedAt": "2026-09-19T01:43:09.535Z",
   "publicFields": [
     "code",
     "status",
@@ -4558,7 +4558,7 @@
     },
     {
       "code": "STARX-3BWQ-7L2M-2VLH",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703129892",
