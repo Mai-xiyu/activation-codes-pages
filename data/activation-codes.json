@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-19T14:33:58.866Z",
+  "updatedAt": "2026-09-19T15:08:29.290Z",
   "publicFields": [
     "code",
     "status",
@@ -4723,7 +4723,7 @@
     },
     {
       "code": "STARX-XYK5-4XW7-MQ9B",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703030893",
@@ -5240,7 +5240,7 @@
     },
     {
       "code": "STARX-ASHE-DAYS-ESAQ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1788514385606",
