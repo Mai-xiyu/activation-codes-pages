@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-20T13:33:55.114Z",
+  "updatedAt": "2026-09-20T14:08:33.417Z",
   "publicFields": [
     "code",
     "status",
@@ -1137,14 +1137,14 @@
     },
     {
       "code": "STARX-96CC-W32X-WWHN",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718097270",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T13:59:24.122Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-L44A-5NZH-2VW6",
@@ -1475,17 +1475,6 @@
       "maxUses": 1,
       "remainingUses": 1,
       "usedCount": 0
-    },
-    {
-      "code": "STARX-AJ9A-ZC9X-P5UN",
-      "status": "used",
-      "plan": "20 天",
-      "label": "已绑定设备",
-      "issuedAt": "1789718085921",
-      "expiresAt": "2026-10-09T10:02:07.897Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
     },
     {
       "code": "STARX-KXV6-QZT4-UBSS",
