@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-20T10:34:23.057Z",
+  "updatedAt": "2026-09-20T11:08:10.924Z",
   "publicFields": [
     "code",
     "status",
@@ -5207,7 +5207,7 @@
     },
     {
       "code": "STARX-H3D6-5RHK-HAXV",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1788514385606",
