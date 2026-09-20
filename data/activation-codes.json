@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-20T23:08:18.307Z",
+  "updatedAt": "2026-09-20T23:34:05.371Z",
   "publicFields": [
     "code",
     "status",
@@ -5053,7 +5053,7 @@
     },
     {
       "code": "STARX-C9MJ-3NMF-JBSV",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703015099",
