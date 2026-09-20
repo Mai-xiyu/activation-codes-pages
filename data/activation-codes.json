@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-20T14:08:33.417Z",
+  "updatedAt": "2026-09-20T14:33:59.892Z",
   "publicFields": [
     "code",
     "status",
@@ -730,14 +730,14 @@
     },
     {
       "code": "STARX-DRVE-N7WX-D38T",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718113875",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T14:23:58.895Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VHG7-NCNT-VQ9T",
@@ -4855,7 +4855,7 @@
     },
     {
       "code": "STARX-2N2R-3JKN-KF8J",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703023046",
@@ -4998,7 +4998,7 @@
     },
     {
       "code": "STARX-SSAZ-GWF8-9CNE",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703017286",
