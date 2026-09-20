@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-20T05:35:24.983Z",
+  "updatedAt": "2026-09-20T06:16:00.600Z",
   "publicFields": [
     "code",
     "status",
@@ -499,14 +499,14 @@
     },
     {
       "code": "STARX-S64J-4E9Y-TUG4",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718121589",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T05:46:08.076Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-V35J-CRYU-DAXZ",
@@ -565,14 +565,14 @@
     },
     {
       "code": "STARX-Z4W6-GV3X-CGSM",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718119386",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T06:04:54.862Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PYXR-CB8A-S48A",
@@ -928,14 +928,14 @@
     },
     {
       "code": "STARX-27LC-PKRW-NUKY",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718103826",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T06:07:30.518Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-QN5A-82UU-L37L",
@@ -2259,14 +2259,14 @@
     },
     {
       "code": "STARX-TTAM-CWTU-C2H6",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718055747",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T06:09:04.572Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Y28K-85Y3-UDYU",
@@ -4800,7 +4800,7 @@
     },
     {
       "code": "STARX-37R2-WSLL-HEMM",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703026658",
