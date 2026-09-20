@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-20T07:10:23.163Z",
+  "updatedAt": "2026-09-20T07:36:32.934Z",
   "publicFields": [
     "code",
     "status",
@@ -532,14 +532,14 @@
     },
     {
       "code": "STARX-ZD4D-CCM2-PNCK",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718120487",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T07:15:23.609Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-JB3C-Z24S-ST35",
@@ -576,14 +576,14 @@
     },
     {
       "code": "STARX-PYXR-CB8A-S48A",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718119019",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T07:26:04.107Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KKXW-UWM8-SB6R",
@@ -4833,7 +4833,7 @@
     },
     {
       "code": "STARX-TCCX-8E2R-W43C",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703024850",
