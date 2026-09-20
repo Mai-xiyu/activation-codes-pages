@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-20T12:40:36.253Z",
+  "updatedAt": "2026-09-20T13:08:33.555Z",
   "publicFields": [
     "code",
     "status",
@@ -774,14 +774,14 @@
     },
     {
       "code": "STARX-TFGX-QPUS-YKR5",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718108655",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T13:04:02.784Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VPUX-LLLA-9MTN",
@@ -4899,7 +4899,7 @@
     },
     {
       "code": "STARX-2ECZ-6AQG-GTZ6",
-      "status": "used",
+      "status": "expired",
       "plan": "7 天",
       "label": "已绑定设备",
       "issuedAt": "1788703021958",
