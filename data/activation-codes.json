@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-21T17:34:34.368Z",
+  "updatedAt": "2026-09-21T18:12:13.850Z",
   "publicFields": [
     "code",
     "status",
@@ -1654,14 +1654,14 @@
     },
     {
       "code": "STARX-VCEP-HNWX-88QT",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718075091",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T17:58:26.178Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-789J-MPU7-C56E",
@@ -4794,17 +4794,6 @@
       "label": "已绑定设备",
       "issuedAt": "1788703022319",
       "expiresAt": "2026-09-20T16:58:52.311Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-2ECZ-6AQG-GTZ6",
-      "status": "expired",
-      "plan": "7 天",
-      "label": "已绑定设备",
-      "issuedAt": "1788703021958",
-      "expiresAt": "2026-09-20T12:50:24.673Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
