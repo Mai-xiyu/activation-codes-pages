@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-21T03:13:53.710Z",
+  "updatedAt": "2026-09-21T03:42:53.128Z",
   "publicFields": [
     "code",
     "status",
@@ -1037,17 +1037,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-64KK-6TW3-8SVA",
-      "status": "used",
-      "plan": "20 天",
-      "label": "已绑定设备",
-      "issuedAt": "1789718100374",
-      "expiresAt": "2026-10-11T02:32:27.681Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-PPWW-XJ2U-C9JB",
       "status": "used",
       "plan": "20 天",
@@ -1060,14 +1049,14 @@
     },
     {
       "code": "STARX-2Q8R-GUP9-XEQW",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718099685",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T03:42:35.680Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FHHZ-NXSJ-P7U3",
@@ -1082,14 +1071,14 @@
     },
     {
       "code": "STARX-GTYZ-EA7J-MJ8Y",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718098995",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T03:24:58.097Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-BZ6J-5ULK-F6ZL",
@@ -1104,14 +1093,14 @@
     },
     {
       "code": "STARX-29YG-G23M-PZFS",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718098305",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T03:27:57.262Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RN8P-XYYB-M65A",
@@ -1324,14 +1313,14 @@
     },
     {
       "code": "STARX-HMG4-FTMF-EQRU",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718091072",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T03:15:48.382Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VTBB-F6JL-AQ6M",
