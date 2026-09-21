@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-21T09:41:39.185Z",
+  "updatedAt": "2026-09-21T10:10:42.801Z",
   "publicFields": [
     "code",
     "status",
@@ -1335,25 +1335,25 @@
     },
     {
       "code": "STARX-HM37-NLCF-88TT",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718090337",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T09:46:40.675Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-R3X9-DBQU-NGAA",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718089963",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T10:05:48.266Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-U3H9-QMNN-GUYF",
