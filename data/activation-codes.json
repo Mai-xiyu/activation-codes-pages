@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-21T04:13:08.395Z",
+  "updatedAt": "2026-09-21T04:42:28.096Z",
   "publicFields": [
     "code",
     "status",
@@ -1148,14 +1148,14 @@
     },
     {
       "code": "STARX-QTDP-NW76-TXQ3",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718096581",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T04:37:01.882Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KD9V-KMUB-RHJL",
