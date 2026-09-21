@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-21T12:42:46.550Z",
+  "updatedAt": "2026-09-21T13:10:11.444Z",
   "publicFields": [
     "code",
     "status",
@@ -1467,14 +1467,14 @@
     },
     {
       "code": "STARX-KXV6-QZT4-UBSS",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718085554",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T12:50:06.190Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FQ47-957Q-GA83",
@@ -2215,14 +2215,14 @@
     },
     {
       "code": "STARX-4ZSF-YJQ7-395F",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718056440",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T13:10:03.965Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-JN6Q-LG7Y-76B3",
