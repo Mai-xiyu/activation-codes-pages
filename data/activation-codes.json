@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-21T05:38:32.293Z",
+  "updatedAt": "2026-09-21T06:23:21.867Z",
   "publicFields": [
     "code",
     "status",
@@ -1181,14 +1181,14 @@
     },
     {
       "code": "STARX-KMKJ-UK98-G9ZA",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718095480",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T05:57:13.495Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-F5PV-SXE6-U9W3",
@@ -1214,14 +1214,14 @@
     },
     {
       "code": "STARX-5HTR-JTCL-M4QC",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718094379",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T05:59:48.548Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4HEQ-P55C-L5NF",
@@ -1236,14 +1236,14 @@
     },
     {
       "code": "STARX-VY2T-C4PQ-3YAC",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718093644",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T05:57:02.721Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-V38S-5UYJ-52HB",
@@ -2204,14 +2204,14 @@
     },
     {
       "code": "STARX-ZN3A-ZWGJ-WDYY",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718056806",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T06:21:33.752Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4ZSF-YJQ7-395F",
