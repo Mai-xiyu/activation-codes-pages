@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-21T08:45:06.624Z",
+  "updatedAt": "2026-09-21T09:14:59.724Z",
   "publicFields": [
     "code",
     "status",
@@ -1291,14 +1291,14 @@
     },
     {
       "code": "STARX-L8DR-5VF6-DDWY",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718091806",
-      "expiresAt": "",
+      "expiresAt": "2026-10-11T08:57:12.977Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EMW9-RX75-T6HN",
