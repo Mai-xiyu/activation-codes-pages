@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-22T05:38:03.250Z",
+  "updatedAt": "2026-09-22T06:17:42.125Z",
   "publicFields": [
     "code",
     "status",
@@ -1885,25 +1885,25 @@
     },
     {
       "code": "STARX-W284-8F8N-NV5S",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718066678",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T05:51:10.746Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FTQ6-RD34-QNAP",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718066312",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T06:04:13.353Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RGRJ-WUAV-97N4",
@@ -1918,14 +1918,14 @@
     },
     {
       "code": "STARX-VSHA-HRLH-3QF2",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718065581",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T06:05:46.590Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-25VC-6GA5-2VQN",
@@ -2160,14 +2160,14 @@
     },
     {
       "code": "STARX-NMWM-PRSE-QS52",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718057538",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T06:12:48.338Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5QRK-8X22-F2Y7",
@@ -5003,17 +5003,6 @@
       "label": "已绑定设备",
       "issuedAt": "1788514385606",
       "expiresAt": "2026-09-19T15:00:25.501Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-ETAB-UZNG-JWSL",
-      "status": "expired",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1788514385606",
-      "expiresAt": "2026-09-20T10:04:22.683Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
