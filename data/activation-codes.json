@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-22T18:39:54.627Z",
+  "updatedAt": "2026-09-22T19:08:59.478Z",
   "publicFields": [
     "code",
     "status",
@@ -37,25 +37,25 @@
     },
     {
       "code": "STARX-SUZX-MEXE-3VUY",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089311078",
-      "expiresAt": "",
+      "expiresAt": "2026-10-07T18:45:14.910Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ELCU-T7V5-QLRM",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089310657",
-      "expiresAt": "",
+      "expiresAt": "2026-10-07T18:59:35.234Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2BHF-4N5N-5TCT",
