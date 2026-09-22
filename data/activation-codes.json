@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-22T15:10:29.824Z",
+  "updatedAt": "2026-09-22T15:36:20.156Z",
   "publicFields": [
     "code",
     "status",
@@ -15,14 +15,14 @@
   "codes": [
     {
       "code": "STARX-FRG7-CP9M-H7EP",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089311917",
-      "expiresAt": "",
+      "expiresAt": "2026-10-07T15:13:36.962Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-E38C-BD6G-5AXE",
