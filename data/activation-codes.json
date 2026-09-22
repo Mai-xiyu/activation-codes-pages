@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-22T10:37:34.516Z",
+  "updatedAt": "2026-09-22T11:09:49.891Z",
   "publicFields": [
     "code",
     "status",
@@ -2006,25 +2006,25 @@
     },
     {
       "code": "STARX-LCU8-X2JS-XR5N",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718062657",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T10:40:26.066Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-56V5-YXSG-4HDX",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718062291",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T11:06:27.453Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-82JT-EGPC-WJWA",
@@ -2149,14 +2149,14 @@
     },
     {
       "code": "STARX-Y8E7-Z5GE-CMPU",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1789718057903",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T11:06:51.455Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NMWM-PRSE-QS52",
@@ -4904,17 +4904,6 @@
       "label": "已绑定设备",
       "issuedAt": "1788703015099",
       "expiresAt": "2026-09-20T23:27:40.921Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-UKB8-M9P7-FY4L",
-      "status": "expired",
-      "plan": "7 天",
-      "label": "已绑定设备",
-      "issuedAt": "1788703014733",
-      "expiresAt": "2026-09-20T15:45:43.268Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
