@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-23T10:10:48.143Z",
+  "updatedAt": "2026-09-23T10:38:04.230Z",
   "publicFields": [
     "code",
     "status",
@@ -290,14 +290,14 @@
     },
     {
       "code": "STARX-SV5T-A8ES-9TFC",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089300992",
-      "expiresAt": "",
+      "expiresAt": "2026-10-08T10:18:27.864Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AB67-EE43-WAAV",
@@ -356,14 +356,14 @@
     },
     {
       "code": "STARX-V96A-VSBD-UV78",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089298471",
-      "expiresAt": "",
+      "expiresAt": "2026-10-08T10:31:26.292Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FSM8-7H5M-EX78",
