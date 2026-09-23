@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-23T07:40:07.745Z",
+  "updatedAt": "2026-09-23T08:14:24.071Z",
   "publicFields": [
     "code",
     "status",
@@ -246,14 +246,14 @@
     },
     {
       "code": "STARX-Q7U4-KR58-FE9L",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089302670",
-      "expiresAt": "",
+      "expiresAt": "2026-10-08T07:49:50.983Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-N2SU-FCYW-SJLW",
@@ -1357,14 +1357,14 @@
     },
     {
       "code": "STARX-HXVQ-GQGR-JFXW",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088695215",
-      "expiresAt": "",
+      "expiresAt": "2026-10-08T07:45:20.627Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-JAPL-SSKH-6D2K",
