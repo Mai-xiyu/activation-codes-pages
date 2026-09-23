@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-23T05:37:49.874Z",
+  "updatedAt": "2026-09-23T06:18:11.634Z",
   "publicFields": [
     "code",
     "status",
@@ -180,14 +180,14 @@
     },
     {
       "code": "STARX-BHAT-DED7-ATPX",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089305610",
-      "expiresAt": "",
+      "expiresAt": "2026-10-08T06:07:50.946Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-J4FG-J3BR-498Z",
