@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-24T04:12:12.787Z",
+  "updatedAt": "2026-09-24T04:39:48.376Z",
   "publicFields": [
     "code",
     "status",
@@ -191,14 +191,14 @@
     },
     {
       "code": "STARX-SNEK-8NBE-8GU5",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790162191862",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T04:28:00.560Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5ZFQ-TBHR-9V6D",
