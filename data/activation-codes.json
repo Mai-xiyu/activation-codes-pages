@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-24T21:34:38.985Z",
+  "updatedAt": "2026-09-24T22:09:34.548Z",
   "publicFields": [
     "code",
     "status",
@@ -422,14 +422,14 @@
     },
     {
       "code": "STARX-33X3-MS43-Z5GT",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790162184353",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T21:40:53.414Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-44W7-WNSE-9V5Q",
