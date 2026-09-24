@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-24T01:08:30.230Z",
+  "updatedAt": "2026-09-24T01:46:50.023Z",
   "publicFields": [
     "code",
     "status",
@@ -103,14 +103,14 @@
     },
     {
       "code": "STARX-TL3A-2H76-VJK9",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790162194756",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T01:32:48.575Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-JCW4-F8LS-9QZY",
