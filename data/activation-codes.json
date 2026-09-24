@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-24T11:36:40.304Z",
+  "updatedAt": "2026-09-24T12:15:49.252Z",
   "publicFields": [
     "code",
     "status",
@@ -939,14 +939,14 @@
     },
     {
       "code": "STARX-ZBCU-H75B-DFCF",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089297210",
-      "expiresAt": "",
+      "expiresAt": "2026-10-09T12:04:24.855Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-L3D9-QVSR-MM29",
