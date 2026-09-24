@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-24T09:38:20.378Z",
+  "updatedAt": "2026-09-24T10:10:57.006Z",
   "publicFields": [
     "code",
     "status",
@@ -312,14 +312,14 @@
     },
     {
       "code": "STARX-87A7-D2BA-JCGS",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790162187894",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T09:51:52.820Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-86KK-F2YG-X5GS",
@@ -444,14 +444,14 @@
     },
     {
       "code": "STARX-8HU5-MFNN-ZCQF",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790162183628",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T10:03:43.025Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MWTS-NHSZ-34LZ",
