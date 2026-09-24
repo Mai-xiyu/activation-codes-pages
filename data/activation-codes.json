@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-24T04:39:48.376Z",
+  "updatedAt": "2026-09-24T05:10:17.218Z",
   "publicFields": [
     "code",
     "status",
@@ -202,14 +202,14 @@
     },
     {
       "code": "STARX-5ZFQ-TBHR-9V6D",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790162191495",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T04:47:20.563Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-A3EB-AECE-DXQD",
