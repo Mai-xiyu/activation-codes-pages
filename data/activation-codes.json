@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-24T18:13:01.907Z",
+  "updatedAt": "2026-09-24T18:39:57.816Z",
   "publicFields": [
     "code",
     "status",
@@ -400,14 +400,14 @@
     },
     {
       "code": "STARX-2JY8-C5RJ-MZGL",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790162185067",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T18:15:51.809Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EDRM-5A59-UGCN",
@@ -510,14 +510,14 @@
     },
     {
       "code": "STARX-TLJC-699B-Z3WR",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790162181505",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T18:21:06.230Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-58DF-326J-H6DP",
