@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-25T14:11:40.077Z",
+  "updatedAt": "2026-09-25T14:38:49.153Z",
   "publicFields": [
     "code",
     "status",
@@ -851,14 +851,14 @@
     },
     {
       "code": "STARX-AB67-EE43-WAAV",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089300574",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T14:38:43.845Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-7WGT-FPZH-5NW6",
