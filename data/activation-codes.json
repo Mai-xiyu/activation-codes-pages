@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-25T10:10:49.147Z",
+  "updatedAt": "2026-09-25T10:38:04.270Z",
   "publicFields": [
     "code",
     "status",
@@ -532,14 +532,14 @@
     },
     {
       "code": "STARX-2UEZ-Y8J7-RBCW",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790162180801",
-      "expiresAt": "",
+      "expiresAt": "2026-10-25T10:12:01.469Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GZYC-GXV8-C4QT",
