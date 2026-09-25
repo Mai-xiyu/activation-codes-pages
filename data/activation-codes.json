@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-25T19:08:14.190Z",
+  "updatedAt": "2026-09-25T19:34:22.558Z",
   "publicFields": [
     "code",
     "status",
@@ -960,39 +960,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-YP7V-6PJ3-P58P",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1790089296369",
-      "expiresAt": "2026-10-10T17:28:47.248Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-4HR3-HAJK-LACC",
-      "status": "active",
-      "plan": "15 天",
-      "label": "未使用",
-      "issuedAt": "1790089295949",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
-      "code": "STARX-64WD-T6T6-FCRG",
-      "status": "active",
-      "plan": "15 天",
-      "label": "未使用",
-      "issuedAt": "1790089295530",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
       "code": "STARX-GQGY-PEQQ-7K4U",
       "status": "active",
       "plan": "15 天",
@@ -1071,14 +1038,14 @@
     },
     {
       "code": "STARX-3ZVC-W2UN-4TCA",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089292171",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T19:32:08.747Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-X4CY-EDYC-VBAP",
@@ -2028,14 +1995,14 @@
     },
     {
       "code": "STARX-XUVG-PTX6-665U",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088690618",
-      "expiresAt": "",
+      "expiresAt": "2026-10-10T19:14:26.711Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XSK8-WGHU-D9QT",
