@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-25T07:40:16.392Z",
+  "updatedAt": "2026-09-25T08:14:32.351Z",
   "publicFields": [
     "code",
     "status",
@@ -543,14 +543,14 @@
     },
     {
       "code": "STARX-GZYC-GXV8-C4QT",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790162180432",
-      "expiresAt": "",
+      "expiresAt": "2026-10-25T08:08:31.356Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TC8H-4TLJ-P345",
