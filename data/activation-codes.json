@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-27T06:49:57.514Z",
+  "updatedAt": "2026-09-27T07:11:31.992Z",
   "publicFields": [
     "code",
     "status",
@@ -1159,14 +1159,14 @@
     },
     {
       "code": "STARX-DP3R-W2PK-ARUT",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089287119",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T07:01:04.434Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-E7W8-GNKM-YYVU",
