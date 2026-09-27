@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-27T12:14:53.360Z",
+  "updatedAt": "2026-09-27T12:43:39.796Z",
   "publicFields": [
     "code",
     "status",
@@ -1192,14 +1192,14 @@
     },
     {
       "code": "STARX-KRVB-QGSD-WL5D",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088729006",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T12:26:17.834Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Z9M7-3JA8-TMRX",
