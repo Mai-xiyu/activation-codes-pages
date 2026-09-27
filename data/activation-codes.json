@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-27T02:26:57.886Z",
+  "updatedAt": "2026-09-27T02:49:00.662Z",
   "publicFields": [
     "code",
     "status",
@@ -1126,14 +1126,14 @@
     },
     {
       "code": "STARX-87SE-6VML-C55H",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790089288396",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T02:32:24.992Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-UJ4N-WBSD-UXQY",
