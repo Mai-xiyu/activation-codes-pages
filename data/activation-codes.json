@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-27T17:08:31.169Z",
+  "updatedAt": "2026-09-27T17:34:33.004Z",
   "publicFields": [
     "code",
     "status",
@@ -1236,14 +1236,14 @@
     },
     {
       "code": "STARX-GLV3-U3ZY-RGHJ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088727335",
-      "expiresAt": "",
+      "expiresAt": "2026-10-12T17:30:55.738Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5E6Y-S6TH-M4UM",
