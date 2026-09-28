@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-28T09:48:02.862Z",
+  "updatedAt": "2026-09-28T10:11:41.331Z",
   "publicFields": [
     "code",
     "status",
@@ -1632,25 +1632,25 @@
     },
     {
       "code": "STARX-BWAV-Q94Q-4XR6",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088707117",
-      "expiresAt": "",
+      "expiresAt": "2026-10-13T10:00:05.410Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6HDB-MNRV-ZKQS",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088706698",
-      "expiresAt": "",
+      "expiresAt": "2026-10-13T10:05:34.738Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-T93J-NJJ3-ZVDS",
