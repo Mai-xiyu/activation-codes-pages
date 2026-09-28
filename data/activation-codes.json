@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-28T10:11:41.331Z",
+  "updatedAt": "2026-09-28T10:39:50.160Z",
   "publicFields": [
     "code",
     "status",
@@ -1676,14 +1676,14 @@
     },
     {
       "code": "STARX-EL5B-THQE-VJRL",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088705022",
-      "expiresAt": "",
+      "expiresAt": "2026-10-13T10:27:16.893Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-B9FU-EAAY-LY2L",
