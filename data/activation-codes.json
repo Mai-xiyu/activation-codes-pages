@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-28T12:18:08.256Z",
+  "updatedAt": "2026-09-28T12:52:07.693Z",
   "publicFields": [
     "code",
     "status",
@@ -1698,14 +1698,14 @@
     },
     {
       "code": "STARX-A22W-AFXF-YP4N",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088701071",
-      "expiresAt": "",
+      "expiresAt": "2026-10-13T12:38:03.949Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6ZHK-SFP9-A8QK",
