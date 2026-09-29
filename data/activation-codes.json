@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-29T08:15:10.172Z",
+  "updatedAt": "2026-09-29T08:45:16.316Z",
   "publicFields": [
     "code",
     "status",
@@ -4558,7 +4558,7 @@
     },
     {
       "code": "STARX-K47C-8BVP-AUV8",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368994973",
