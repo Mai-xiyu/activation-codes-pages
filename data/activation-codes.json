@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-29T15:12:21.906Z",
+  "updatedAt": "2026-09-29T15:39:48.619Z",
   "publicFields": [
     "code",
     "status",
@@ -4701,7 +4701,7 @@
     },
     {
       "code": "STARX-QC9J-N755-V6UP",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368988505",
