@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-29T08:45:16.316Z",
+  "updatedAt": "2026-09-29T09:12:32.013Z",
   "publicFields": [
     "code",
     "status",
@@ -4580,7 +4580,7 @@
     },
     {
       "code": "STARX-VUTW-ADGU-WQR5",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368994252",
@@ -4657,7 +4657,7 @@
     },
     {
       "code": "STARX-QLJU-RQS4-4BH9",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368990312",
