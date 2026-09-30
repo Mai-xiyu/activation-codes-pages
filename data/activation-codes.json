@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-09-30T14:41:34.973Z",
+  "updatedAt": "2026-09-30T15:12:15.061Z",
   "publicFields": [
     "code",
     "status",
@@ -5240,7 +5240,7 @@
     },
     {
       "code": "STARX-83QZ-QRDF-8P76",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368961607",
