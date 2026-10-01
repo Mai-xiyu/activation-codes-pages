@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T16:11:27.030Z",
+  "updatedAt": "2026-10-01T16:39:05.761Z",
   "publicFields": [
     "code",
     "status",
@@ -301,14 +301,14 @@
     },
     {
       "code": "STARX-8WZZ-5XXJ-BEMY",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805790",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T16:16:17.325Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-V7ES-2TWE-SEEA",
