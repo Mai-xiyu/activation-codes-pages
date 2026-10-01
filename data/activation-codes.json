@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T07:46:20.845Z",
+  "updatedAt": "2026-10-01T08:15:20.958Z",
   "publicFields": [
     "code",
     "status",
@@ -59,14 +59,14 @@
     },
     {
       "code": "STARX-G7KX-S2DN-3RWF",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805846",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T08:03:13.658Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XGDD-PS8R-C4F6",
@@ -7814,7 +7814,7 @@
     },
     {
       "code": "STARX-VSSK-LBG4-ARRT",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368950154",
@@ -7902,7 +7902,7 @@
     },
     {
       "code": "STARX-PH95-SWYP-VLFE",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368947279",
