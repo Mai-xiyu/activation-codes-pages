@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T10:39:16.453Z",
+  "updatedAt": "2026-10-01T11:09:38.640Z",
   "publicFields": [
     "code",
     "status",
@@ -7869,7 +7869,7 @@
     },
     {
       "code": "STARX-FB7C-HHAL-687Y",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368947645",
@@ -7891,7 +7891,7 @@
     },
     {
       "code": "STARX-GP5J-P2Z3-R8KY",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368946919",
@@ -7935,7 +7935,7 @@
     },
     {
       "code": "STARX-QXF5-HE7T-BC9W",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368944401",
