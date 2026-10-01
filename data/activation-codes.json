@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T12:16:59.953Z",
+  "updatedAt": "2026-10-01T12:50:28.585Z",
   "publicFields": [
     "code",
     "status",
@@ -7880,7 +7880,7 @@
     },
     {
       "code": "STARX-MBCY-SJJS-9CF2",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368945841",
@@ -8375,7 +8375,7 @@
     },
     {
       "code": "STARX-JPLZ-L5D9-KGFV",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368906021",
