@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T13:13:43.878Z",
+  "updatedAt": "2026-10-01T13:40:59.523Z",
   "publicFields": [
     "code",
     "status",
@@ -246,14 +246,14 @@
     },
     {
       "code": "STARX-9B2W-ESHD-LSTM",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805801",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T13:37:56.391Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-H6XY-FRT6-98NK",
@@ -6064,17 +6064,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-QVEG-5V8L-UMNN",
-      "status": "used",
-      "plan": "20 天",
-      "label": "已绑定设备",
-      "issuedAt": "1789718077172",
-      "expiresAt": "2026-10-11T14:40:31.658Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-QPS2-T6WJ-MRG6",
       "status": "used",
       "plan": "20 天",
@@ -7935,7 +7924,7 @@
     },
     {
       "code": "STARX-YXLM-FTDT-M2N5",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368943682",
@@ -7946,7 +7935,7 @@
     },
     {
       "code": "STARX-DUMT-LCDE-QF94",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368943328",
@@ -7979,7 +7968,7 @@
     },
     {
       "code": "STARX-QQ63-F3ME-8YAU",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368941889",
