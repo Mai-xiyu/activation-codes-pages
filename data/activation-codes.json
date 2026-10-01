@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T09:41:49.067Z",
+  "updatedAt": "2026-10-01T10:11:13.680Z",
   "publicFields": [
     "code",
     "status",
@@ -103,14 +103,14 @@
     },
     {
       "code": "STARX-3AAQ-YUK2-UX3W",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805838",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T09:46:37.143Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ZXLB-JBF5-HKDL",
@@ -125,14 +125,14 @@
     },
     {
       "code": "STARX-FQ4Y-2MG5-EBDS",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805833",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T09:51:46.607Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EANN-WLJN-DMSZ",
@@ -169,14 +169,14 @@
     },
     {
       "code": "STARX-62HH-GJTH-UWK9",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805818",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T09:53:42.779Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RXMA-5W6S-68XM",
@@ -202,14 +202,14 @@
     },
     {
       "code": "STARX-7STE-5WU7-Y498",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805812",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T09:43:18.369Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8RED-FAKU-HVRC",
