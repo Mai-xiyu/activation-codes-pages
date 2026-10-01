@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T23:09:14.785Z",
+  "updatedAt": "2026-10-01T23:36:21.191Z",
   "publicFields": [
     "code",
     "status",
@@ -7935,7 +7935,7 @@
     },
     {
       "code": "STARX-HWK4-8LXS-FP77",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368920233",
