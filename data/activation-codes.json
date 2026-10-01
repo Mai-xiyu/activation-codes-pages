@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T03:17:07.895Z",
+  "updatedAt": "2026-10-01T03:47:13.840Z",
   "publicFields": [
     "code",
     "status",
@@ -1918,14 +1918,14 @@
     },
     {
       "code": "STARX-RRPG-ZA9N-Y2JH",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088692287",
-      "expiresAt": "",
+      "expiresAt": "2026-10-16T03:39:53.200Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-34V6-UYDV-PLAT",
@@ -5405,7 +5405,7 @@
     },
     {
       "code": "STARX-M6PV-NZQT-48GF",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368955350",
@@ -5438,7 +5438,7 @@
     },
     {
       "code": "STARX-584C-W8H2-RHAH",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368954285",
