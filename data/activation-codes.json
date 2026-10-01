@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T06:56:30.481Z",
+  "updatedAt": "2026-10-01T07:25:01.402Z",
   "publicFields": [
     "code",
     "status",
@@ -25,37 +25,26 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-B5XM-VV7Y-WDLQ",
-      "status": "active",
-      "plan": "77 天",
-      "label": "未使用",
-      "issuedAt": "1790834805856",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
       "code": "STARX-T2FX-22HY-D43W",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805854",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T06:59:57.381Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-9UQU-A85L-C3JT",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805852",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T07:17:20.132Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-46D5-FDD2-W4NC",
