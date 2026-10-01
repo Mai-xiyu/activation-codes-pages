@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T04:42:54.379Z",
+  "updatedAt": "2026-10-01T05:11:06.257Z",
   "publicFields": [
     "code",
     "status",
@@ -5482,7 +5482,7 @@
     },
     {
       "code": "STARX-MK5C-9SNT-CQZU",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368952480",
@@ -5614,7 +5614,7 @@
     },
     {
       "code": "STARX-Y5WW-W8AL-AZEY",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368948005",
