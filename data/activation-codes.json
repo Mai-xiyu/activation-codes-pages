@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T18:14:30.624Z",
+  "updatedAt": "2026-10-01T18:43:47.328Z",
   "publicFields": [
     "code",
     "status",
@@ -367,14 +367,14 @@
     },
     {
       "code": "STARX-39A7-CSAV-46Q6",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805773",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T18:32:47.833Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WGKN-ZTVN-PFT9",
@@ -3859,17 +3859,6 @@
       "label": "已绑定设备",
       "issuedAt": "1790088708374",
       "expiresAt": "2026-10-13T08:06:47.707Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-TZMA-HQG7-4JNA",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1790088707954",
-      "expiresAt": "2026-10-13T05:00:53.992Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
