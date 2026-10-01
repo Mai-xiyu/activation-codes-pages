@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T20:40:23.132Z",
+  "updatedAt": "2026-10-01T21:09:49.938Z",
   "publicFields": [
     "code",
     "status",
@@ -7913,7 +7913,7 @@
     },
     {
       "code": "STARX-XMC8-2BZT-88KR",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368921299",
