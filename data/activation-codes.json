@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T22:37:34.108Z",
+  "updatedAt": "2026-10-01T23:09:14.785Z",
   "publicFields": [
     "code",
     "status",
@@ -7924,7 +7924,7 @@
     },
     {
       "code": "STARX-UYVX-78M9-3TTT",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368920943",
