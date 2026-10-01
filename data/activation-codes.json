@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T14:12:10.108Z",
+  "updatedAt": "2026-10-01T14:41:01.543Z",
   "publicFields": [
     "code",
     "status",
@@ -7935,7 +7935,7 @@
     },
     {
       "code": "STARX-J6AJ-89K4-UTVK",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368942975",
@@ -8078,7 +8078,7 @@
     },
     {
       "code": "STARX-VEPW-AP5F-ZAYK",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368918098",
