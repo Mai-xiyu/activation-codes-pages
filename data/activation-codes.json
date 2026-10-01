@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-01T11:38:30.571Z",
+  "updatedAt": "2026-10-01T12:16:59.953Z",
   "publicFields": [
     "code",
     "status",
@@ -180,25 +180,25 @@
     },
     {
       "code": "STARX-RXMA-5W6S-68XM",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805816",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T11:39:12.730Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-X5H5-G7DF-VJL2",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805813",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T11:43:22.669Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-7STE-5WU7-Y498",
@@ -311,17 +311,6 @@
       "usedCount": 0
     },
     {
-      "code": "STARX-48RR-2X54-CG9T",
-      "status": "active",
-      "plan": "77 天",
-      "label": "未使用",
-      "issuedAt": "1790834805787",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
       "code": "STARX-V7ES-2TWE-SEEA",
       "status": "active",
       "plan": "77 天",
@@ -334,14 +323,14 @@
     },
     {
       "code": "STARX-BKU8-58YM-L3ZK",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805782",
-      "expiresAt": "",
+      "expiresAt": "2026-12-17T12:16:24.576Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-M7C7-3X4N-EC3Z",
@@ -6939,17 +6928,6 @@
       "label": "已绑定设备",
       "issuedAt": "1789368988870",
       "expiresAt": "2026-09-29T07:32:17.269Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-QC9J-N755-V6UP",
-      "status": "expired",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1789368988505",
-      "expiresAt": "2026-09-29T15:22:34.280Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
