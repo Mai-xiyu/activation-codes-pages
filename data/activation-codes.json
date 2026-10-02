@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T02:18:52.157Z",
+  "updatedAt": "2026-10-02T02:46:21.749Z",
   "publicFields": [
     "code",
     "status",
@@ -8067,7 +8067,7 @@
     },
     {
       "code": "STARX-2XJJ-VJJD-UCEA",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368915612",
@@ -8166,7 +8166,7 @@
     },
     {
       "code": "STARX-V6LX-Y4MT-M7W9",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368910639",
