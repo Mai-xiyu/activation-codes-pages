@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T04:42:04.925Z",
+  "updatedAt": "2026-10-02T05:10:54.682Z",
   "publicFields": [
     "code",
     "status",
@@ -444,36 +444,36 @@
     },
     {
       "code": "STARX-T7EP-7E5Y-CZKZ",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805758",
-      "expiresAt": "",
+      "expiresAt": "2026-12-18T04:44:28.045Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4D5S-2QZG-557G",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805756",
-      "expiresAt": "",
+      "expiresAt": "2026-12-18T04:47:31.544Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-N3BB-FSME-URQN",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805754",
-      "expiresAt": "",
+      "expiresAt": "2026-12-18T04:44:32.850Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-YLJU-SPET-5K3D",
@@ -708,14 +708,14 @@
     },
     {
       "code": "STARX-KGDN-R3S8-LQD7",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805705",
-      "expiresAt": "",
+      "expiresAt": "2026-12-18T05:06:01.818Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ZMJM-9K7H-MASY",
@@ -3309,17 +3309,6 @@
       "label": "已绑定设备",
       "issuedAt": "1790089292171",
       "expiresAt": "2026-10-10T19:32:08.747Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-X4CY-EDYC-VBAP",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1790089291752",
-      "expiresAt": "2026-10-11T12:32:28.673Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
