@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T03:13:06.315Z",
+  "updatedAt": "2026-10-02T03:43:03.421Z",
   "publicFields": [
     "code",
     "status",
@@ -8122,7 +8122,7 @@
     },
     {
       "code": "STARX-48C7-NF73-J6AR",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368913480",
@@ -8133,7 +8133,7 @@
     },
     {
       "code": "STARX-EPL2-LVJF-SXB8",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368912415",
