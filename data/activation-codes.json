@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T16:11:07.695Z",
+  "updatedAt": "2026-10-02T16:40:44.999Z",
   "publicFields": [
     "code",
     "status",
@@ -8320,7 +8320,7 @@
     },
     {
       "code": "STARX-YKR9-9C3F-XKMC",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368902825",
@@ -8353,7 +8353,7 @@
     },
     {
       "code": "STARX-YDSV-CUHY-QSLT",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368901759",
@@ -8408,7 +8408,7 @@
     },
     {
       "code": "STARX-MD3R-NAAC-JXDM",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368899983",
@@ -8463,7 +8463,7 @@
     },
     {
       "code": "STARX-K5U4-ZNXT-2W6K",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368898206",
