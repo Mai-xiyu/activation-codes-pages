@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T11:39:15.738Z",
+  "updatedAt": "2026-10-02T12:16:32.324Z",
   "publicFields": [
     "code",
     "status",
@@ -8199,7 +8199,7 @@
     },
     {
       "code": "STARX-GFBZ-A8BT-NQA8",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368907087",
@@ -8287,7 +8287,7 @@
     },
     {
       "code": "STARX-PMDM-NGAM-2BWM",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368903890",
@@ -8430,7 +8430,7 @@
     },
     {
       "code": "STARX-ZFLF-Y25V-B6R8",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368899273",
