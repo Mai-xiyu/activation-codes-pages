@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T17:38:07.084Z",
+  "updatedAt": "2026-10-02T18:14:10.169Z",
   "publicFields": [
     "code",
     "status",
@@ -543,14 +543,14 @@
     },
     {
       "code": "STARX-TG3J-RNY5-L9ZM",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805736",
-      "expiresAt": "",
+      "expiresAt": "2026-12-18T17:41:41.321Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-UWMT-VJBX-AAFY",
@@ -576,14 +576,14 @@
     },
     {
       "code": "STARX-D9RN-VH8P-XYWF",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805728",
-      "expiresAt": "",
+      "expiresAt": "2026-12-18T18:10:34.801Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5J43-DAFX-9RF8",
