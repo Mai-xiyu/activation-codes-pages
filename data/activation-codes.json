@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T14:40:56.644Z",
+  "updatedAt": "2026-10-02T15:10:52.438Z",
   "publicFields": [
     "code",
     "status",
@@ -8243,7 +8243,7 @@
     },
     {
       "code": "STARX-Y9YD-P8MX-YHB7",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368905311",
@@ -8298,7 +8298,7 @@
     },
     {
       "code": "STARX-LWJT-5VJP-A72X",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368903535",
