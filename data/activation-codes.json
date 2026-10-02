@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T07:43:34.762Z",
+  "updatedAt": "2026-10-02T08:14:22.454Z",
   "publicFields": [
     "code",
     "status",
@@ -8155,7 +8155,7 @@
     },
     {
       "code": "STARX-KHH4-ZVW8-GWNZ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368909928",
@@ -8166,7 +8166,7 @@
     },
     {
       "code": "STARX-TQFH-XZCT-8EKR",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368909573",
@@ -8342,7 +8342,7 @@
     },
     {
       "code": "STARX-Y35L-QEUT-T6LE",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368903180",
