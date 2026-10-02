@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T01:53:03.123Z",
+  "updatedAt": "2026-10-02T02:18:52.157Z",
   "publicFields": [
     "code",
     "status",
@@ -8045,7 +8045,7 @@
     },
     {
       "code": "STARX-CL36-FJUG-BZ3E",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368916322",
@@ -8100,7 +8100,7 @@
     },
     {
       "code": "STARX-632U-JC84-7AEY",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368914546",
