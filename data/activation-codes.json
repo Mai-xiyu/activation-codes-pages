@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T06:18:12.054Z",
+  "updatedAt": "2026-10-02T06:54:37.864Z",
   "publicFields": [
     "code",
     "status",
@@ -8133,7 +8133,7 @@
     },
     {
       "code": "STARX-MLRC-PZQF-YY4P",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368910994",
