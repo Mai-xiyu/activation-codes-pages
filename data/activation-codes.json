@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T19:37:34.971Z",
+  "updatedAt": "2026-10-02T20:10:36.658Z",
   "publicFields": [
     "code",
     "status",
@@ -8397,7 +8397,7 @@
     },
     {
       "code": "STARX-RDKF-BBKA-MTG6",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368900338",
