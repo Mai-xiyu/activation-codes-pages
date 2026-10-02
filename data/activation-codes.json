@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T12:16:32.324Z",
+  "updatedAt": "2026-10-02T12:49:22.182Z",
   "publicFields": [
     "code",
     "status",
@@ -510,14 +510,14 @@
     },
     {
       "code": "STARX-K9MW-SM2E-CD4X",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805743",
-      "expiresAt": "",
+      "expiresAt": "2026-12-18T12:18:07.220Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GGTS-JYH4-YX7Q",
@@ -8342,7 +8342,7 @@
     },
     {
       "code": "STARX-V4D5-LZUE-N96N",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368902114",
