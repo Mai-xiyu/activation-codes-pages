@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T10:10:36.694Z",
+  "updatedAt": "2026-10-02T10:39:02.669Z",
   "publicFields": [
     "code",
     "status",
@@ -8166,7 +8166,7 @@
     },
     {
       "code": "STARX-FKDC-T35S-KLTS",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368908863",
@@ -8188,7 +8188,7 @@
     },
     {
       "code": "STARX-Y7Y6-SDH4-E8GJ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368908152",
@@ -8386,7 +8386,7 @@
     },
     {
       "code": "STARX-WM6H-NGYV-FB2G",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368901048",
