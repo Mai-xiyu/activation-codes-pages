@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T17:09:58.362Z",
+  "updatedAt": "2026-10-02T17:38:07.084Z",
   "publicFields": [
     "code",
     "status",
@@ -8364,7 +8364,7 @@
     },
     {
       "code": "STARX-82YE-LLUV-L6LD",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368901403",
@@ -8485,7 +8485,7 @@
     },
     {
       "code": "STARX-DUEP-PLSP-QH6Z",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368897496",
