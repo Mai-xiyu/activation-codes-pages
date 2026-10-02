@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T14:11:46.187Z",
+  "updatedAt": "2026-10-02T14:40:56.644Z",
   "publicFields": [
     "code",
     "status",
@@ -8232,7 +8232,7 @@
     },
     {
       "code": "STARX-8938-ZGPY-PW2W",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368905666",
