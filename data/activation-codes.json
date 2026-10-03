@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-03T06:19:18.732Z",
+  "updatedAt": "2026-10-03T06:59:34.778Z",
   "publicFields": [
     "code",
     "status",
@@ -675,14 +675,14 @@
     },
     {
       "code": "STARX-3HUC-7NN9-2X3Y",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805709",
-      "expiresAt": "",
+      "expiresAt": "2026-12-19T06:59:29.039Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SS5L-SNLR-5EHY",
