@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-03T10:40:49.809Z",
+  "updatedAt": "2026-10-03T11:18:27.380Z",
   "publicFields": [
     "code",
     "status",
@@ -708,14 +708,14 @@
     },
     {
       "code": "STARX-ZMJM-9K7H-MASY",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805703",
-      "expiresAt": "",
+      "expiresAt": "2026-12-19T10:45:30.755Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-UKCF-N5LL-YF4U",
