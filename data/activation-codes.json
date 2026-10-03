@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-03T09:10:57.811Z",
+  "updatedAt": "2026-10-03T09:37:53.382Z",
   "publicFields": [
     "code",
     "status",
@@ -686,14 +686,14 @@
     },
     {
       "code": "STARX-SS5L-SNLR-5EHY",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805708",
-      "expiresAt": "",
+      "expiresAt": "2026-12-19T09:33:07.138Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KGDN-R3S8-LQD7",
@@ -719,14 +719,14 @@
     },
     {
       "code": "STARX-UKCF-N5LL-YF4U",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805701",
-      "expiresAt": "",
+      "expiresAt": "2026-12-19T09:28:22.178Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-M6W9-J2N3-29B7",
