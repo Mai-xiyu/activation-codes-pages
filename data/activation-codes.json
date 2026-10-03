@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-02T23:35:40.886Z",
+  "updatedAt": "2026-10-03T00:27:35.295Z",
   "publicFields": [
     "code",
     "status",
@@ -8419,7 +8419,7 @@
     },
     {
       "code": "STARX-T9DT-XLX5-EE4B",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368899628",
@@ -8441,7 +8441,7 @@
     },
     {
       "code": "STARX-FRJY-KHNT-GL95",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368898916",
@@ -8452,7 +8452,7 @@
     },
     {
       "code": "STARX-8EXA-8N2W-8H7S",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1789368898561",
