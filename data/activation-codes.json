@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-03T05:43:45.151Z",
+  "updatedAt": "2026-10-03T06:19:18.732Z",
   "publicFields": [
     "code",
     "status",
@@ -664,14 +664,14 @@
     },
     {
       "code": "STARX-6ED8-GJGN-NB7Y",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805711",
-      "expiresAt": "",
+      "expiresAt": "2026-12-19T06:02:04.052Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-3HUC-7NN9-2X3Y",
@@ -730,14 +730,14 @@
     },
     {
       "code": "STARX-M6W9-J2N3-29B7",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805699",
-      "expiresAt": "",
+      "expiresAt": "2026-12-19T06:16:59.914Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-R79E-YL6B-22R2",
