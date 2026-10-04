@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-04T04:10:44.699Z",
+  "updatedAt": "2026-10-04T06:07:43.279Z",
   "publicFields": [
     "code",
     "status",
@@ -851,14 +851,14 @@
     },
     {
       "code": "STARX-EPRV-GTMT-7UGH",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805678",
-      "expiresAt": "",
+      "expiresAt": "2026-12-20T05:21:50.483Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-X8KC-GSFY-HLS4",
