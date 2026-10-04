@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-04T08:33:54.592Z",
+  "updatedAt": "2026-10-04T10:55:01.251Z",
   "publicFields": [
     "code",
     "status",
@@ -862,25 +862,14 @@
     },
     {
       "code": "STARX-X8KC-GSFY-HLS4",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805676",
-      "expiresAt": "",
+      "expiresAt": "2026-12-20T08:45:25.797Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
-      "code": "STARX-38HM-WTN3-G7RZ",
-      "status": "active",
-      "plan": "77 天",
-      "label": "未使用",
-      "issuedAt": "1790834805674",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6HSB-2FYC-8KXX",
@@ -906,47 +895,25 @@
     },
     {
       "code": "STARX-RSWV-5X26-8ZZ6",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805664",
-      "expiresAt": "",
+      "expiresAt": "2026-12-20T09:24:03.635Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
-      "code": "STARX-EACA-79B6-X7SW",
-      "status": "active",
-      "plan": "77 天",
-      "label": "未使用",
-      "issuedAt": "1790834805662",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NQCB-2P6V-ZN8U",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805660",
-      "expiresAt": "",
+      "expiresAt": "2026-12-20T09:26:36.126Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
-    },
-    {
-      "code": "STARX-QP9E-3GYX-NNAJ",
-      "status": "active",
-      "plan": "77 天",
-      "label": "未使用",
-      "issuedAt": "1790834805658",
-      "expiresAt": "",
-      "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-H3U9-JJUB-NV2C",
@@ -961,14 +928,14 @@
     },
     {
       "code": "STARX-73FD-EWDS-GUAM",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805652",
-      "expiresAt": "",
+      "expiresAt": "2026-12-20T10:00:02.034Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-54LT-4PFG-LVTX",
@@ -1082,14 +1049,14 @@
     },
     {
       "code": "STARX-PZN6-H92A-T69J",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803715",
-      "expiresAt": "",
+      "expiresAt": "2026-12-20T10:23:19.057Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FMZV-6ZQY-ZDQU",
@@ -3446,17 +3413,6 @@
       "usedCount": 1
     },
     {
-      "code": "STARX-WZ4X-WUAG-YN55",
-      "status": "used",
-      "plan": "15 天",
-      "label": "已绑定设备",
-      "issuedAt": "1790088727753",
-      "expiresAt": "2026-10-12T16:38:46.275Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
       "code": "STARX-GLV3-U3ZY-RGHJ",
       "status": "used",
       "plan": "15 天",
@@ -5586,17 +5542,6 @@
       "label": "已绑定设备",
       "issuedAt": "1789718094011",
       "expiresAt": "2026-10-11T07:25:35.727Z",
-      "maxUses": 1,
-      "remainingUses": 0,
-      "usedCount": 1
-    },
-    {
-      "code": "STARX-VY2T-C4PQ-3YAC",
-      "status": "used",
-      "plan": "20 天",
-      "label": "已绑定设备",
-      "issuedAt": "1789718093644",
-      "expiresAt": "2026-10-11T05:57:02.721Z",
       "maxUses": 1,
       "remainingUses": 0,
       "usedCount": 1
