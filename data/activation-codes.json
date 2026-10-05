@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-05T10:41:34.414Z",
+  "updatedAt": "2026-10-05T11:10:28.760Z",
   "publicFields": [
     "code",
     "status",
@@ -1126,14 +1126,14 @@
     },
     {
       "code": "STARX-TDJJ-XNDV-ZMZV",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803701",
-      "expiresAt": "",
+      "expiresAt": "2026-12-21T11:02:38.386Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4SVE-M7Q3-WHXU",
