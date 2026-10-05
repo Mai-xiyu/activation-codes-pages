@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-05T08:00:39.239Z",
+  "updatedAt": "2026-10-05T08:55:54.947Z",
   "publicFields": [
     "code",
     "status",
@@ -994,14 +994,14 @@
     },
     {
       "code": "STARX-7KUB-YZZK-59YG",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805638",
-      "expiresAt": "",
+      "expiresAt": "2026-12-21T08:03:56.442Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VJTJ-MQUU-Q66N",
@@ -1049,14 +1049,14 @@
     },
     {
       "code": "STARX-FMZV-6ZQY-ZDQU",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803713",
-      "expiresAt": "",
+      "expiresAt": "2026-12-21T08:09:44.385Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FHE4-UEX6-DJU3",
@@ -1115,14 +1115,14 @@
     },
     {
       "code": "STARX-BKEK-EBT9-QYN3",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803703",
-      "expiresAt": "",
+      "expiresAt": "2026-12-21T08:18:22.309Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TDJJ-XNDV-ZMZV",
