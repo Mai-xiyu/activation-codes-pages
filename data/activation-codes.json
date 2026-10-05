@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-05T05:51:23.062Z",
+  "updatedAt": "2026-10-05T06:28:36.894Z",
   "publicFields": [
     "code",
     "status",
@@ -972,14 +972,14 @@
     },
     {
       "code": "STARX-EMWY-LZJY-87P8",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834805644",
-      "expiresAt": "",
+      "expiresAt": "2026-12-21T06:06:42.639Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HFTG-FSKK-XJPL",
