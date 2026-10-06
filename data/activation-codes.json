@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-06T05:11:25.950Z",
+  "updatedAt": "2026-10-06T05:40:06.754Z",
   "publicFields": [
     "code",
     "status",
@@ -1192,14 +1192,14 @@
     },
     {
       "code": "STARX-HR7A-87ZQ-6EPF",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803690",
-      "expiresAt": "",
+      "expiresAt": "2026-12-22T05:17:30.541Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CXDL-8KJZ-Y3V9",
