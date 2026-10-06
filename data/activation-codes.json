@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-06T03:44:17.007Z",
+  "updatedAt": "2026-10-06T04:12:52.800Z",
   "publicFields": [
     "code",
     "status",
@@ -1247,14 +1247,14 @@
     },
     {
       "code": "STARX-LJAS-VP7M-RTJW",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803679",
-      "expiresAt": "",
+      "expiresAt": "2026-12-22T03:53:22.726Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Y3F8-ZJRH-F6PH",
