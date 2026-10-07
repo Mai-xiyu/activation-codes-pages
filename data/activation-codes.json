@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-07T09:42:26.766Z",
+  "updatedAt": "2026-10-07T10:11:03.714Z",
   "publicFields": [
     "code",
     "status",
@@ -1324,14 +1324,14 @@
     },
     {
       "code": "STARX-55KU-6SDL-RTDN",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803665",
-      "expiresAt": "",
+      "expiresAt": "2026-12-23T09:51:07.944Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HGGR-MP8C-8JZQ",
@@ -1456,14 +1456,14 @@
     },
     {
       "code": "STARX-8RKF-P9PZ-MAWN",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803641",
-      "expiresAt": "",
+      "expiresAt": "2026-12-23T10:03:32.878Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-BKES-M5RF-R3Q9",
