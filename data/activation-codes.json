@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-07T15:17:58.826Z",
+  "updatedAt": "2026-10-07T15:45:14.869Z",
   "publicFields": [
     "code",
     "status",
@@ -13,6 +13,17 @@
     "usedCount"
   ],
   "codes": [
+    {
+      "code": "STARX-64SM-XZT8-VT8V",
+      "status": "used",
+      "plan": "3650 天",
+      "label": "已绑定设备",
+      "issuedAt": "1791386545598",
+      "expiresAt": "2036-10-04T15:22:48.404Z",
+      "maxUses": 1,
+      "remainingUses": 0,
+      "usedCount": 1
+    },
     {
       "code": "STARX-Y8GQ-RQU7-FXTU",
       "status": "used",
@@ -1401,14 +1412,14 @@
     },
     {
       "code": "STARX-HLAT-XRXD-VNN8",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803651",
-      "expiresAt": "",
+      "expiresAt": "2026-12-23T15:40:45.729Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-TXPM-DXBB-WBVF",
