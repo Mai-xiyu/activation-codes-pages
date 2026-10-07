@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-07T11:09:38.607Z",
+  "updatedAt": "2026-10-07T11:39:19.839Z",
   "publicFields": [
     "code",
     "status",
@@ -1357,14 +1357,14 @@
     },
     {
       "code": "STARX-CUYB-LUQC-MZM5",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803658",
-      "expiresAt": "",
+      "expiresAt": "2026-12-23T11:26:41.367Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ZAKA-RC2S-LNQR",
@@ -1379,14 +1379,14 @@
     },
     {
       "code": "STARX-WPCR-BGTS-MAWD",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803654",
-      "expiresAt": "",
+      "expiresAt": "2026-12-23T11:31:06.814Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-C34V-675Y-TWD3",
