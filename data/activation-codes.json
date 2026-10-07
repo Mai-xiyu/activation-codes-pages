@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-07T08:47:01.673Z",
+  "updatedAt": "2026-10-07T09:13:03.755Z",
   "publicFields": [
     "code",
     "status",
@@ -1423,14 +1423,14 @@
     },
     {
       "code": "STARX-8KJH-U3KK-VDJ6",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803647",
-      "expiresAt": "",
+      "expiresAt": "2026-12-23T08:50:58.453Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6GXD-PAC8-N3A8",
