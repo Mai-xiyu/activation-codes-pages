@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-07T23:09:11.009Z",
+  "updatedAt": "2026-10-07T23:37:39.360Z",
   "publicFields": [
     "code",
     "status",
@@ -2831,7 +2831,7 @@
     },
     {
       "code": "STARX-2BHF-4N5N-5TCT",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089310237",
