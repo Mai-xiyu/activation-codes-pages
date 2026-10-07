@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-07T05:40:31.694Z",
+  "updatedAt": "2026-10-07T06:17:56.538Z",
   "publicFields": [
     "code",
     "status",
@@ -1280,14 +1280,14 @@
     },
     {
       "code": "STARX-VVJS-A38D-G95E",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803673",
-      "expiresAt": "",
+      "expiresAt": "2026-12-23T05:44:37.697Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-7KJ3-NG3N-C5HZ",
