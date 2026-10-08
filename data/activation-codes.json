@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T04:44:41.098Z",
+  "updatedAt": "2026-10-08T05:12:03.106Z",
   "publicFields": [
     "code",
     "status",
@@ -1731,14 +1731,14 @@
     },
     {
       "code": "STARX-XUGD-LG2G-4UXB",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803596",
-      "expiresAt": "",
+      "expiresAt": "2026-12-24T05:08:44.703Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SLFE-SMSQ-4EF9",
@@ -2963,7 +2963,7 @@
     },
     {
       "code": "STARX-J4FG-J3BR-498Z",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089305190",
