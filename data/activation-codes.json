@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T11:10:27.797Z",
+  "updatedAt": "2026-10-08T11:39:42.494Z",
   "publicFields": [
     "code",
     "status",
@@ -1907,14 +1907,14 @@
     },
     {
       "code": "STARX-HD47-XGVN-EZGZ",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803566",
-      "expiresAt": "",
+      "expiresAt": "2026-12-24T11:34:55.564Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-RGEH-HWSS-VKHD",
