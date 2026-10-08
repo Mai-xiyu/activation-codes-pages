@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T13:15:31.041Z",
+  "updatedAt": "2026-10-08T13:41:53.626Z",
   "publicFields": [
     "code",
     "status",
@@ -3084,7 +3084,7 @@
     },
     {
       "code": "STARX-7WGT-FPZH-5NW6",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089300154",
