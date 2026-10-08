@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T06:19:40.636Z",
+  "updatedAt": "2026-10-08T06:57:58.728Z",
   "publicFields": [
     "code",
     "status",
@@ -2974,7 +2974,7 @@
     },
     {
       "code": "STARX-KPZ7-CYDY-MJNV",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089304769",
@@ -2996,7 +2996,7 @@
     },
     {
       "code": "STARX-4Y4V-RXEK-WMVR",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089303508",
