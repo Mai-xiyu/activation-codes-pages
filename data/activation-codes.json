@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T15:41:18.678Z",
+  "updatedAt": "2026-10-08T16:13:04.001Z",
   "publicFields": [
     "code",
     "status",
@@ -4657,7 +4657,7 @@
     },
     {
       "code": "STARX-2P4Q-7STT-GY4Q",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718129300",
