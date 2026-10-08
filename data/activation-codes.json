@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T08:48:43.855Z",
+  "updatedAt": "2026-10-08T09:14:33.880Z",
   "publicFields": [
     "code",
     "status",
@@ -3029,7 +3029,7 @@
     },
     {
       "code": "STARX-N2SU-FCYW-SJLW",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089302250",
@@ -3040,7 +3040,7 @@
     },
     {
       "code": "STARX-KF44-5E9Z-9FP9",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089301830",
@@ -4437,7 +4437,7 @@
     },
     {
       "code": "STARX-EX2A-9PGG-JSEX",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718138113",
