@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T19:09:48.553Z",
+  "updatedAt": "2026-10-08T19:39:16.363Z",
   "publicFields": [
     "code",
     "status",
@@ -2006,14 +2006,14 @@
     },
     {
       "code": "STARX-X3RS-W2Q9-GKXZ",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803547",
-      "expiresAt": "",
+      "expiresAt": "2026-12-24T19:25:42.817Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Z5J4-R8D5-69M2",
