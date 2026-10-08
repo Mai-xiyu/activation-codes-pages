@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T22:39:36.158Z",
+  "updatedAt": "2026-10-08T23:10:06.420Z",
   "publicFields": [
     "code",
     "status",
@@ -2017,14 +2017,14 @@
     },
     {
       "code": "STARX-Z5J4-R8D5-69M2",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803545",
-      "expiresAt": "",
+      "expiresAt": "2026-12-24T23:04:42.303Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-5PNU-5L5X-33VU",
