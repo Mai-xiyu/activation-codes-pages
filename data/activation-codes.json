@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T12:51:30.417Z",
+  "updatedAt": "2026-10-08T13:15:31.041Z",
   "publicFields": [
     "code",
     "status",
@@ -1918,14 +1918,14 @@
     },
     {
       "code": "STARX-RGEH-HWSS-VKHD",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803562",
-      "expiresAt": "",
+      "expiresAt": "2026-12-24T13:07:49.765Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2KZL-V4W5-UZFT",
