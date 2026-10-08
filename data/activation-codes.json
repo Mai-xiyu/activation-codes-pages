@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T08:16:42.456Z",
+  "updatedAt": "2026-10-08T08:48:43.855Z",
   "publicFields": [
     "code",
     "status",
@@ -1808,14 +1808,14 @@
     },
     {
       "code": "STARX-J5W2-PR6M-T4RS",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803583",
-      "expiresAt": "",
+      "expiresAt": "2026-12-24T08:36:34.985Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KNCH-XRHH-2TRF",
@@ -4415,7 +4415,7 @@
     },
     {
       "code": "STARX-U426-WWH2-H8FC",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718138847",
@@ -4426,7 +4426,7 @@
     },
     {
       "code": "STARX-QJSP-HAJJ-WSC5",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718138480",
