@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T11:39:42.494Z",
+  "updatedAt": "2026-10-08T12:16:22.000Z",
   "publicFields": [
     "code",
     "status",
@@ -4624,7 +4624,7 @@
     },
     {
       "code": "STARX-TYZW-45GK-TQXD",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718130402",
