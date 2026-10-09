@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T08:16:39.824Z",
+  "updatedAt": "2026-10-09T08:48:23.655Z",
   "publicFields": [
     "code",
     "status",
@@ -4052,14 +4052,14 @@
     },
     {
       "code": "STARX-2TFL-HXA9-662C",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088691452",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T08:24:09.857Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-BL2W-7PQH-ET6P",
@@ -4151,14 +4151,14 @@
     },
     {
       "code": "STARX-SJNC-6QXX-Q9RK",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088687687",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T08:24:01.010Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-G3NF-EFCG-AD49",
