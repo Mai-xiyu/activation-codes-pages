@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T05:41:58.171Z",
+  "updatedAt": "2026-10-09T06:18:54.889Z",
   "publicFields": [
     "code",
     "status",
@@ -3942,14 +3942,14 @@
     },
     {
       "code": "STARX-YREK-XK22-533P",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088695633",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T06:07:35.546Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HXVQ-GQGR-JFXW",
@@ -3964,14 +3964,14 @@
     },
     {
       "code": "STARX-JAPL-SSKH-6D2K",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088694798",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T06:11:07.664Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GGRM-9LPH-GL65",
