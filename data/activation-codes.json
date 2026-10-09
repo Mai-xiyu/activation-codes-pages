@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T18:13:13.260Z",
+  "updatedAt": "2026-10-09T18:43:25.343Z",
   "publicFields": [
     "code",
     "status",
@@ -4712,7 +4712,7 @@
     },
     {
       "code": "STARX-DZ5C-F8WT-DLUS",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718126729",
