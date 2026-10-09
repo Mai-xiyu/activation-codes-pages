@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T02:23:53.371Z",
+  "updatedAt": "2026-10-09T02:53:47.147Z",
   "publicFields": [
     "code",
     "status",
@@ -2171,25 +2171,25 @@
     },
     {
       "code": "STARX-FSRH-RZW9-APMN",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834791756",
-      "expiresAt": "",
+      "expiresAt": "2026-12-25T02:25:19.102Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-GYPT-DVWP-SNJX",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834791741",
-      "expiresAt": "",
+      "expiresAt": "2026-12-25T02:53:25.260Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AFM9-B3DG-V8ZC",
