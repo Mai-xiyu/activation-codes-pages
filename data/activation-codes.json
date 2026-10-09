@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T16:11:24.777Z",
+  "updatedAt": "2026-10-09T16:40:43.061Z",
   "publicFields": [
     "code",
     "status",
@@ -4745,7 +4745,7 @@
     },
     {
       "code": "STARX-JE6Q-HRMG-WJQ8",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718125628",
