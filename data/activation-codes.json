@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T03:47:25.892Z",
+  "updatedAt": "2026-10-09T04:14:46.193Z",
   "publicFields": [
     "code",
     "status",
@@ -3876,14 +3876,14 @@
     },
     {
       "code": "STARX-BCS3-KNLV-25BL",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088698141",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T04:08:27.895Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-JH29-ZSTQ-CWFT",
@@ -4173,14 +4173,14 @@
     },
     {
       "code": "STARX-MEK6-FFWQ-FSM4",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790088686849",
-      "expiresAt": "",
+      "expiresAt": "2026-10-24T04:12:28.864Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-YACX-QUBH-N7XS",
