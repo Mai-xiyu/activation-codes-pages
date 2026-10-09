@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T15:40:07.164Z",
+  "updatedAt": "2026-10-09T16:11:24.777Z",
   "publicFields": [
     "code",
     "status",
@@ -4646,7 +4646,7 @@
     },
     {
       "code": "STARX-QKZ9-PJPP-9BUN",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718129667",
