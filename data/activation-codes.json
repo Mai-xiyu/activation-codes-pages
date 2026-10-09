@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T11:38:18.566Z",
+  "updatedAt": "2026-10-09T12:15:34.075Z",
   "publicFields": [
     "code",
     "status",
@@ -3161,7 +3161,7 @@
     },
     {
       "code": "STARX-ZBCU-H75B-DFCF",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089297210",
@@ -4558,7 +4558,7 @@
     },
     {
       "code": "STARX-SYH6-DJ8Z-FA8Z",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718132972",
@@ -4569,7 +4569,7 @@
     },
     {
       "code": "STARX-TNLD-EFFP-3ZZV",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718132605",
@@ -4668,7 +4668,7 @@
     },
     {
       "code": "STARX-AUNH-8ERT-W3CY",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718128933",
