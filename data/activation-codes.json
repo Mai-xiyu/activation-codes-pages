@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T19:08:15.432Z",
+  "updatedAt": "2026-10-09T19:38:14.920Z",
   "publicFields": [
     "code",
     "status",
@@ -4734,7 +4734,7 @@
     },
     {
       "code": "STARX-Q79W-BS8N-4JKB",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718125995",
