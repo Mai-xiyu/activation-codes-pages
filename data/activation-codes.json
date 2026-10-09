@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-08T23:38:50.763Z",
+  "updatedAt": "2026-10-09T00:31:39.707Z",
   "publicFields": [
     "code",
     "status",
@@ -2028,25 +2028,25 @@
     },
     {
       "code": "STARX-5PNU-5L5X-33VU",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803544",
-      "expiresAt": "",
+      "expiresAt": "2026-12-24T23:59:31.828Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XXNZ-KKVQ-UTCR",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834803542",
-      "expiresAt": "",
+      "expiresAt": "2026-12-25T00:04:55.141Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CWXN-XGSL-KNQ2",
@@ -2215,14 +2215,14 @@
     },
     {
       "code": "STARX-LFZ2-XN92-HKLP",
-      "status": "active",
+      "status": "used",
       "plan": "77 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1790834791723",
-      "expiresAt": "",
+      "expiresAt": "2026-12-25T00:09:25.862Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HEVE-58FR-7DMW",
