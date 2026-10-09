@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T18:43:25.343Z",
+  "updatedAt": "2026-10-09T19:08:15.432Z",
   "publicFields": [
     "code",
     "status",
@@ -4723,7 +4723,7 @@
     },
     {
       "code": "STARX-KW8B-7GKP-SD5V",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718126362",
