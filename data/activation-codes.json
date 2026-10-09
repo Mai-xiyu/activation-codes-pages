@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T16:40:43.061Z",
+  "updatedAt": "2026-10-09T17:08:59.409Z",
   "publicFields": [
     "code",
     "status",
@@ -4690,7 +4690,7 @@
     },
     {
       "code": "STARX-JTEE-4R8G-JRXR",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718127464",
