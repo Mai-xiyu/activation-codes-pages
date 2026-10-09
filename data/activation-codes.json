@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-09T17:08:59.409Z",
+  "updatedAt": "2026-10-09T17:38:24.537Z",
   "publicFields": [
     "code",
     "status",
@@ -4701,7 +4701,7 @@
     },
     {
       "code": "STARX-96FP-77D7-5R7D",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718127096",
