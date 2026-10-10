@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T07:41:01.451Z",
+  "updatedAt": "2026-10-10T08:13:29.870Z",
   "publicFields": [
     "code",
     "status",
@@ -7066,7 +7066,7 @@
     },
     {
       "code": "STARX-JB3C-Z24S-ST35",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718120120",
@@ -7077,7 +7077,7 @@
     },
     {
       "code": "STARX-6QZS-VN9Y-WXU9",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718119753",
@@ -8584,7 +8584,7 @@
     },
     {
       "code": "STARX-HT9T-NSRE-N9ZV",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718058634",
