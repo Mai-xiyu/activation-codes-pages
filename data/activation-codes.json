@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T13:09:04.900Z",
+  "updatedAt": "2026-10-10T13:37:59.753Z",
   "publicFields": [
     "code",
     "status",
@@ -7231,7 +7231,7 @@
     },
     {
       "code": "STARX-57KH-64HF-L2HG",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718114613",
@@ -7286,7 +7286,7 @@
     },
     {
       "code": "STARX-H9GY-7GU7-WFYU",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718109000",
@@ -7396,7 +7396,7 @@
     },
     {
       "code": "STARX-K468-25B6-Q9RV",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718105550",
