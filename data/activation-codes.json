@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T04:42:37.148Z",
+  "updatedAt": "2026-10-10T05:10:25.824Z",
   "publicFields": [
     "code",
     "status",
@@ -26,14 +26,14 @@
     },
     {
       "code": "STARX-4DVU-MCXK-U7N7",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-25T05:00:54.926Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-4TJY-PCSU-HVCM",
@@ -2050,14 +2050,14 @@
     },
     {
       "code": "STARX-7GBP-WPPU-TQED",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605108975",
-      "expiresAt": "",
+      "expiresAt": "2026-10-25T04:44:37.128Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-8ECP-YAA8-H6YB",
