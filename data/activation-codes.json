@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T08:13:29.870Z",
+  "updatedAt": "2026-10-10T08:42:04.410Z",
   "publicFields": [
     "code",
     "status",
@@ -114,14 +114,14 @@
     },
     {
       "code": "STARX-6K42-ZRMG-B69V",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-25T08:29:41.951Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-6RF4-8YS2-RKY5",
@@ -323,14 +323,14 @@
     },
     {
       "code": "STARX-ECR2-XZP6-TWUV",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-25T08:36:47.780Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-EG5H-MK2F-BDJG",
@@ -7110,7 +7110,7 @@
     },
     {
       "code": "STARX-KKXW-UWM8-SB6R",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718118652",
@@ -7121,7 +7121,7 @@
     },
     {
       "code": "STARX-5V58-Y7UW-E3RQ",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718118284",
@@ -7132,7 +7132,7 @@
     },
     {
       "code": "STARX-LM9D-XV4E-KEGE",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718117917",
@@ -7176,7 +7176,7 @@
     },
     {
       "code": "STARX-292P-TJ4X-5KYV",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718116448",
@@ -7242,7 +7242,7 @@
     },
     {
       "code": "STARX-D8MP-BJVN-DTBA",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718114245",
