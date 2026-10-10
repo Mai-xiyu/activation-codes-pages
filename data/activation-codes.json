@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T02:52:15.444Z",
+  "updatedAt": "2026-10-10T03:15:55.499Z",
   "publicFields": [
     "code",
     "status",
@@ -4789,7 +4789,7 @@
     },
     {
       "code": "STARX-MNFW-674U-VDBJ",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718123424",
@@ -5020,7 +5020,7 @@
     },
     {
       "code": "STARX-TXGH-YXZ6-2EFM",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718114980",
