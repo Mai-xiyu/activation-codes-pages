@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T19:07:55.684Z",
+  "updatedAt": "2026-10-10T19:35:46.533Z",
   "publicFields": [
     "code",
     "status",
@@ -5438,7 +5438,7 @@
     },
     {
       "code": "STARX-3ZVC-W2UN-4TCA",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089292171",
@@ -6274,7 +6274,7 @@
     },
     {
       "code": "STARX-XUVG-PTX6-665U",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088690618",
