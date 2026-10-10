@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T13:37:59.753Z",
+  "updatedAt": "2026-10-10T14:09:50.242Z",
   "publicFields": [
     "code",
     "status",
@@ -7627,7 +7627,7 @@
     },
     {
       "code": "STARX-96CC-W32X-WWHN",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718097270",
