@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T03:15:55.499Z",
+  "updatedAt": "2026-10-10T03:45:54.506Z",
   "publicFields": [
     "code",
     "status",
@@ -4778,7 +4778,7 @@
     },
     {
       "code": "STARX-RLCR-VUPQ-JS95",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718124159",
@@ -4822,7 +4822,7 @@
     },
     {
       "code": "STARX-SKXJ-9MDF-NVXA",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718121956",
@@ -4943,7 +4943,7 @@
     },
     {
       "code": "STARX-YGHD-JHVY-9HCZ",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718117550",
