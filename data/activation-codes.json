@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T16:11:05.779Z",
+  "updatedAt": "2026-10-10T16:39:34.862Z",
   "publicFields": [
     "code",
     "status",
@@ -7374,7 +7374,7 @@
     },
     {
       "code": "STARX-EKLT-6P2T-XV4E",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718106241",
@@ -7539,7 +7539,7 @@
     },
     {
       "code": "STARX-PPWW-XJ2U-C9JB",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718100030",
@@ -7913,7 +7913,7 @@
     },
     {
       "code": "STARX-CYLY-YFZ9-7QR6",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718087391",
