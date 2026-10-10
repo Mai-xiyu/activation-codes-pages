@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T10:09:28.301Z",
+  "updatedAt": "2026-10-10T10:38:37.490Z",
   "publicFields": [
     "code",
     "status",
@@ -169,14 +169,14 @@
     },
     {
       "code": "STARX-8YH2-J7YZ-45A6",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-25T10:36:11.010Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-99UH-VJU7-YUBS",
