@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T01:30:18.110Z",
+  "updatedAt": "2026-10-10T02:22:24.527Z",
   "publicFields": [
     "code",
     "status",
@@ -4756,7 +4756,7 @@
     },
     {
       "code": "STARX-FYHE-5J2J-HWGN",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718125261",
@@ -6483,7 +6483,7 @@
     },
     {
       "code": "STARX-Y28K-85Y3-UDYU",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718055402",
