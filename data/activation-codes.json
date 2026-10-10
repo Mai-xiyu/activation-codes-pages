@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T06:52:34.460Z",
+  "updatedAt": "2026-10-10T07:14:13.118Z",
   "publicFields": [
     "code",
     "status",
@@ -7055,7 +7055,7 @@
     },
     {
       "code": "STARX-DZJP-EVVL-57J8",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718120855",
