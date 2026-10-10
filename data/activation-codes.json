@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T09:39:32.704Z",
+  "updatedAt": "2026-10-10T10:09:28.301Z",
   "publicFields": [
     "code",
     "status",
@@ -7198,7 +7198,7 @@
     },
     {
       "code": "STARX-U7TD-R4ND-6ELF",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718115714",
@@ -7264,7 +7264,7 @@
     },
     {
       "code": "STARX-VHG7-NCNT-VQ9T",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718109690",
@@ -8188,7 +8188,7 @@
     },
     {
       "code": "STARX-NKB2-R4RF-5F7H",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718072898",
