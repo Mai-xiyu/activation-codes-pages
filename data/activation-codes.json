@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T12:46:09.984Z",
+  "updatedAt": "2026-10-10T13:09:04.900Z",
   "publicFields": [
     "code",
     "status",
@@ -5306,7 +5306,7 @@
     },
     {
       "code": "STARX-NF26-KJXA-JB7A",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089299313",
@@ -7297,7 +7297,7 @@
     },
     {
       "code": "STARX-TFGX-QPUS-YKR5",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718108655",
