@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T09:10:57.985Z",
+  "updatedAt": "2026-10-10T09:39:32.704Z",
   "publicFields": [
     "code",
     "status",
@@ -7154,7 +7154,7 @@
     },
     {
       "code": "STARX-Y969-HMGT-EBSK",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718117183",
