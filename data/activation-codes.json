@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T18:42:01.068Z",
+  "updatedAt": "2026-10-10T19:07:55.684Z",
   "publicFields": [
     "code",
     "status",
@@ -7418,7 +7418,7 @@
     },
     {
       "code": "STARX-TXSS-6PYR-WZWB",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718104860",
