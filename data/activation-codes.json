@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T15:09:20.282Z",
+  "updatedAt": "2026-10-11T15:38:27.667Z",
   "publicFields": [
     "code",
     "status",
@@ -686,14 +686,14 @@
     },
     {
       "code": "STARX-VB46-EDHF-2JYD",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T15:16:48.215Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-VC5A-ECCS-TN6R",
@@ -8045,7 +8045,7 @@
     },
     {
       "code": "STARX-V5AQ-SQY9-6F3N",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718078208",
@@ -8067,7 +8067,7 @@
     },
     {
       "code": "STARX-BSA6-64HU-8JCS",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718077518",
