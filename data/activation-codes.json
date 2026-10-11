@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T08:13:41.572Z",
+  "updatedAt": "2026-10-11T08:43:17.052Z",
   "publicFields": [
     "code",
     "status",
@@ -5482,7 +5482,7 @@
     },
     {
       "code": "STARX-GKA2-SKPF-2GK2",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089290075",
@@ -7792,7 +7792,7 @@
     },
     {
       "code": "STARX-EMW9-RX75-T6HN",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718091439",
