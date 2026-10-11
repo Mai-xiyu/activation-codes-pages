@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T13:09:57.388Z",
+  "updatedAt": "2026-10-11T13:38:21.307Z",
   "publicFields": [
     "code",
     "status",
@@ -972,14 +972,14 @@
     },
     {
       "code": "STARX-JAJC-LPMP-BHN7",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136196",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T13:11:32.029Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-L38Z-L7YG-M3E8",
@@ -7968,7 +7968,7 @@
     },
     {
       "code": "STARX-FQ47-957Q-GA83",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718085102",
@@ -8650,7 +8650,7 @@
     },
     {
       "code": "STARX-4ZSF-YJQ7-395F",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718056440",
