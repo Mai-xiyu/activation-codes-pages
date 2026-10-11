@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T20:10:40.949Z",
+  "updatedAt": "2026-10-11T20:39:48.862Z",
   "publicFields": [
     "code",
     "status",
@@ -5471,7 +5471,7 @@
     },
     {
       "code": "STARX-DV8U-YHSD-Y52N",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089290494",
