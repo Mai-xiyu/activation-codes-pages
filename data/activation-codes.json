@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T12:15:47.853Z",
+  "updatedAt": "2026-10-11T12:47:45.608Z",
   "publicFields": [
     "code",
     "status",
@@ -609,14 +609,14 @@
     },
     {
       "code": "STARX-S5E7-2Q2R-E8J3",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T12:36:00.098Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SN3D-2RKL-R4V4",
@@ -631,14 +631,14 @@
     },
     {
       "code": "STARX-T6T3-62AD-U665",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T12:32:48.371Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-UHCN-ESNM-E622",
