@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T07:15:46.960Z",
+  "updatedAt": "2026-10-11T07:42:05.699Z",
   "publicFields": [
     "code",
     "status",
@@ -5427,7 +5427,7 @@
     },
     {
       "code": "STARX-WZGL-4A8K-RQPE",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089292591",
@@ -7726,7 +7726,7 @@
     },
     {
       "code": "STARX-4HEQ-P55C-L5NF",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718094011",
@@ -7770,7 +7770,7 @@
     },
     {
       "code": "STARX-TEGH-MATY-9H7S",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718092175",
@@ -7935,7 +7935,7 @@
     },
     {
       "code": "STARX-RWAD-HDY7-47RS",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718086657",
