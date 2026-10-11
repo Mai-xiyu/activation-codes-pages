@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T02:54:55.613Z",
+  "updatedAt": "2026-10-11T03:17:37.213Z",
   "publicFields": [
     "code",
     "status",
@@ -5405,7 +5405,7 @@
     },
     {
       "code": "STARX-Q3TH-VBMT-CBTQ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089293856",
@@ -7803,7 +7803,7 @@
     },
     {
       "code": "STARX-HMG4-FTMF-EQRU",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718091072",
