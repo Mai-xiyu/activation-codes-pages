@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T16:11:24.568Z",
+  "updatedAt": "2026-10-11T16:39:43.039Z",
   "publicFields": [
     "code",
     "status",
@@ -719,14 +719,14 @@
     },
     {
       "code": "STARX-W4RT-4DX9-3A8N",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T16:16:46.652Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WK2Z-NCPU-XQRN",
@@ -928,25 +928,25 @@
     },
     {
       "code": "STARX-FSFB-X9FG-DGDH",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136196",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T16:22:25.801Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-G4WP-8PDA-LPHP",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136196",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T16:28:53.362Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HDG4-KX6L-HD4Z",
