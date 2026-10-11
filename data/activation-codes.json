@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-10T23:37:34.095Z",
+  "updatedAt": "2026-10-11T00:33:30.667Z",
   "publicFields": [
     "code",
     "status",
@@ -5383,7 +5383,7 @@
     },
     {
       "code": "STARX-GQGY-PEQQ-7K4U",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089295111",
@@ -7429,7 +7429,7 @@
     },
     {
       "code": "STARX-CAFP-JFY7-LF3Z",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718104516",
@@ -7605,7 +7605,7 @@
     },
     {
       "code": "STARX-RN8P-XYYB-M65A",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718097960",
