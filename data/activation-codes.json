@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T04:13:44.452Z",
+  "updatedAt": "2026-10-11T04:43:59.355Z",
   "publicFields": [
     "code",
     "status",
@@ -7649,7 +7649,7 @@
     },
     {
       "code": "STARX-QTDP-NW76-TXQ3",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718096581",
