@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T08:43:17.052Z",
+  "updatedAt": "2026-10-11T09:10:41.655Z",
   "publicFields": [
     "code",
     "status",
@@ -455,14 +455,14 @@
     },
     {
       "code": "STARX-LMGB-ZQXN-7MNX",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T08:54:02.268Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-LP83-KCHS-BVXW",
@@ -7781,7 +7781,7 @@
     },
     {
       "code": "STARX-L8DR-5VF6-DDWY",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718091806",
