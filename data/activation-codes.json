@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T03:48:09.805Z",
+  "updatedAt": "2026-10-11T04:13:44.452Z",
   "publicFields": [
     "code",
     "status",
@@ -279,14 +279,14 @@
     },
     {
       "code": "STARX-CHUC-HNJU-EA46",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T04:01:41.930Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CJYN-EJAM-R8WH",
@@ -1148,14 +1148,14 @@
     },
     {
       "code": "STARX-AGSN-TGCB-4HEE",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605108984",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T04:02:22.792Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-AHLC-BCP2-QE88",
@@ -7638,7 +7638,7 @@
     },
     {
       "code": "STARX-L44A-5NZH-2VW6",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718096926",
