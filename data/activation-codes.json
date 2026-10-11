@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T05:40:11.922Z",
+  "updatedAt": "2026-10-11T06:17:32.020Z",
   "publicFields": [
     "code",
     "status",
@@ -7682,7 +7682,7 @@
     },
     {
       "code": "STARX-KMKJ-UK98-G9ZA",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718095480",
@@ -7715,7 +7715,7 @@
     },
     {
       "code": "STARX-5HTR-JTCL-M4QC",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718094379",
