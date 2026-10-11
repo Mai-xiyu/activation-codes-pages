@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T02:23:55.714Z",
+  "updatedAt": "2026-10-11T02:54:55.613Z",
   "publicFields": [
     "code",
     "status",
@@ -7528,7 +7528,7 @@
     },
     {
       "code": "STARX-9UJ6-SEUC-B5J8",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718100719",
@@ -7737,7 +7737,7 @@
     },
     {
       "code": "STARX-V38S-5UYJ-52HB",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718093277",
@@ -7814,7 +7814,7 @@
     },
     {
       "code": "STARX-VTBB-F6JL-AQ6M",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718090705",
@@ -8661,7 +8661,7 @@
     },
     {
       "code": "STARX-JN6Q-LG7Y-76B3",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718056092",
