@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T18:13:11.298Z",
+  "updatedAt": "2026-10-11T18:42:51.195Z",
   "publicFields": [
     "code",
     "status",
@@ -5449,7 +5449,7 @@
     },
     {
       "code": "STARX-ADFG-9ERM-A324",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089291332",
@@ -11246,7 +11246,7 @@
     },
     {
       "code": "STARX-38XL-9QBR-RT3K",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
