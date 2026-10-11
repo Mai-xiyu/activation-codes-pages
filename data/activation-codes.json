@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T14:10:22.132Z",
+  "updatedAt": "2026-10-11T14:39:19.936Z",
   "publicFields": [
     "code",
     "status",
@@ -5515,7 +5515,7 @@
     },
     {
       "code": "STARX-G4FX-VUNM-DKBW",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089288816",
@@ -8012,7 +8012,7 @@
     },
     {
       "code": "STARX-FGTG-E8FB-K643",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718079243",
@@ -8023,7 +8023,7 @@
     },
     {
       "code": "STARX-PNYL-BPPQ-GCPH",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718078898",
