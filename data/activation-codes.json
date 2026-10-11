@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T19:08:17.214Z",
+  "updatedAt": "2026-10-11T19:36:24.307Z",
   "publicFields": [
     "code",
     "status",
@@ -5966,7 +5966,7 @@
     },
     {
       "code": "STARX-SFDP-LXC8-RCYL",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088707536",
