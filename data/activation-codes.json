@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T18:42:51.195Z",
+  "updatedAt": "2026-10-11T19:08:17.214Z",
   "publicFields": [
     "code",
     "status",
@@ -5460,7 +5460,7 @@
     },
     {
       "code": "STARX-WXBG-M9WV-CG3X",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089290913",
@@ -5933,7 +5933,7 @@
     },
     {
       "code": "STARX-LFTC-845K-JFU8",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088709213",
