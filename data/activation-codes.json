@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-11T01:34:32.464Z",
+  "updatedAt": "2026-10-11T02:23:55.714Z",
   "publicFields": [
     "code",
     "status",
@@ -246,14 +246,14 @@
     },
     {
       "code": "STARX-C9Z3-AQPD-V4E6",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T02:17:42.710Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-CA7Z-UYM7-AV7S",
@@ -587,14 +587,14 @@
     },
     {
       "code": "STARX-RQ45-KSR5-RJ48",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605136197",
-      "expiresAt": "",
+      "expiresAt": "2026-10-26T02:13:34.079Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-S5DT-4B2P-5PEP",
@@ -5394,7 +5394,7 @@
     },
     {
       "code": "STARX-HDNM-YT8B-GVSY",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790089294274",
@@ -7473,7 +7473,7 @@
     },
     {
       "code": "STARX-7VBR-K9CE-S4NG",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718102791",
@@ -7484,7 +7484,7 @@
     },
     {
       "code": "STARX-3KJ5-UHE8-2L54",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718102446",
@@ -7495,7 +7495,7 @@
     },
     {
       "code": "STARX-8HYC-ZQTR-TXGA",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718102101",
@@ -7506,7 +7506,7 @@
     },
     {
       "code": "STARX-ZR5B-SREM-REZ6",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718101756",
@@ -7616,7 +7616,7 @@
     },
     {
       "code": "STARX-MWAT-RF3S-PQ4D",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718097615",
@@ -7759,7 +7759,7 @@
     },
     {
       "code": "STARX-YQPH-XY3Y-V6JN",
-      "status": "used",
+      "status": "expired",
       "plan": "20 天",
       "label": "已绑定设备",
       "issuedAt": "1789718092542",
