@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-12T19:08:55.029Z",
+  "updatedAt": "2026-10-12T19:38:48.776Z",
   "publicFields": [
     "code",
     "status",
@@ -1500,14 +1500,14 @@
     },
     {
       "code": "STARX-2QT2-ADZY-8UGH",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605108983",
-      "expiresAt": "",
+      "expiresAt": "2026-10-27T19:29:07.783Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2W3U-YSGQ-G35S",
