@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-12T16:11:31.101Z",
+  "updatedAt": "2026-10-12T16:40:19.926Z",
   "publicFields": [
     "code",
     "status",
@@ -11312,7 +11312,7 @@
     },
     {
       "code": "STARX-8QGL-LYRC-ADPW",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
