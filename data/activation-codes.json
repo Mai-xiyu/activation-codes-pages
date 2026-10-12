@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-12T17:40:21.120Z",
+  "updatedAt": "2026-10-12T18:12:50.710Z",
   "publicFields": [
     "code",
     "status",
@@ -2105,14 +2105,14 @@
     },
     {
       "code": "STARX-M4YN-XX2N-U6MP",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605108975",
-      "expiresAt": "",
+      "expiresAt": "2026-10-27T17:44:01.735Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-N3C3-PSES-CPEQ",
@@ -5647,7 +5647,7 @@
     },
     {
       "code": "STARX-ZSPF-N8R5-H59M",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088726496",
