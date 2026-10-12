@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-12T15:41:50.072Z",
+  "updatedAt": "2026-10-12T16:11:31.101Z",
   "publicFields": [
     "code",
     "status",
@@ -1489,14 +1489,14 @@
     },
     {
       "code": "STARX-Y689-89H9-5AZC",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605108984",
-      "expiresAt": "",
+      "expiresAt": "2026-10-27T15:59:41.573Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2QT2-ADZY-8UGH",
