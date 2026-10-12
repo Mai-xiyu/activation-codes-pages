@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-12T14:47:24.573Z",
+  "updatedAt": "2026-10-12T15:13:30.590Z",
   "publicFields": [
     "code",
     "status",
@@ -1797,14 +1797,14 @@
     },
     {
       "code": "STARX-KGS4-PD3K-KZKZ",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605108983",
-      "expiresAt": "",
+      "expiresAt": "2026-10-27T15:13:28.434Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-KV79-SCJK-DUUR",
