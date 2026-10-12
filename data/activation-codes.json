@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-12T09:56:52.979Z",
+  "updatedAt": "2026-10-12T10:23:43.178Z",
   "publicFields": [
     "code",
     "status",
@@ -2138,14 +2138,14 @@
     },
     {
       "code": "STARX-NJL5-54W5-T858",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605108975",
-      "expiresAt": "",
+      "expiresAt": "2026-10-27T10:19:49.657Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Q5XV-H2PT-T7MZ",
