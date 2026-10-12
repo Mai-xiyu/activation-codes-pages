@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-12T22:39:40.490Z",
+  "updatedAt": "2026-10-12T23:10:14.828Z",
   "publicFields": [
     "code",
     "status",
@@ -5669,7 +5669,7 @@
     },
     {
       "code": "STARX-ZPTN-W5NJ-LVLQ",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088725659",
