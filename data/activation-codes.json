@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T06:21:17.151Z",
+  "updatedAt": "2026-10-13T07:01:38.223Z",
   "publicFields": [
     "code",
     "status",
@@ -1907,14 +1907,14 @@
     },
     {
       "code": "STARX-QXPV-3AFY-EHT2",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605108983",
-      "expiresAt": "",
+      "expiresAt": "2026-10-28T06:30:46.615Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-U8S4-XMN5-5Z6W",
@@ -1951,14 +1951,14 @@
     },
     {
       "code": "STARX-WGVC-LF7E-E23S",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605108983",
-      "expiresAt": "",
+      "expiresAt": "2026-10-28T06:22:12.503Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WVT5-8HU6-5M6P",
@@ -2039,14 +2039,14 @@
     },
     {
       "code": "STARX-5S2R-PZHA-D6HB",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605108982",
-      "expiresAt": "",
+      "expiresAt": "2026-10-28T06:53:52.630Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2KXR-XWTB-FZ95",
@@ -5878,7 +5878,7 @@
     },
     {
       "code": "STARX-X5YL-MDCZ-ELCA",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088712147",
@@ -5933,7 +5933,7 @@
     },
     {
       "code": "STARX-FJYE-XMFD-EY7E",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088709632",
@@ -6329,7 +6329,7 @@
     },
     {
       "code": "STARX-76S9-M3WF-MN4V",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088688945",
