@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T10:42:07.200Z",
+  "updatedAt": "2026-10-13T11:11:15.818Z",
   "publicFields": [
     "code",
     "status",
@@ -6032,7 +6032,7 @@
     },
     {
       "code": "STARX-B9FU-EAAY-LY2L",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088701488",
