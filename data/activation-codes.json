@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T07:01:38.223Z",
+  "updatedAt": "2026-10-13T07:52:29.316Z",
   "publicFields": [
     "code",
     "status",
@@ -1929,14 +1929,14 @@
     },
     {
       "code": "STARX-UFDK-UMMZ-CSV3",
-      "status": "active",
+      "status": "used",
       "plan": "15 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791605108983",
-      "expiresAt": "",
+      "expiresAt": "2026-10-28T07:08:49.096Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-V6CV-NWHK-3YLV",
@@ -6010,7 +6010,7 @@
     },
     {
       "code": "STARX-DLB3-TXK9-MUCP",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088705440",
@@ -6593,7 +6593,7 @@
     },
     {
       "code": "STARX-K7GK-FBSH-HQP9",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088678040",
