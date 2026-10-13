@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T09:16:08.726Z",
+  "updatedAt": "2026-10-13T09:44:50.242Z",
   "publicFields": [
     "code",
     "status",
@@ -11378,7 +11378,7 @@
     },
     {
       "code": "STARX-D5QV-WVNJ-NSX4",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
