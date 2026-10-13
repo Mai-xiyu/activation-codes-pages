@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T10:12:44.219Z",
+  "updatedAt": "2026-10-13T10:42:07.200Z",
   "publicFields": [
     "code",
     "status",
@@ -6021,7 +6021,7 @@
     },
     {
       "code": "STARX-EL5B-THQE-VJRL",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088705022",
