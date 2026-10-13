@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T15:11:41.855Z",
+  "updatedAt": "2026-10-13T15:40:57.827Z",
   "publicFields": [
     "code",
     "status",
@@ -11499,7 +11499,7 @@
     },
     {
       "code": "STARX-QY7U-TQAP-Y4GM",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
