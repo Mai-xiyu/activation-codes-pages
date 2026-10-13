@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T12:17:32.046Z",
+  "updatedAt": "2026-10-13T12:54:20.820Z",
   "publicFields": [
     "code",
     "status",
@@ -6043,7 +6043,7 @@
     },
     {
       "code": "STARX-A22W-AFXF-YP4N",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088701071",
@@ -11400,7 +11400,7 @@
     },
     {
       "code": "STARX-HFYF-GKYP-5C7F",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
