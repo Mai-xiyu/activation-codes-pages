@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T16:42:28.540Z",
+  "updatedAt": "2026-10-13T17:10:07.617Z",
   "publicFields": [
     "code",
     "status",
@@ -11444,7 +11444,7 @@
     },
     {
       "code": "STARX-M29X-6HQ7-7BYL",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
