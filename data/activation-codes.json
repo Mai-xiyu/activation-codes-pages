@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T09:44:50.242Z",
+  "updatedAt": "2026-10-13T10:12:44.219Z",
   "publicFields": [
     "code",
     "status",
@@ -5988,7 +5988,7 @@
     },
     {
       "code": "STARX-6HDB-MNRV-ZKQS",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088706698",
