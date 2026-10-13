@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T17:39:38.502Z",
+  "updatedAt": "2026-10-13T18:15:11.161Z",
   "publicFields": [
     "code",
     "status",
@@ -11587,7 +11587,7 @@
     },
     {
       "code": "STARX-V9G4-QPDT-9R2J",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
@@ -11642,7 +11642,7 @@
     },
     {
       "code": "STARX-Z6S6-29TB-W4RQ",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
