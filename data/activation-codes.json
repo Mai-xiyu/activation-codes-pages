@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-13T11:40:23.411Z",
+  "updatedAt": "2026-10-13T12:17:32.046Z",
   "publicFields": [
     "code",
     "status",
@@ -6186,7 +6186,7 @@
     },
     {
       "code": "STARX-GGRM-9LPH-GL65",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088694379",
