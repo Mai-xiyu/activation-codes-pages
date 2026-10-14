@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-14T02:42:24.424Z",
+  "updatedAt": "2026-10-14T03:12:11.078Z",
   "publicFields": [
     "code",
     "status",
@@ -11466,7 +11466,7 @@
     },
     {
       "code": "STARX-ND2U-V83Z-FJPN",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
