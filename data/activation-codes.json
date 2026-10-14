@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-14T14:10:30.659Z",
+  "updatedAt": "2026-10-14T14:38:56.714Z",
   "publicFields": [
     "code",
     "status",
@@ -301,14 +301,14 @@
     },
     {
       "code": "STARX-FJ2S-ZLR2-H7CT",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954480179",
-      "expiresAt": "",
+      "expiresAt": "2026-11-13T14:20:28.224Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HLQC-UFDX-CZ44",
