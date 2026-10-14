@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-14T04:12:54.650Z",
+  "updatedAt": "2026-10-14T04:41:37.691Z",
   "publicFields": [
     "code",
     "status",
@@ -11477,7 +11477,7 @@
     },
     {
       "code": "STARX-NUCB-DWXD-C2ZC",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
