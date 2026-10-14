@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-14T09:39:36.884Z",
+  "updatedAt": "2026-10-14T10:10:42.399Z",
   "publicFields": [
     "code",
     "status",
@@ -488,14 +488,14 @@
     },
     {
       "code": "STARX-XPDL-T3QK-9UKH",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954480179",
-      "expiresAt": "",
+      "expiresAt": "2026-11-13T10:00:34.911Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-XTXX-BGSH-WGCR",
@@ -554,14 +554,14 @@
     },
     {
       "code": "STARX-ZQ29-NKXD-VCY5",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954480179",
-      "expiresAt": "",
+      "expiresAt": "2026-11-13T09:43:42.581Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2GMH-SE42-WXNU",
