@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-14T02:13:13.942Z",
+  "updatedAt": "2026-10-14T02:42:24.424Z",
   "publicFields": [
     "code",
     "status",
@@ -11455,7 +11455,7 @@
     },
     {
       "code": "STARX-NC27-2MYC-U8A7",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
