@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-14T08:14:03.284Z",
+  "updatedAt": "2026-10-14T08:43:22.453Z",
   "publicFields": [
     "code",
     "status",
@@ -81,14 +81,14 @@
     },
     {
       "code": "STARX-ECKW-RL6H-G42R",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954480180",
-      "expiresAt": "",
+      "expiresAt": "2026-11-13T08:17:25.887Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FCQH-APUQ-NLQU",
@@ -125,14 +125,14 @@
     },
     {
       "code": "STARX-JJN7-D9FY-B79Z",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954480180",
-      "expiresAt": "",
+      "expiresAt": "2026-11-13T08:28:28.880Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-JVN8-CVLC-YGNP",
@@ -169,14 +169,14 @@
     },
     {
       "code": "STARX-R8QR-CMXH-86WV",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954480180",
-      "expiresAt": "",
+      "expiresAt": "2026-11-13T08:28:06.616Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-SZYZ-ZEEU-LK77",
@@ -334,14 +334,14 @@
     },
     {
       "code": "STARX-JG38-CNDU-GMTM",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954480179",
-      "expiresAt": "",
+      "expiresAt": "2026-11-13T08:28:45.043Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-MFKN-YX6G-EPUL",
