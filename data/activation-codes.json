@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-14T17:39:04.037Z",
+  "updatedAt": "2026-10-14T18:12:40.605Z",
   "publicFields": [
     "code",
     "status",
@@ -367,14 +367,14 @@
     },
     {
       "code": "STARX-NHPV-M4VZ-F8C2",
-      "status": "active",
+      "status": "used",
       "plan": "30 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954480179",
-      "expiresAt": "",
+      "expiresAt": "2026-11-13T18:03:59.741Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-PP55-MEYE-QVZN",
@@ -13204,7 +13204,7 @@
     },
     {
       "code": "STARX-TMCU-5SU4-ULPV",
-      "status": "used",
+      "status": "expired",
       "plan": "60 天",
       "label": "已绑定设备",
       "issuedAt": "1786555905178",
