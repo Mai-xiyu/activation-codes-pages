@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-15T14:11:11.345Z",
+  "updatedAt": "2026-10-15T14:39:13.582Z",
   "publicFields": [
     "code",
     "status",
@@ -884,14 +884,14 @@
     },
     {
       "code": "STARX-W58R-NGR5-W8FU",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430159",
-      "expiresAt": "",
+      "expiresAt": "2026-11-04T14:19:57.705Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WHZ9-FZJF-UUJ4",
