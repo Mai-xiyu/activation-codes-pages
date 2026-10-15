@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-15T06:52:12.948Z",
+  "updatedAt": "2026-10-15T07:14:58.423Z",
   "publicFields": [
     "code",
     "status",
@@ -730,14 +730,14 @@
     },
     {
       "code": "STARX-Q7JP-TB46-4U7E",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430159",
-      "expiresAt": "",
+      "expiresAt": "2026-11-04T06:56:19.567Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-R4EW-YJJ7-9HDE",
@@ -1126,14 +1126,14 @@
     },
     {
       "code": "STARX-9PG5-7CAP-3FZB",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430158",
-      "expiresAt": "",
+      "expiresAt": "2026-11-04T07:06:10.617Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-B45R-S8H7-7EM4",
