@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-15T10:10:24.829Z",
+  "updatedAt": "2026-10-15T10:39:37.391Z",
   "publicFields": [
     "code",
     "status",
@@ -37,14 +37,14 @@
     },
     {
       "code": "STARX-MJAE-B96Q-GFEU",
-      "status": "active",
+      "status": "used",
       "plan": "90 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1792053563399",
-      "expiresAt": "",
+      "expiresAt": "2027-01-13T10:34:36.138Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-WQ93-QMDG-W7QJ",
