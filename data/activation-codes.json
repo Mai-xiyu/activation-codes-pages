@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-15T08:43:50.846Z",
+  "updatedAt": "2026-10-15T09:11:15.724Z",
   "publicFields": [
     "code",
     "status",
@@ -15,14 +15,14 @@
   "codes": [
     {
       "code": "STARX-62SP-PJA7-6FR5",
-      "status": "active",
+      "status": "used",
       "plan": "90 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1792053563399",
-      "expiresAt": "",
+      "expiresAt": "2027-01-13T08:59:03.405Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-M7SY-SPDY-P8SC",
