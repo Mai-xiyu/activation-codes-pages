@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-15T11:09:17.870Z",
+  "updatedAt": "2026-10-15T11:38:08.364Z",
   "publicFields": [
     "code",
     "status",
@@ -48,14 +48,14 @@
     },
     {
       "code": "STARX-WQ93-QMDG-W7QJ",
-      "status": "active",
+      "status": "used",
       "plan": "90 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1792053563399",
-      "expiresAt": "",
+      "expiresAt": "2027-01-13T11:15:03.462Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-FZ3M-4JZS-268K",
@@ -873,14 +873,14 @@
     },
     {
       "code": "STARX-UTUD-DGY7-5MBE",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430159",
-      "expiresAt": "",
+      "expiresAt": "2026-11-04T11:20:21.618Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-W58R-NGR5-W8FU",
