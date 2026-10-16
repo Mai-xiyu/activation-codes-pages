@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-16T01:43:55.868Z",
+  "updatedAt": "2026-10-16T02:13:45.648Z",
   "publicFields": [
     "code",
     "status",
@@ -950,14 +950,14 @@
     },
     {
       "code": "STARX-ZMCP-9455-2GBD",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430159",
-      "expiresAt": "",
+      "expiresAt": "2026-11-05T01:59:42.580Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2FR5-7PK6-S74J",
