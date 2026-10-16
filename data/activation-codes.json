@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-16T06:52:37.074Z",
+  "updatedAt": "2026-10-16T07:12:59.565Z",
   "publicFields": [
     "code",
     "status",
@@ -1709,14 +1709,14 @@
     },
     {
       "code": "STARX-ZS2V-L52F-G5R3",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430158",
-      "expiresAt": "",
+      "expiresAt": "2026-11-05T07:06:53.650Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-NTAP-DDHF-MVR9",
