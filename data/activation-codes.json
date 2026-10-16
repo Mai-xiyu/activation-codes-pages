@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-16T18:12:10.655Z",
+  "updatedAt": "2026-10-16T18:41:29.825Z",
   "publicFields": [
     "code",
     "status",
@@ -1236,14 +1236,14 @@
     },
     {
       "code": "STARX-D47K-DYSV-FW92",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430158",
-      "expiresAt": "",
+      "expiresAt": "2026-11-05T18:32:41.537Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-D5DF-AB58-SZEL",
