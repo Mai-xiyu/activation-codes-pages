@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-16T01:03:11.822Z",
+  "updatedAt": "2026-10-16T01:43:55.868Z",
   "publicFields": [
     "code",
     "status",
@@ -939,14 +939,14 @@
     },
     {
       "code": "STARX-YY2S-MCSY-S65A",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430159",
-      "expiresAt": "",
+      "expiresAt": "2026-11-05T01:25:53.274Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-ZMCP-9455-2GBD",
@@ -961,14 +961,14 @@
     },
     {
       "code": "STARX-2FR5-7PK6-S74J",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430158",
-      "expiresAt": "",
+      "expiresAt": "2026-11-05T01:27:10.616Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-2HDZ-P5KK-HWLY",
