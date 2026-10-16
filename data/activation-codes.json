@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-16T03:41:45.272Z",
+  "updatedAt": "2026-10-16T04:11:32.070Z",
   "publicFields": [
     "code",
     "status",
@@ -7759,7 +7759,7 @@
     },
     {
       "code": "STARX-N89X-3ZUK-K79C",
-      "status": "used",
+      "status": "expired",
       "plan": "15 天",
       "label": "已绑定设备",
       "issuedAt": "1790088699397",
