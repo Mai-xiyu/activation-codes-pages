@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-17T14:08:27.953Z",
+  "updatedAt": "2026-10-17T14:34:41.309Z",
   "publicFields": [
     "code",
     "status",
@@ -1313,14 +1313,14 @@
     },
     {
       "code": "STARX-HQVK-2SYG-8SU9",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430158",
-      "expiresAt": "",
+      "expiresAt": "2026-11-06T14:09:51.900Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-HT3C-Z35C-PGHT",
@@ -1665,14 +1665,14 @@
     },
     {
       "code": "STARX-XZDC-H8YX-28AS",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430158",
-      "expiresAt": "",
+      "expiresAt": "2026-11-06T14:10:38.841Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Y26K-PBUC-M5VU",
