@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-17T02:41:07.005Z",
+  "updatedAt": "2026-10-17T03:11:06.470Z",
   "publicFields": [
     "code",
     "status",
@@ -1258,14 +1258,14 @@
     },
     {
       "code": "STARX-D7TY-CV86-GWSS",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430158",
-      "expiresAt": "",
+      "expiresAt": "2026-11-06T02:42:00.615Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-E5AN-CAQY-4KQ5",
