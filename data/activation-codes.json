@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-17T04:39:34.514Z",
+  "updatedAt": "2026-10-17T05:09:11.037Z",
   "publicFields": [
     "code",
     "status",
@@ -1687,14 +1687,14 @@
     },
     {
       "code": "STARX-Y4GE-YFNY-7QZS",
-      "status": "active",
+      "status": "used",
       "plan": "20 天",
-      "label": "未使用",
+      "label": "已绑定设备",
       "issuedAt": "1791954430158",
-      "expiresAt": "",
+      "expiresAt": "2026-11-06T04:48:31.947Z",
       "maxUses": 1,
-      "remainingUses": 1,
-      "usedCount": 0
+      "remainingUses": 0,
+      "usedCount": 1
     },
     {
       "code": "STARX-Z246-J5JZ-KSTF",
